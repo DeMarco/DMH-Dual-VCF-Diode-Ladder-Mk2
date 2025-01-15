@@ -11,36 +11,18 @@
 	)
 	(lib_symbols)
 	(junction
-		(at 43.18 48.26)
+		(at 40.64 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0de5a080-de60-4eda-88e9-5677100f4335")
-	)
-	(junction
-		(at 48.26 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "aa351a77-2c89-49c4-9e80-d0458a76b66e")
-	)
-	(junction
-		(at 114.3 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b35c6de3-4853-446a-bcd2-482cba78e6f3")
-	)
-	(junction
-		(at 45.72 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ed1d559f-c73c-40e1-8939-15a287acfe99")
+		(uuid "ae62047c-d798-45a1-bc53-ba40c7f120dc")
 	)
 	(no_connect
-		(at 165.1 95.25)
-		(uuid "04bf58f4-d0cb-4d6d-973a-58f6aa426678")
+		(at 38.1 107.95)
+		(uuid "c3efc957-5c9a-4c4d-bff6-58ef546f2e50")
 	)
 	(wire
 		(pts
-			(xy 106.68 137.16) (xy 101.6 137.16)
+			(xy 119.38 137.16) (xy 114.3 137.16)
 		)
 		(stroke
 			(width 0)
@@ -50,17 +32,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 52.07) (xy 45.72 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0550aea1-cf90-40fd-a9e5-01824d8e2812")
-	)
-	(wire
-		(pts
-			(xy 106.68 175.26) (xy 106.68 137.16)
+			(xy 119.38 175.26) (xy 119.38 137.16)
 		)
 		(stroke
 			(width 0)
@@ -70,27 +42,17 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 153.67) (xy 48.26 153.67)
+			(xy 73.66 73.66) (xy 76.2 73.66)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0e21f989-4a6f-4ad8-b4b0-e98c25d65a6e")
+		(uuid "15611dea-1bb5-4768-883d-aa3f07165b79")
 	)
 	(wire
 		(pts
-			(xy 38.1 130.81) (xy 40.64 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f12e6f1-fa7c-4bc2-9068-f7e2997dbcfd")
-	)
-	(wire
-		(pts
-			(xy 110.49 48.26) (xy 101.6 48.26)
+			(xy 123.19 48.26) (xy 114.3 48.26)
 		)
 		(stroke
 			(width 0)
@@ -100,37 +62,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 99.06) (xy 63.5 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1996e4a8-15ba-44f6-9762-c634f6f341a4")
-	)
-	(wire
-		(pts
-			(xy 54.61 95.25) (xy 63.5 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2338548e-9cac-48c3-8b5a-6f4456d48a61")
-	)
-	(wire
-		(pts
-			(xy 38.1 138.43) (xy 43.18 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2476c132-dfd1-4212-9cdc-ca994c11ec35")
-	)
-	(wire
-		(pts
-			(xy 88.9 22.86) (xy 110.49 22.86)
+			(xy 101.6 22.86) (xy 123.19 22.86)
 		)
 		(stroke
 			(width 0)
@@ -140,67 +72,17 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 104.14) (xy 63.5 104.14)
+			(xy 73.66 85.09) (xy 73.66 73.66)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2ca61cb3-89fc-4211-8bab-a9ce57a7848d")
+		(uuid "2ebb231c-4c9d-464b-8c9a-cdb122f0384a")
 	)
 	(wire
 		(pts
-			(xy 48.26 156.21) (xy 48.26 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "304d950d-9e07-404a-827d-2053f3c12824")
-	)
-	(wire
-		(pts
-			(xy 38.1 44.45) (xy 63.5 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "324b8cae-5d1a-49fe-9e0c-7bdf9e11d16b")
-	)
-	(wire
-		(pts
-			(xy 50.8 140.97) (xy 50.8 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "348bf90b-931f-49ac-aaf0-98a702e704f9")
-	)
-	(wire
-		(pts
-			(xy 63.5 111.76) (xy 58.42 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "44596757-23bb-4dd7-a031-7f1d487eefce")
-	)
-	(wire
-		(pts
-			(xy 38.1 48.26) (xy 43.18 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "48bb55a3-66f6-4441-9be4-db00cad7ed9b")
-	)
-	(wire
-		(pts
-			(xy 101.6 133.35) (xy 110.49 133.35)
+			(xy 114.3 133.35) (xy 123.19 133.35)
 		)
 		(stroke
 			(width 0)
@@ -210,97 +92,47 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 140.97) (xy 50.8 140.97)
+			(xy 38.1 95.25) (xy 40.64 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "52f6b78d-88bb-45cf-8470-e30f85598c40")
+		(uuid "54a31105-c949-4e20-ba03-7bf61462e862")
 	)
 	(wire
 		(pts
-			(xy 40.64 71.12) (xy 38.1 71.12)
+			(xy 40.64 95.25) (xy 40.64 73.66)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "58096cba-d478-461c-b106-b0797ab1d8ad")
+		(uuid "5618438b-4258-4440-a062-f98a5b8ca4e1")
 	)
 	(wire
 		(pts
-			(xy 101.6 107.95) (xy 114.3 107.95)
+			(xy 76.2 175.26) (xy 73.66 175.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "59307c3d-dcd3-45a3-a89c-c8dfe1e28d28")
+		(uuid "6ff859aa-85cb-46f8-a87d-d4ab1f0d8a30")
 	)
 	(wire
 		(pts
-			(xy 38.1 161.29) (xy 63.5 161.29)
+			(xy 40.64 149.86) (xy 40.64 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "614704a3-2a5c-4305-87fa-0bb5aad2000b")
+		(uuid "70db4c61-23a5-4371-af61-c3d4ac30d6db")
 	)
 	(wire
 		(pts
-			(xy 38.1 156.21) (xy 48.26 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71cce7bf-02b7-44bf-84c3-6ec9ef5779ab")
-	)
-	(wire
-		(pts
-			(xy 58.42 91.44) (xy 58.42 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "79ac6820-f6b3-44d9-a60a-a1751b18f673")
-	)
-	(wire
-		(pts
-			(xy 43.18 138.43) (xy 43.18 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d1b34ba-70b9-4d7a-b6aa-244711174ae4")
-	)
-	(wire
-		(pts
-			(xy 58.42 138.43) (xy 63.5 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e502f40-196c-4783-9414-1458add9c7db")
-	)
-	(wire
-		(pts
-			(xy 54.61 107.95) (xy 63.5 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90cf4047-30c6-4d2d-8275-6291b2a23cb2")
-	)
-	(wire
-		(pts
-			(xy 105.41 44.45) (xy 105.41 27.94)
+			(xy 118.11 44.45) (xy 118.11 27.94)
 		)
 		(stroke
 			(width 0)
@@ -310,47 +142,17 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 55.88) (xy 48.26 22.86)
+			(xy 73.66 161.29) (xy 76.2 161.29)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "98ffe803-8b76-47e8-9a7a-d786433e2479")
+		(uuid "9a1be802-386c-4908-94a7-b810c306911e")
 	)
 	(wire
 		(pts
-			(xy 58.42 48.26) (xy 63.5 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9b984f4b-3832-4d2f-a347-cfb879d5bbfa")
-	)
-	(wire
-		(pts
-			(xy 48.26 153.67) (xy 48.26 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9f230e29-7877-45af-a14c-1af0eb8bfeb5")
-	)
-	(wire
-		(pts
-			(xy 48.26 22.86) (xy 63.5 22.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9fd2cb49-288e-46bb-bb0e-66c196441c48")
-	)
-	(wire
-		(pts
-			(xy 110.49 133.35) (xy 110.49 180.34)
+			(xy 123.19 133.35) (xy 123.19 180.34)
 		)
 		(stroke
 			(width 0)
@@ -360,27 +162,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 52.07) (xy 50.8 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5e853da-e6e8-41a7-a472-ad8269cdff68")
-	)
-	(wire
-		(pts
-			(xy 58.42 111.76) (xy 58.42 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a86114a5-785b-4d00-8ce1-ebd71d5adc8d")
-	)
-	(wire
-		(pts
-			(xy 88.9 175.26) (xy 106.68 175.26)
+			(xy 101.6 175.26) (xy 119.38 175.26)
 		)
 		(stroke
 			(width 0)
@@ -390,7 +172,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 22.86) (xy 110.49 48.26)
+			(xy 123.19 22.86) (xy 123.19 48.26)
 		)
 		(stroke
 			(width 0)
@@ -400,17 +182,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 146.05) (xy 45.72 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "adc13cb9-8eef-4aa3-a056-32ae621edc07")
-	)
-	(wire
-		(pts
-			(xy 105.41 27.94) (xy 88.9 27.94)
+			(xy 118.11 27.94) (xy 101.6 27.94)
 		)
 		(stroke
 			(width 0)
@@ -420,17 +192,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 63.5) (xy 63.5 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b2a077c9-58e4-4ba9-9606-f4c8c26b88d6")
-	)
-	(wire
-		(pts
-			(xy 101.6 44.45) (xy 105.41 44.45)
+			(xy 114.3 44.45) (xy 118.11 44.45)
 		)
 		(stroke
 			(width 0)
@@ -440,67 +202,27 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 148.59) (xy 54.61 107.95)
+			(xy 73.66 175.26) (xy 73.66 161.29)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b968b247-f848-44a7-b3c9-95abd0fbfcb7")
+		(uuid "c7e7d9f3-99a6-42bc-a731-830f414ed816")
 	)
 	(wire
 		(pts
-			(xy 43.18 48.26) (xy 54.61 48.26)
+			(xy 38.1 149.86) (xy 40.64 149.86)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c4a5f561-285a-477b-965c-b83739afc6c6")
+		(uuid "d2622b86-c167-4e38-93b2-fdf08abc7279")
 	)
 	(wire
 		(pts
-			(xy 38.1 55.88) (xy 48.26 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4e571cf-28d8-45dd-80c6-4c8345e57075")
-	)
-	(wire
-		(pts
-			(xy 45.72 52.07) (xy 50.8 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ca337fcb-a893-49b3-858c-dcb550954430")
-	)
-	(wire
-		(pts
-			(xy 48.26 175.26) (xy 63.5 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cda59166-0eb5-46ff-9483-b2232e5d1304")
-	)
-	(wire
-		(pts
-			(xy 40.64 130.81) (xy 40.64 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cffa52b3-5a4c-4e58-b937-256ef753a084")
-	)
-	(wire
-		(pts
-			(xy 110.49 180.34) (xy 88.9 180.34)
+			(xy 123.19 180.34) (xy 101.6 180.34)
 		)
 		(stroke
 			(width 0)
@@ -510,87 +232,27 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 146.05) (xy 45.72 146.05)
+			(xy 40.64 73.66) (xy 38.1 73.66)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e3236775-7913-4c78-8a9b-3d2b6a30ba2a")
+		(uuid "e025a550-cd99-43d8-9eca-e164632960b4")
 	)
 	(wire
 		(pts
-			(xy 38.1 133.35) (xy 63.5 133.35)
+			(xy 76.2 85.09) (xy 73.66 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e3f2cc9c-d999-4c21-9203-d103c177b048")
-	)
-	(wire
-		(pts
-			(xy 101.6 95.25) (xy 114.3 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6a32f58-b3a0-40c0-ba65-9af7718e9251")
-	)
-	(wire
-		(pts
-			(xy 114.3 95.25) (xy 114.3 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f0994f05-cfde-44c9-92b1-9136128ae546")
-	)
-	(wire
-		(pts
-			(xy 63.5 91.44) (xy 58.42 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f42b7fe7-3520-45a5-b3c5-ea7067c084c2")
-	)
-	(wire
-		(pts
-			(xy 114.3 107.95) (xy 165.1 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f79986e2-05a4-4aea-9db1-583cb845d357")
-	)
-	(wire
-		(pts
-			(xy 54.61 48.26) (xy 54.61 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f81e302c-3c80-47e0-b707-f312f0058aad")
-	)
-	(wire
-		(pts
-			(xy 38.1 148.59) (xy 54.61 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f86a074d-1590-4035-8e93-4e8918466838")
+		(uuid "ea0212be-bf15-49ab-a228-b1eab6dd23bf")
 	)
 	(sheet
-		(at 165.1 88.9)
-		(size 25.4 25.4)
+		(at 17.78 88.9)
+		(size 20.32 25.4)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -601,7 +263,7 @@
 		)
 		(uuid "0cdf34b2-39cd-4d9e-981a-97cd34791509")
 		(property "Sheetname" "Power"
-			(at 165.1 88.1884 0)
+			(at 17.78 88.1884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -610,7 +272,7 @@
 			)
 		)
 		(property "Sheetfile" "Power.kicad_sch"
-			(at 165.1 114.8846 0)
+			(at 17.78 114.8846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -620,27 +282,27 @@
 			)
 		)
 		(pin "Bus Gate" output
-			(at 165.1 95.25 180)
+			(at 38.1 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 			(uuid "35434339-bc2b-4868-9a18-95483283b276")
 		)
 		(pin "Bus CV" output
-			(at 165.1 107.95 180)
+			(at 38.1 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 			(uuid "0197176f-d754-4695-b74f-89d14faa0aea")
 		)
 		(instances
-			(project "DMH_Dual_VCF_Diode_Ladder_PCB"
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "9")
 				)
@@ -648,7 +310,7 @@
 		)
 	)
 	(sheet
-		(at 63.5 127)
+		(at 76.2 127)
 		(size 38.1 38.1)
 		(fields_autoplaced yes)
 		(stroke
@@ -660,7 +322,7 @@
 		)
 		(uuid "5770dcd3-eb9e-472f-b743-1e3eb22ed082")
 		(property "Sheetname" "Core Circuit B"
-			(at 63.5 126.2884 0)
+			(at 76.2 126.2884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -669,7 +331,7 @@
 			)
 		)
 		(property "Sheetfile" "Core_Circuit_B.kicad_sch"
-			(at 63.5 165.6846 0)
+			(at 76.2 165.6846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -679,7 +341,7 @@
 			)
 		)
 		(pin "Output" output
-			(at 63.5 161.29 180)
+			(at 76.2 161.29 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -689,7 +351,7 @@
 			(uuid "824ef3c1-8d70-4ca7-882a-a32dfb81527f")
 		)
 		(pin "Input" input
-			(at 63.5 133.35 180)
+			(at 76.2 133.35 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -699,7 +361,7 @@
 			(uuid "bcef8807-861a-4d95-b13b-d41a91dc844c")
 		)
 		(pin "Res Input" input
-			(at 101.6 137.16 0)
+			(at 114.3 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -709,7 +371,7 @@
 			(uuid "b7a34321-2d41-4484-92ec-d4d23de604d5")
 		)
 		(pin "Raw Output" output
-			(at 101.6 133.35 0)
+			(at 114.3 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -719,7 +381,7 @@
 			(uuid "4832c5e1-a160-43b2-a24e-b935623ff9d1")
 		)
 		(pin "CV" input
-			(at 63.5 138.43 180)
+			(at 76.2 129.54 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -729,7 +391,7 @@
 			(uuid "859a537d-346b-4852-840d-d21ccb349166")
 		)
 		(instances
-			(project "DMH_Dual_VCF_Diode_Ladder_PCB"
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "6")
 				)
@@ -737,7 +399,7 @@
 		)
 	)
 	(sheet
-		(at 63.5 38.1)
+		(at 76.2 38.1)
 		(size 38.1 38.1)
 		(fields_autoplaced yes)
 		(stroke
@@ -749,7 +411,7 @@
 		)
 		(uuid "7ad2d702-dfb7-4d49-a82d-34430dd5948f")
 		(property "Sheetname" "Core Circuit A"
-			(at 63.5 37.3884 0)
+			(at 76.2 37.3884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -758,7 +420,7 @@
 			)
 		)
 		(property "Sheetfile" "Core_Circuit_A.kicad_sch"
-			(at 63.5 76.7846 0)
+			(at 76.2 76.7846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -768,7 +430,7 @@
 			)
 		)
 		(pin "Output" output
-			(at 63.5 63.5 180)
+			(at 76.2 69.85 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -778,7 +440,7 @@
 			(uuid "2ac4b1a4-34c1-4db4-980a-cb367d4c33e2")
 		)
 		(pin "Input" input
-			(at 63.5 44.45 180)
+			(at 76.2 44.45 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -788,7 +450,7 @@
 			(uuid "3d751bb9-bc86-4e9e-b126-7a702b24f8d2")
 		)
 		(pin "Res Input" input
-			(at 101.6 48.26 0)
+			(at 114.3 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -798,7 +460,7 @@
 			(uuid "6567e6d9-c4a8-4cc8-9f65-8f2af85846ff")
 		)
 		(pin "Raw Output" output
-			(at 101.6 44.45 0)
+			(at 114.3 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -808,7 +470,7 @@
 			(uuid "50835797-2993-4f04-8087-d43d338e1667")
 		)
 		(pin "CV" input
-			(at 63.5 48.26 180)
+			(at 76.2 73.66 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -818,7 +480,7 @@
 			(uuid "14a92ebc-2d16-4e2d-a395-2b6edd22de99")
 		)
 		(instances
-			(project "DMH_Dual_VCF_Diode_Ladder_PCB"
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "5")
 				)
@@ -826,7 +488,7 @@
 		)
 	)
 	(sheet
-		(at 63.5 19.05)
+		(at 76.2 19.05)
 		(size 25.4 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -838,7 +500,7 @@
 		)
 		(uuid "ad5c5475-8483-41b0-97cc-617422d54799")
 		(property "Sheetname" "Resonance A CV"
-			(at 63.5 18.3384 0)
+			(at 76.2 18.3384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -847,7 +509,7 @@
 			)
 		)
 		(property "Sheetfile" "Resonance_A_CV.kicad_sch"
-			(at 63.5 32.3346 0)
+			(at 76.2 32.3346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -857,7 +519,7 @@
 			)
 		)
 		(pin "Input" input
-			(at 88.9 27.94 0)
+			(at 101.6 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -867,7 +529,7 @@
 			(uuid "759dbb16-01a1-47a3-a42b-9aac215e21f7")
 		)
 		(pin "Output" output
-			(at 88.9 22.86 0)
+			(at 101.6 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -877,7 +539,7 @@
 			(uuid "8ebeeb78-af77-44a1-9eb9-5d05b3f2be12")
 		)
 		(pin "Res CV Input" input
-			(at 63.5 22.86 180)
+			(at 76.2 22.86 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -887,7 +549,7 @@
 			(uuid "5e2f43c0-0bbd-45b5-b465-8ad353600128")
 		)
 		(instances
-			(project "DMH_Dual_VCF_Diode_Ladder_PCB"
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "7")
 				)
@@ -926,7 +588,7 @@
 			)
 		)
 		(pin "Output Jack" input
-			(at 38.1 63.5 0)
+			(at 38.1 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -966,7 +628,7 @@
 			(uuid "371c4516-13c1-4a0f-8a4f-05e2b95ce388")
 		)
 		(pin "Res CV Jack" output
-			(at 38.1 55.88 0)
+			(at 38.1 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -975,18 +637,38 @@
 			)
 			(uuid "c9a6071c-bf2c-48ab-8517-dacace690546")
 		)
-		(pin "Feed Switch" output
-			(at 38.1 71.12 0)
+		(pin "CV 3 Jack" output
+			(at 38.1 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "ba140d83-99f0-45de-ab8f-bb3cb864d84b")
+			(uuid "1cb370ea-3a3c-44a0-9fbe-b104757df6cc")
+		)
+		(pin "Drive CV Jack" output
+			(at 38.1 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b2d820bb-c772-469a-b050-690363f0cab9")
+		)
+		(pin "CV 3 TN" input
+			(at 38.1 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "714ea5d8-733e-4afe-a46c-b65a9b4e5759")
 		)
 		(instances
-			(project "DMH_Dual_VCF_Diode_Ladder_PCB"
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "2")
 				)
@@ -994,8 +676,8 @@
 		)
 	)
 	(sheet
-		(at 63.5 88.9)
-		(size 38.1 25.4)
+		(at 76.2 82.55)
+		(size 38.1 38.1)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1006,7 +688,7 @@
 		)
 		(uuid "ec2d44bc-ed06-4f0b-a22e-df640fa5e089")
 		(property "Sheetname" "CV Processing"
-			(at 63.5 88.1884 0)
+			(at 76.2 81.8384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1015,7 +697,7 @@
 			)
 		)
 		(property "Sheetfile" "CV_Processing.kicad_sch"
-			(at 63.5 114.8846 0)
+			(at 76.2 121.2346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1025,7 +707,7 @@
 			)
 		)
 		(pin "CV A" output
-			(at 63.5 91.44 180)
+			(at 76.2 85.09 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1034,18 +716,8 @@
 			)
 			(uuid "5c8ec3db-a5bb-4825-b2f3-ed08c540010e")
 		)
-		(pin "Bus CV B Input" input
-			(at 101.6 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "25a4c279-1af3-457a-b902-203740473df8")
-		)
 		(pin "CV1 B Input" input
-			(at 63.5 104.14 180)
+			(at 76.2 106.68 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1055,7 +727,7 @@
 			(uuid "849669a4-586a-4144-aaaf-708d4277edda")
 		)
 		(pin "CV2 B Input" input
-			(at 63.5 107.95 180)
+			(at 76.2 110.49 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1065,7 +737,7 @@
 			(uuid "2446d5b8-c527-42a6-82e3-afe03ec6bcdf")
 		)
 		(pin "CV1 A Input" input
-			(at 63.5 95.25 180)
+			(at 76.2 88.9 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1074,18 +746,8 @@
 			)
 			(uuid "7fee05fc-ab9e-4f56-8220-ff4043829c09")
 		)
-		(pin "Bus CV A Input" input
-			(at 101.6 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "f7d90f38-4baf-4ed5-8a4b-7ef971b22eda")
-		)
 		(pin "CV2 A Input" input
-			(at 63.5 99.06 180)
+			(at 76.2 92.71 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1094,8 +756,8 @@
 			)
 			(uuid "888b3a4b-ebdb-40ac-8a64-6ded6ede7a04")
 		)
-		(pin "Link Switch" output
-			(at 63.5 111.76 180)
+		(pin "Link CV Switch" output
+			(at 76.2 118.11 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1104,8 +766,28 @@
 			)
 			(uuid "122885cd-c4d5-4a4a-8bab-9a984b057435")
 		)
+		(pin "CV3 A Input" input
+			(at 76.2 96.52 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "bc9deaca-2561-45a7-94dc-c5b28c14cbc6")
+		)
+		(pin "CV3 B Input" input
+			(at 76.2 114.3 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f2ee901e-a8b2-43b8-b7e3-88ac6c40c236")
+		)
 		(instances
-			(project "DMH_Dual_VCF_Diode_Ladder_PCB"
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "4")
 				)
@@ -1113,7 +795,7 @@
 		)
 	)
 	(sheet
-		(at 63.5 171.45)
+		(at 76.2 171.45)
 		(size 25.4 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -1125,7 +807,7 @@
 		)
 		(uuid "f0045393-e1d0-4de8-baba-b9053cd8a11d")
 		(property "Sheetname" "Resonance B CV"
-			(at 63.5 170.7384 0)
+			(at 76.2 170.7384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1134,7 +816,7 @@
 			)
 		)
 		(property "Sheetfile" "Resonance_B_CV.kicad_sch"
-			(at 63.5 184.7346 0)
+			(at 76.2 184.7346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1144,7 +826,7 @@
 			)
 		)
 		(pin "Input" input
-			(at 88.9 180.34 0)
+			(at 101.6 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1154,7 +836,7 @@
 			(uuid "7a69cbeb-5ba7-4387-8c38-90749046f909")
 		)
 		(pin "Output" output
-			(at 88.9 175.26 0)
+			(at 101.6 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1164,7 +846,7 @@
 			(uuid "892a7498-a14f-4085-8932-564d9a487533")
 		)
 		(pin "Res CV Input" input
-			(at 63.5 175.26 180)
+			(at 76.2 175.26 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1174,7 +856,7 @@
 			(uuid "a1631f6c-3060-4c2a-9be6-4e437fe6f030")
 		)
 		(instances
-			(project "DMH_Dual_VCF_Diode_Ladder_PCB"
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "8")
 				)
@@ -1183,7 +865,7 @@
 	)
 	(sheet
 		(at 17.8605 127.0805)
-		(size 20.2395 38.1)
+		(size 20.2395 50.7195)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1203,7 +885,7 @@
 			)
 		)
 		(property "Sheetfile" "Inputs_and_Outputs_B.kicad_sch"
-			(at 17.8605 165.7651 0)
+			(at 17.8605 178.3846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1213,7 +895,7 @@
 			)
 		)
 		(pin "CV 2 Jack" output
-			(at 38.1 148.59 0)
+			(at 38.1 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1223,7 +905,7 @@
 			(uuid "5cbf7505-96bc-4bc5-89db-ef9d6841d143")
 		)
 		(pin "Output Jack" input
-			(at 38.1 161.29 0)
+			(at 38.1 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1233,7 +915,7 @@
 			(uuid "2544ea5a-6255-4365-9174-3f9d2181590e")
 		)
 		(pin "Res CV Jack" output
-			(at 38.1 156.21 0)
+			(at 38.1 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1253,7 +935,7 @@
 			(uuid "de6662d5-25b4-4fed-869a-febe2813a33e")
 		)
 		(pin "CV 1 Jack" output
-			(at 38.1 140.97 0)
+			(at 38.1 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1273,7 +955,7 @@
 			(uuid "0f1800c1-7acd-4145-abf8-d38e60b9ff68")
 		)
 		(pin "CV1 TN" input
-			(at 38.1 138.43 0)
+			(at 38.1 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1283,7 +965,7 @@
 			(uuid "afa8bfe7-3410-470c-803d-0c4e641f6065")
 		)
 		(pin "CV2 TN" input
-			(at 38.1 146.05 0)
+			(at 38.1 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1293,7 +975,7 @@
 			(uuid "16ea75c7-0728-4437-ace9-eb9a006d6731")
 		)
 		(pin "Res CV TN" input
-			(at 38.1 153.67 0)
+			(at 38.1 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1302,8 +984,48 @@
 			)
 			(uuid "16466809-61b0-4623-9987-b064c02cedda")
 		)
+		(pin "CV 3 Jack" output
+			(at 38.1 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "688f8483-60f4-4b56-a0e2-9cfe97395e1d")
+		)
+		(pin "Drive CV Jack" output
+			(at 38.1 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a373a1db-15f6-410b-9db3-62e31feed4b1")
+		)
+		(pin "CV3 TN" input
+			(at 38.1 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0670c7ac-69da-4eb8-a5c4-69155f157fcf")
+		)
+		(pin "Drive CV TN" input
+			(at 38.1 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "129e3172-64aa-42af-b75b-c290016a58ce")
+		)
 		(instances
-			(project "DMH_Dual_VCF_Diode_Ladder_PCB"
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "3")
 				)
