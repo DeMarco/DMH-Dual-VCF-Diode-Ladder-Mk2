@@ -1651,7 +1651,7 @@
 		(on_board no)
 		(dnp no)
 		(uuid "229bbfe2-58f4-4390-842d-eea2760b8e21")
-		(property "Reference" "J5"
+		(property "Reference" "J7"
 			(at 50.165 181.61 0)
 			(effects
 				(font
@@ -1717,7 +1717,7 @@
 		(instances
 			(project "DMH_Dual_VCF_Diode_Ladder_PCB"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "J5")
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -1732,7 +1732,7 @@
 		(on_board no)
 		(dnp no)
 		(uuid "27f61696-4013-4b4f-bbb7-18fe57ad12f5")
-		(property "Reference" "J12"
+		(property "Reference" "J5"
 			(at 50.165 130.81 0)
 			(effects
 				(font
@@ -1798,7 +1798,7 @@
 		(instances
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "J12")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -1813,7 +1813,7 @@
 		(on_board no)
 		(dnp no)
 		(uuid "52b60ce2-96ad-4f26-bbd8-34426eebcb92")
-		(property "Reference" "J11"
+		(property "Reference" "J4"
 			(at 50.165 105.41 0)
 			(effects
 				(font
@@ -1879,7 +1879,7 @@
 		(instances
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "J11")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -2199,7 +2199,7 @@
 		(on_board no)
 		(dnp no)
 		(uuid "bae99c45-b69b-43c5-80da-1e68ffd5fccf")
-		(property "Reference" "J4"
+		(property "Reference" "J6"
 			(at 50.165 156.21 0)
 			(effects
 				(font
@@ -2265,7 +2265,7 @@
 		(instances
 			(project "DMH_Dual_VCF_Diode_Ladder_PCB"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "J4")
+					(reference "J6")
 					(unit 1)
 				)
 			)
