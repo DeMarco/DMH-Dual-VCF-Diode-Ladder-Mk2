@@ -22,7 +22,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 137.16) (xy 114.3 137.16)
+			(xy 119.38 134.62) (xy 114.3 134.62)
 		)
 		(stroke
 			(width 0)
@@ -42,7 +42,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 175.26) (xy 119.38 137.16)
+			(xy 119.38 156.21) (xy 119.38 134.62)
 		)
 		(stroke
 			(width 0)
@@ -62,16 +62,6 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 48.26) (xy 114.3 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "176d286f-80cf-4261-b28b-0f8e3b89fe88")
-	)
-	(wire
-		(pts
 			(xy 73.66 129.54) (xy 76.2 129.54)
 		)
 		(stroke
@@ -82,7 +72,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 22.86) (xy 123.19 22.86)
+			(xy 101.6 41.91) (xy 123.19 41.91)
 		)
 		(stroke
 			(width 0)
@@ -102,13 +92,33 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 133.35) (xy 123.19 133.35)
+			(xy 114.3 62.23) (xy 118.11 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38db5cc9-7864-42b5-96b3-f54ad77659d6")
+	)
+	(wire
+		(pts
+			(xy 114.3 130.81) (xy 123.19 130.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "4d9e7297-09e9-4ab8-bb61-3f2449e7fd9a")
+	)
+	(wire
+		(pts
+			(xy 118.11 62.23) (xy 118.11 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fab343e-57f8-4157-af3d-20d08204e64b")
 	)
 	(wire
 		(pts
@@ -132,16 +142,6 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 175.26) (xy 73.66 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ff859aa-85cb-46f8-a87d-d4ab1f0d8a30")
-	)
-	(wire
-		(pts
 			(xy 40.64 149.86) (xy 40.64 95.25)
 		)
 		(stroke
@@ -152,27 +152,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 44.45) (xy 118.11 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9564c40b-650d-4302-9685-0bd877ff5975")
-	)
-	(wire
-		(pts
-			(xy 73.66 161.29) (xy 76.2 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a1be802-386c-4908-94a7-b810c306911e")
-	)
-	(wire
-		(pts
-			(xy 123.19 133.35) (xy 123.19 180.34)
+			(xy 123.19 130.81) (xy 123.19 161.29)
 		)
 		(stroke
 			(width 0)
@@ -182,7 +162,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 175.26) (xy 119.38 175.26)
+			(xy 101.6 156.21) (xy 119.38 156.21)
 		)
 		(stroke
 			(width 0)
@@ -192,7 +172,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 22.86) (xy 123.19 48.26)
+			(xy 123.19 41.91) (xy 123.19 66.04)
 		)
 		(stroke
 			(width 0)
@@ -202,33 +182,13 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 27.94) (xy 101.6 27.94)
+			(xy 118.11 46.99) (xy 101.6 46.99)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "b1720a31-9662-4e79-8571-edcc99f81cc9")
-	)
-	(wire
-		(pts
-			(xy 114.3 44.45) (xy 118.11 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b6a0ca2a-b8c0-4005-98ed-469f2d0ed8b0")
-	)
-	(wire
-		(pts
-			(xy 73.66 175.26) (xy 73.66 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7e7d9f3-99a6-42bc-a731-830f414ed816")
 	)
 	(wire
 		(pts
@@ -242,7 +202,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 180.34) (xy 101.6 180.34)
+			(xy 123.19 161.29) (xy 101.6 161.29)
 		)
 		(stroke
 			(width 0)
@@ -269,6 +229,16 @@
 			(type default)
 		)
 		(uuid "e025a550-cd99-43d8-9eca-e164632960b4")
+	)
+	(wire
+		(pts
+			(xy 114.3 66.04) (xy 123.19 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5c0260a-822d-4e03-83d4-ef4cdf9cbac6")
 	)
 	(wire
 		(pts
@@ -341,7 +311,7 @@
 	)
 	(sheet
 		(at 76.2 127)
-		(size 38.1 38.1)
+		(size 38.1 19.05)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -361,7 +331,7 @@
 			)
 		)
 		(property "Sheetfile" "Core_Circuit_B.kicad_sch"
-			(at 76.2 165.6846 0)
+			(at 76.2 146.6346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -371,7 +341,7 @@
 			)
 		)
 		(pin "Output" output
-			(at 76.2 161.29 180)
+			(at 76.2 142.24 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -381,7 +351,7 @@
 			(uuid "824ef3c1-8d70-4ca7-882a-a32dfb81527f")
 		)
 		(pin "Input" input
-			(at 76.2 133.35 180)
+			(at 76.2 135.89 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -391,7 +361,7 @@
 			(uuid "bcef8807-861a-4d95-b13b-d41a91dc844c")
 		)
 		(pin "Res Input" input
-			(at 114.3 137.16 0)
+			(at 114.3 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -401,7 +371,7 @@
 			(uuid "b7a34321-2d41-4484-92ec-d4d23de604d5")
 		)
 		(pin "Raw Output" output
-			(at 114.3 133.35 0)
+			(at 114.3 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -429,8 +399,87 @@
 		)
 	)
 	(sheet
-		(at 76.2 38.1)
-		(size 38.1 38.1)
+		(at 76.2 19.05)
+		(size 25.4 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "76f3ab41-888d-43b6-843a-2a995f9c890b")
+		(property "Sheetname" "Drive A"
+			(at 76.2 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Drive_A.kicad_sch"
+			(at 76.2 32.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Input" input
+			(at 101.6 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d538a505-0803-4f76-865e-a0bc33415bef")
+		)
+		(pin "Output" output
+			(at 101.6 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "35bf57e3-48c5-41b0-843d-d0fb2b4d7770")
+		)
+		(pin "Drive CV Input" input
+			(at 76.2 22.86 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ef1b89a2-5e0d-43a0-ae25-8c76fb42ed32")
+		)
+		(pin "Drive CV" output
+			(at 76.2 27.94 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ee606573-3449-4bcc-a78b-972a7d448d91")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 57.15)
+		(size 38.1 19.05)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -441,7 +490,7 @@
 		)
 		(uuid "7ad2d702-dfb7-4d49-a82d-34430dd5948f")
 		(property "Sheetname" "Core Circuit A"
-			(at 76.2 37.3884 0)
+			(at 76.2 56.4384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -460,7 +509,7 @@
 			)
 		)
 		(pin "Output" output
-			(at 76.2 69.85 180)
+			(at 76.2 60.96 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -470,7 +519,7 @@
 			(uuid "2ac4b1a4-34c1-4db4-980a-cb367d4c33e2")
 		)
 		(pin "Input" input
-			(at 76.2 44.45 180)
+			(at 76.2 67.31 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -480,7 +529,7 @@
 			(uuid "3d751bb9-bc86-4e9e-b126-7a702b24f8d2")
 		)
 		(pin "Res Input" input
-			(at 114.3 48.26 0)
+			(at 114.3 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -490,7 +539,7 @@
 			(uuid "6567e6d9-c4a8-4cc8-9f65-8f2af85846ff")
 		)
 		(pin "Raw Output" output
-			(at 114.3 44.45 0)
+			(at 114.3 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -518,7 +567,7 @@
 		)
 	)
 	(sheet
-		(at 76.2 19.05)
+		(at 76.2 38.1)
 		(size 25.4 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -530,7 +579,7 @@
 		)
 		(uuid "ad5c5475-8483-41b0-97cc-617422d54799")
 		(property "Sheetname" "Resonance A CV"
-			(at 76.2 18.3384 0)
+			(at 76.2 37.3884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -539,7 +588,7 @@
 			)
 		)
 		(property "Sheetfile" "Resonance_A_CV.kicad_sch"
-			(at 76.2 32.3346 0)
+			(at 76.2 51.3846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -549,7 +598,7 @@
 			)
 		)
 		(pin "Input" input
-			(at 101.6 27.94 0)
+			(at 101.6 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -559,7 +608,7 @@
 			(uuid "759dbb16-01a1-47a3-a42b-9aac215e21f7")
 		)
 		(pin "Output" output
-			(at 101.6 22.86 0)
+			(at 101.6 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -569,7 +618,7 @@
 			(uuid "8ebeeb78-af77-44a1-9eb9-5d05b3f2be12")
 		)
 		(pin "Res CV Input" input
-			(at 76.2 22.86 180)
+			(at 76.2 41.91 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -825,7 +874,7 @@
 		)
 	)
 	(sheet
-		(at 76.2 171.45)
+		(at 76.2 152.4)
 		(size 25.4 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -837,7 +886,7 @@
 		)
 		(uuid "f0045393-e1d0-4de8-baba-b9053cd8a11d")
 		(property "Sheetname" "Resonance B CV"
-			(at 76.2 170.7384 0)
+			(at 76.2 151.6884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -846,7 +895,7 @@
 			)
 		)
 		(property "Sheetfile" "Resonance_B_CV.kicad_sch"
-			(at 76.2 184.7346 0)
+			(at 76.2 165.6846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -856,7 +905,7 @@
 			)
 		)
 		(pin "Input" input
-			(at 101.6 180.34 0)
+			(at 101.6 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -866,7 +915,7 @@
 			(uuid "7a69cbeb-5ba7-4387-8c38-90749046f909")
 		)
 		(pin "Output" output
-			(at 101.6 175.26 0)
+			(at 101.6 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -876,7 +925,7 @@
 			(uuid "892a7498-a14f-4085-8932-564d9a487533")
 		)
 		(pin "Res CV Input" input
-			(at 76.2 175.26 180)
+			(at 76.2 156.21 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1058,6 +1107,85 @@
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 171.45)
+		(size 25.4 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fc37885e-257b-42ac-a311-5adb1094134c")
+		(property "Sheetname" "Drive B"
+			(at 76.2 170.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Drive_B.kicad_sch"
+			(at 76.2 184.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Input" input
+			(at 101.6 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "76ec093b-f182-4184-8aea-15e8c3005cea")
+		)
+		(pin "Output" output
+			(at 101.6 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c29129d3-04ed-4883-b3db-17e99fc46c78")
+		)
+		(pin "Drive CV Input" input
+			(at 76.2 175.26 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d1efd5f0-5a64-4907-9e87-adacfa09e3d2")
+		)
+		(pin "Drive CV" output
+			(at 76.2 180.34 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "0655071e-d750-48de-8ad9-f26361191d0a")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "11")
 				)
 			)
 		)

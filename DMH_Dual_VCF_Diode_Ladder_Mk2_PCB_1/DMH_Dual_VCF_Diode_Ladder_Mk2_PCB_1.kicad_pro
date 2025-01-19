@@ -725,6 +725,14 @@
     [
       "0cdf34b2-39cd-4d9e-981a-97cd34791509",
       "Power"
+    ],
+    [
+      "76f3ab41-888d-43b6-843a-2a995f9c890b",
+      "Drive A"
+    ],
+    [
+      "fc37885e-257b-42ac-a311-5adb1094134c",
+      "Drive B"
     ]
   ],
   "text_variables": {}
