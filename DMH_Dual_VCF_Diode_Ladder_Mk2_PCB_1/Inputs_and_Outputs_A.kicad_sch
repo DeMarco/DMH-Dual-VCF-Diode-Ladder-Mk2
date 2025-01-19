@@ -1468,7 +1468,6 @@
 	(hierarchical_label "CV 3 Jack"
 		(shape output)
 		(at 165.1 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1480,7 +1479,6 @@
 	(hierarchical_label "CV 2 Jack"
 		(shape output)
 		(at 165.1 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1492,7 +1490,6 @@
 	(hierarchical_label "Drive CV Jack"
 		(shape output)
 		(at 165.1 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1504,7 +1501,6 @@
 	(hierarchical_label "Output Jack"
 		(shape input)
 		(at 165.1 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1516,7 +1512,6 @@
 	(hierarchical_label "Res CV Jack"
 		(shape output)
 		(at 165.1 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1528,7 +1523,6 @@
 	(hierarchical_label "Input Jack"
 		(shape output)
 		(at 165.1 119.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1540,7 +1534,6 @@
 	(hierarchical_label "CV 1 Jack"
 		(shape output)
 		(at 165.1 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1552,7 +1545,6 @@
 	(hierarchical_label "CV 3 TN"
 		(shape input)
 		(at 165.1 107.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
