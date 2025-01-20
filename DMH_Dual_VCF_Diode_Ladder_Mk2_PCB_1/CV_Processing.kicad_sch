@@ -5,7 +5,8 @@
 	(uuid "bc664a52-240d-4116-8584-d117a86ab062")
 	(paper "A4" portrait)
 	(title_block
-		(comment 1 "PCB for 10cm Kosmo format synthesizer module")
+		(company "DMH Instruments")
+		(comment 1 "PCB for 15cm Kosmo format synthesizer module")
 	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:TL074"
@@ -5864,28 +5865,28 @@
 			)
 		)
 		(pin "1"
-			(uuid "231ec510-33b1-4fde-9ca8-0b7c603ebfef")
+			(uuid "231ec510-33b1-4fde-9ca8-0b7c603ebff0")
 		)
 		(pin "3"
-			(uuid "e177fa59-9b27-41aa-ac2b-33b7aea99a17")
+			(uuid "e177fa59-9b27-41aa-ac2b-33b7aea99a18")
 		)
 		(pin "2"
-			(uuid "a434426f-c866-4aa7-a6f5-4408cfae1d5a")
+			(uuid "a434426f-c866-4aa7-a6f5-4408cfae1d5b")
 		)
 		(pin "5"
-			(uuid "a8b11460-cba9-4dbc-912c-6f1e6af37842")
+			(uuid "a8b11460-cba9-4dbc-912c-6f1e6af37843")
 		)
 		(pin "6"
-			(uuid "efc4418e-7f93-4183-93fe-b3a01f7e5637")
+			(uuid "efc4418e-7f93-4183-93fe-b3a01f7e5638")
 		)
 		(pin "4"
-			(uuid "449b5b51-1873-4b10-814e-ff1a2dbd502a")
+			(uuid "449b5b51-1873-4b10-814e-ff1a2dbd502b")
 		)
 		(pin "7"
 			(uuid "6502ae82-c544-4588-b55c-93f75e9b3ec5")
 		)
 		(pin "8"
-			(uuid "6ca1c490-f50b-42c2-8c61-ed0a9f4d43a9")
+			(uuid "6ca1c490-f50b-42c2-8c61-ed0a9f4d43aa")
 		)
 		(instances
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"

@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(company "DMH Instruments")
-		(comment 1 "PCB for 10cm Kosmo format synthesizer module")
+		(comment 1 "PCB for 15cm Kosmo format synthesizer module")
 	)
 	(lib_symbols
 		(symbol "SynthStuff:BackBone_Connector_10Pin"

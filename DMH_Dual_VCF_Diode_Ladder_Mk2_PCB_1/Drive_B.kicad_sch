@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(company "DMH Instruments")
-		(comment 1 "PCB for 10cm Kosmo format synthesizer module")
+		(comment 1 "PCB for 15cm Kosmo format synthesizer module")
 	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:TL074"
@@ -4352,22 +4352,22 @@
 			)
 		)
 		(pin "4"
-			(uuid "6f948b82-f36c-4419-b827-e0c6a8f09bb9")
+			(uuid "6f948b82-f36c-4419-b827-e0c6a8f09bba")
 		)
 		(pin "5"
-			(uuid "6aa129a8-ea96-4d2c-8201-2d3b6996745f")
+			(uuid "6aa129a8-ea96-4d2c-8201-2d3b69967460")
 		)
 		(pin "6"
-			(uuid "110bbb04-e417-4e42-8375-0082194d1448")
+			(uuid "110bbb04-e417-4e42-8375-0082194d1449")
 		)
 		(pin "2"
-			(uuid "56db4add-b67e-4b2b-946a-902ae149c4e1")
+			(uuid "56db4add-b67e-4b2b-946a-902ae149c4e2")
 		)
 		(pin "1"
-			(uuid "cb6bdba3-7aed-41c0-81a7-b59abc501fa8")
+			(uuid "cb6bdba3-7aed-41c0-81a7-b59abc501fa9")
 		)
 		(pin "3"
-			(uuid "2df38dc1-6b25-453d-a84d-17c3a4aaddd4")
+			(uuid "2df38dc1-6b25-453d-a84d-17c3a4aaddd5")
 		)
 		(instances
 			(project ""
@@ -5809,22 +5809,22 @@
 			)
 		)
 		(pin "4"
-			(uuid "6f948b82-f36c-4419-b827-e0c6a8f09bb9")
+			(uuid "6f948b82-f36c-4419-b827-e0c6a8f09bbb")
 		)
 		(pin "5"
-			(uuid "6aa129a8-ea96-4d2c-8201-2d3b6996745f")
+			(uuid "6aa129a8-ea96-4d2c-8201-2d3b69967461")
 		)
 		(pin "6"
-			(uuid "110bbb04-e417-4e42-8375-0082194d1448")
+			(uuid "110bbb04-e417-4e42-8375-0082194d144a")
 		)
 		(pin "2"
-			(uuid "56db4add-b67e-4b2b-946a-902ae149c4e1")
+			(uuid "56db4add-b67e-4b2b-946a-902ae149c4e3")
 		)
 		(pin "1"
-			(uuid "cb6bdba3-7aed-41c0-81a7-b59abc501fa8")
+			(uuid "cb6bdba3-7aed-41c0-81a7-b59abc501faa")
 		)
 		(pin "3"
-			(uuid "2df38dc1-6b25-453d-a84d-17c3a4aaddd4")
+			(uuid "2df38dc1-6b25-453d-a84d-17c3a4aaddd6")
 		)
 		(instances
 			(project ""

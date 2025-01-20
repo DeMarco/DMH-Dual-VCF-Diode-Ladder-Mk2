@@ -3,26 +3,26 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "58f4306d-5387-4983-bb08-41a2313fd315")
-	(paper "A4")
+	(paper "A4" portrait)
 	(title_block
 		(rev "1")
 		(company "DMH Instruments")
-		(comment 1 "PCB for 10cm Kosmo format synthesizer module")
+		(comment 1 "PCB for 15cm Kosmo format synthesizer module")
 	)
 	(lib_symbols)
 	(junction
-		(at 40.64 95.25)
+		(at 40.64 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ae62047c-d798-45a1-bc53-ba40c7f120dc")
 	)
 	(no_connect
-		(at 38.1 107.95)
+		(at 38.1 133.35)
 		(uuid "c3efc957-5c9a-4c4d-bff6-58ef546f2e50")
 	)
 	(wire
 		(pts
-			(xy 119.38 134.62) (xy 114.3 134.62)
+			(xy 119.38 160.02) (xy 114.3 160.02)
 		)
 		(stroke
 			(width 0)
@@ -32,7 +32,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 118.11) (xy 73.66 129.54)
+			(xy 73.66 143.51) (xy 73.66 154.94)
 		)
 		(stroke
 			(width 0)
@@ -42,7 +42,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 156.21) (xy 119.38 134.62)
+			(xy 119.38 219.71) (xy 119.38 160.02)
 		)
 		(stroke
 			(width 0)
@@ -52,7 +52,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 73.66) (xy 76.2 73.66)
+			(xy 73.66 99.06) (xy 76.2 99.06)
 		)
 		(stroke
 			(width 0)
@@ -62,7 +62,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 129.54) (xy 76.2 129.54)
+			(xy 73.66 154.94) (xy 76.2 154.94)
 		)
 		(stroke
 			(width 0)
@@ -72,7 +72,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 41.91) (xy 123.19 41.91)
+			(xy 101.6 29.21) (xy 123.19 29.21)
 		)
 		(stroke
 			(width 0)
@@ -82,7 +82,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 85.09) (xy 73.66 73.66)
+			(xy 73.66 110.49) (xy 73.66 99.06)
 		)
 		(stroke
 			(width 0)
@@ -92,7 +92,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 62.23) (xy 118.11 62.23)
+			(xy 114.3 87.63) (xy 118.11 87.63)
 		)
 		(stroke
 			(width 0)
@@ -102,7 +102,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 130.81) (xy 123.19 130.81)
+			(xy 114.3 156.21) (xy 123.19 156.21)
 		)
 		(stroke
 			(width 0)
@@ -112,7 +112,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 62.23) (xy 118.11 46.99)
+			(xy 118.11 87.63) (xy 118.11 34.29)
 		)
 		(stroke
 			(width 0)
@@ -122,7 +122,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 95.25) (xy 40.64 95.25)
+			(xy 38.1 120.65) (xy 40.64 120.65)
 		)
 		(stroke
 			(width 0)
@@ -132,7 +132,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 95.25) (xy 40.64 73.66)
+			(xy 40.64 120.65) (xy 40.64 99.06)
 		)
 		(stroke
 			(width 0)
@@ -142,7 +142,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 149.86) (xy 40.64 95.25)
+			(xy 40.64 175.26) (xy 40.64 120.65)
 		)
 		(stroke
 			(width 0)
@@ -152,7 +152,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 130.81) (xy 123.19 161.29)
+			(xy 123.19 156.21) (xy 123.19 224.79)
 		)
 		(stroke
 			(width 0)
@@ -162,7 +162,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 156.21) (xy 119.38 156.21)
+			(xy 101.6 219.71) (xy 119.38 219.71)
 		)
 		(stroke
 			(width 0)
@@ -172,7 +172,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 41.91) (xy 123.19 66.04)
+			(xy 123.19 29.21) (xy 123.19 91.44)
 		)
 		(stroke
 			(width 0)
@@ -182,7 +182,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 46.99) (xy 101.6 46.99)
+			(xy 118.11 34.29) (xy 101.6 34.29)
 		)
 		(stroke
 			(width 0)
@@ -192,7 +192,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 149.86) (xy 40.64 149.86)
+			(xy 38.1 175.26) (xy 40.64 175.26)
 		)
 		(stroke
 			(width 0)
@@ -202,7 +202,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 161.29) (xy 101.6 161.29)
+			(xy 123.19 224.79) (xy 101.6 224.79)
 		)
 		(stroke
 			(width 0)
@@ -212,7 +212,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 118.11) (xy 73.66 118.11)
+			(xy 76.2 143.51) (xy 73.66 143.51)
 		)
 		(stroke
 			(width 0)
@@ -222,7 +222,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 73.66) (xy 38.1 73.66)
+			(xy 40.64 99.06) (xy 38.1 99.06)
 		)
 		(stroke
 			(width 0)
@@ -232,7 +232,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 66.04) (xy 123.19 66.04)
+			(xy 114.3 91.44) (xy 123.19 91.44)
 		)
 		(stroke
 			(width 0)
@@ -242,7 +242,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 85.09) (xy 73.66 85.09)
+			(xy 76.2 110.49) (xy 73.66 110.49)
 		)
 		(stroke
 			(width 0)
@@ -251,7 +251,7 @@
 		(uuid "ea0212be-bf15-49ab-a228-b1eab6dd23bf")
 	)
 	(sheet
-		(at 17.78 88.9)
+		(at 17.78 114.3)
 		(size 20.32 25.4)
 		(fields_autoplaced yes)
 		(stroke
@@ -263,7 +263,7 @@
 		)
 		(uuid "0cdf34b2-39cd-4d9e-981a-97cd34791509")
 		(property "Sheetname" "Power"
-			(at 17.78 88.1884 0)
+			(at 17.78 113.5884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -272,7 +272,7 @@
 			)
 		)
 		(property "Sheetfile" "Power.kicad_sch"
-			(at 17.78 114.8846 0)
+			(at 17.78 140.2846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -282,7 +282,7 @@
 			)
 		)
 		(pin "Bus Gate" output
-			(at 38.1 107.95 0)
+			(at 38.1 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -292,7 +292,7 @@
 			(uuid "35434339-bc2b-4868-9a18-95483283b276")
 		)
 		(pin "Bus CV" output
-			(at 38.1 95.25 0)
+			(at 38.1 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -310,7 +310,7 @@
 		)
 	)
 	(sheet
-		(at 76.2 127)
+		(at 76.2 152.4)
 		(size 38.1 19.05)
 		(fields_autoplaced yes)
 		(stroke
@@ -322,7 +322,7 @@
 		)
 		(uuid "5770dcd3-eb9e-472f-b743-1e3eb22ed082")
 		(property "Sheetname" "Core Circuit B"
-			(at 76.2 126.2884 0)
+			(at 76.2 151.6884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -331,7 +331,7 @@
 			)
 		)
 		(property "Sheetfile" "Core_Circuit_B.kicad_sch"
-			(at 76.2 146.6346 0)
+			(at 76.2 172.0346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -341,7 +341,7 @@
 			)
 		)
 		(pin "Output" output
-			(at 76.2 142.24 180)
+			(at 76.2 167.64 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -351,7 +351,7 @@
 			(uuid "824ef3c1-8d70-4ca7-882a-a32dfb81527f")
 		)
 		(pin "Input" input
-			(at 76.2 135.89 180)
+			(at 76.2 161.29 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -361,7 +361,7 @@
 			(uuid "bcef8807-861a-4d95-b13b-d41a91dc844c")
 		)
 		(pin "Res Input" input
-			(at 114.3 134.62 0)
+			(at 114.3 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -371,7 +371,7 @@
 			(uuid "b7a34321-2d41-4484-92ec-d4d23de604d5")
 		)
 		(pin "Raw Output" output
-			(at 114.3 130.81 0)
+			(at 114.3 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -381,7 +381,7 @@
 			(uuid "4832c5e1-a160-43b2-a24e-b935623ff9d1")
 		)
 		(pin "CV" input
-			(at 76.2 129.54 180)
+			(at 76.2 154.94 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -399,8 +399,8 @@
 		)
 	)
 	(sheet
-		(at 76.2 19.05)
-		(size 25.4 12.7)
+		(at 76.2 44.45)
+		(size 25.4 25.4)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -411,7 +411,7 @@
 		)
 		(uuid "76f3ab41-888d-43b6-843a-2a995f9c890b")
 		(property "Sheetname" "Drive A"
-			(at 76.2 18.3384 0)
+			(at 76.2 43.7384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -420,7 +420,7 @@
 			)
 		)
 		(property "Sheetfile" "Drive_A.kicad_sch"
-			(at 76.2 32.3346 0)
+			(at 76.2 70.4346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -430,27 +430,27 @@
 			)
 		)
 		(pin "Input" input
-			(at 101.6 27.94 0)
+			(at 76.2 49.53 180)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 			(uuid "d538a505-0803-4f76-865e-a0bc33415bef")
 		)
 		(pin "Output" output
-			(at 101.6 22.86 0)
+			(at 76.2 53.34 180)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 			(uuid "35bf57e3-48c5-41b0-843d-d0fb2b4d7770")
 		)
 		(pin "Drive CV Input" input
-			(at 76.2 22.86 180)
+			(at 76.2 60.96 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -460,7 +460,7 @@
 			(uuid "ef1b89a2-5e0d-43a0-ae25-8c76fb42ed32")
 		)
 		(pin "Drive CV" output
-			(at 76.2 27.94 180)
+			(at 76.2 64.77 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -478,7 +478,7 @@
 		)
 	)
 	(sheet
-		(at 76.2 57.15)
+		(at 76.2 82.55)
 		(size 38.1 19.05)
 		(fields_autoplaced yes)
 		(stroke
@@ -490,7 +490,7 @@
 		)
 		(uuid "7ad2d702-dfb7-4d49-a82d-34430dd5948f")
 		(property "Sheetname" "Core Circuit A"
-			(at 76.2 56.4384 0)
+			(at 76.2 81.8384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -499,7 +499,7 @@
 			)
 		)
 		(property "Sheetfile" "Core_Circuit_A.kicad_sch"
-			(at 76.2 76.7846 0)
+			(at 76.2 102.1846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -509,7 +509,7 @@
 			)
 		)
 		(pin "Output" output
-			(at 76.2 60.96 180)
+			(at 76.2 86.36 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -519,7 +519,7 @@
 			(uuid "2ac4b1a4-34c1-4db4-980a-cb367d4c33e2")
 		)
 		(pin "Input" input
-			(at 76.2 67.31 180)
+			(at 76.2 92.71 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -529,7 +529,7 @@
 			(uuid "3d751bb9-bc86-4e9e-b126-7a702b24f8d2")
 		)
 		(pin "Res Input" input
-			(at 114.3 66.04 0)
+			(at 114.3 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -539,7 +539,7 @@
 			(uuid "6567e6d9-c4a8-4cc8-9f65-8f2af85846ff")
 		)
 		(pin "Raw Output" output
-			(at 114.3 62.23 0)
+			(at 114.3 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -549,7 +549,7 @@
 			(uuid "50835797-2993-4f04-8087-d43d338e1667")
 		)
 		(pin "CV" input
-			(at 76.2 73.66 180)
+			(at 76.2 99.06 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -567,7 +567,7 @@
 		)
 	)
 	(sheet
-		(at 76.2 38.1)
+		(at 76.2 25.4)
 		(size 25.4 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -579,7 +579,7 @@
 		)
 		(uuid "ad5c5475-8483-41b0-97cc-617422d54799")
 		(property "Sheetname" "Resonance A CV"
-			(at 76.2 37.3884 0)
+			(at 76.2 24.6884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -588,7 +588,7 @@
 			)
 		)
 		(property "Sheetfile" "Resonance_A_CV.kicad_sch"
-			(at 76.2 51.3846 0)
+			(at 76.2 38.6846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -598,7 +598,7 @@
 			)
 		)
 		(pin "Input" input
-			(at 101.6 46.99 0)
+			(at 101.6 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -608,7 +608,7 @@
 			(uuid "759dbb16-01a1-47a3-a42b-9aac215e21f7")
 		)
 		(pin "Output" output
-			(at 101.6 41.91 0)
+			(at 101.6 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -618,7 +618,7 @@
 			(uuid "8ebeeb78-af77-44a1-9eb9-5d05b3f2be12")
 		)
 		(pin "Res CV Input" input
-			(at 76.2 41.91 180)
+			(at 76.2 29.21 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -636,7 +636,7 @@
 		)
 	)
 	(sheet
-		(at 17.78 38.1)
+		(at 17.78 63.5)
 		(size 20.32 38.1)
 		(fields_autoplaced yes)
 		(stroke
@@ -648,7 +648,7 @@
 		)
 		(uuid "ce3fef8b-9f1d-4178-b50b-4a046c030679")
 		(property "Sheetname" "Inputs and Outputs A"
-			(at 17.78 37.3884 0)
+			(at 17.78 62.7884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -657,7 +657,7 @@
 			)
 		)
 		(property "Sheetfile" "Inputs_and_Outputs_A.kicad_sch"
-			(at 17.78 76.7846 0)
+			(at 17.78 102.1846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -667,7 +667,7 @@
 			)
 		)
 		(pin "Output Jack" input
-			(at 38.1 69.85 0)
+			(at 38.1 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -677,7 +677,7 @@
 			(uuid "47d6f700-19ac-440c-a9bd-0184205b1d14")
 		)
 		(pin "Input Jack" output
-			(at 38.1 44.45 0)
+			(at 38.1 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -687,7 +687,7 @@
 			(uuid "d1cfb4b1-5a54-4286-ba01-f85047d51a10")
 		)
 		(pin "CV 1 Jack" output
-			(at 38.1 48.26 0)
+			(at 38.1 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -697,7 +697,7 @@
 			(uuid "3a5cdf2a-d250-44b0-a6fb-6b8952b38724")
 		)
 		(pin "CV 2 Jack" output
-			(at 38.1 52.07 0)
+			(at 38.1 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -707,7 +707,7 @@
 			(uuid "371c4516-13c1-4a0f-8a4f-05e2b95ce388")
 		)
 		(pin "Res CV Jack" output
-			(at 38.1 63.5 0)
+			(at 38.1 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -717,7 +717,7 @@
 			(uuid "c9a6071c-bf2c-48ab-8517-dacace690546")
 		)
 		(pin "CV 3 Jack" output
-			(at 38.1 55.88 0)
+			(at 38.1 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -727,7 +727,7 @@
 			(uuid "1cb370ea-3a3c-44a0-9fbe-b104757df6cc")
 		)
 		(pin "Drive CV Jack" output
-			(at 38.1 59.69 0)
+			(at 38.1 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -737,7 +737,7 @@
 			(uuid "b2d820bb-c772-469a-b050-690363f0cab9")
 		)
 		(pin "CV 3 TN" input
-			(at 38.1 73.66 0)
+			(at 38.1 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -755,7 +755,7 @@
 		)
 	)
 	(sheet
-		(at 76.2 82.55)
+		(at 76.2 107.95)
 		(size 38.1 38.1)
 		(fields_autoplaced yes)
 		(stroke
@@ -767,7 +767,7 @@
 		)
 		(uuid "ec2d44bc-ed06-4f0b-a22e-df640fa5e089")
 		(property "Sheetname" "CV Processing"
-			(at 76.2 81.8384 0)
+			(at 76.2 107.2384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -776,7 +776,7 @@
 			)
 		)
 		(property "Sheetfile" "CV_Processing.kicad_sch"
-			(at 76.2 121.2346 0)
+			(at 76.2 146.6346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -786,7 +786,7 @@
 			)
 		)
 		(pin "CV A" output
-			(at 76.2 85.09 180)
+			(at 76.2 110.49 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -796,7 +796,7 @@
 			(uuid "5c8ec3db-a5bb-4825-b2f3-ed08c540010e")
 		)
 		(pin "CV1 B Input" input
-			(at 76.2 106.68 180)
+			(at 76.2 132.08 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -806,7 +806,7 @@
 			(uuid "849669a4-586a-4144-aaaf-708d4277edda")
 		)
 		(pin "CV2 B Input" input
-			(at 76.2 110.49 180)
+			(at 76.2 135.89 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -816,7 +816,7 @@
 			(uuid "2446d5b8-c527-42a6-82e3-afe03ec6bcdf")
 		)
 		(pin "CV1 A Input" input
-			(at 76.2 88.9 180)
+			(at 76.2 114.3 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -826,7 +826,7 @@
 			(uuid "7fee05fc-ab9e-4f56-8220-ff4043829c09")
 		)
 		(pin "CV2 A Input" input
-			(at 76.2 92.71 180)
+			(at 76.2 118.11 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -836,7 +836,7 @@
 			(uuid "888b3a4b-ebdb-40ac-8a64-6ded6ede7a04")
 		)
 		(pin "Link CV Switch" output
-			(at 76.2 118.11 180)
+			(at 76.2 143.51 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -846,7 +846,7 @@
 			(uuid "122885cd-c4d5-4a4a-8bab-9a984b057435")
 		)
 		(pin "CV3 A Input" input
-			(at 76.2 96.52 180)
+			(at 76.2 121.92 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -856,7 +856,7 @@
 			(uuid "bc9deaca-2561-45a7-94dc-c5b28c14cbc6")
 		)
 		(pin "CV3 B Input" input
-			(at 76.2 114.3 180)
+			(at 76.2 139.7 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -874,7 +874,7 @@
 		)
 	)
 	(sheet
-		(at 76.2 152.4)
+		(at 76.2 215.9)
 		(size 25.4 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -886,7 +886,7 @@
 		)
 		(uuid "f0045393-e1d0-4de8-baba-b9053cd8a11d")
 		(property "Sheetname" "Resonance B CV"
-			(at 76.2 151.6884 0)
+			(at 76.2 215.1884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -895,7 +895,7 @@
 			)
 		)
 		(property "Sheetfile" "Resonance_B_CV.kicad_sch"
-			(at 76.2 165.6846 0)
+			(at 76.2 229.1846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -905,7 +905,7 @@
 			)
 		)
 		(pin "Input" input
-			(at 101.6 161.29 0)
+			(at 101.6 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -915,7 +915,7 @@
 			(uuid "7a69cbeb-5ba7-4387-8c38-90749046f909")
 		)
 		(pin "Output" output
-			(at 101.6 156.21 0)
+			(at 101.6 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -925,7 +925,7 @@
 			(uuid "892a7498-a14f-4085-8932-564d9a487533")
 		)
 		(pin "Res CV Input" input
-			(at 76.2 156.21 180)
+			(at 76.2 219.71 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -943,7 +943,7 @@
 		)
 	)
 	(sheet
-		(at 17.8605 127.0805)
+		(at 17.8605 152.4805)
 		(size 20.2395 50.7195)
 		(fields_autoplaced yes)
 		(stroke
@@ -955,7 +955,7 @@
 		)
 		(uuid "f24a7deb-7368-4909-ac96-a87cdb4f6b04")
 		(property "Sheetname" "Inputs and Outputs B"
-			(at 17.8605 126.3689 0)
+			(at 17.8605 151.7689 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -964,7 +964,7 @@
 			)
 		)
 		(property "Sheetfile" "Inputs_and_Outputs_B.kicad_sch"
-			(at 17.8605 178.3846 0)
+			(at 17.8605 203.7846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -974,7 +974,7 @@
 			)
 		)
 		(pin "CV 2 Jack" output
-			(at 38.1 146.05 0)
+			(at 38.1 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -984,7 +984,7 @@
 			(uuid "5cbf7505-96bc-4bc5-89db-ef9d6841d143")
 		)
 		(pin "Output Jack" input
-			(at 38.1 173.99 0)
+			(at 38.1 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -994,7 +994,7 @@
 			(uuid "2544ea5a-6255-4365-9174-3f9d2181590e")
 		)
 		(pin "Res CV Jack" output
-			(at 38.1 165.1 0)
+			(at 38.1 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1004,7 +1004,7 @@
 			(uuid "423173dc-79e1-4ab9-97dc-7e7997659c01")
 		)
 		(pin "Input Jack" output
-			(at 38.1 133.35 0)
+			(at 38.1 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1014,7 +1014,7 @@
 			(uuid "de6662d5-25b4-4fed-869a-febe2813a33e")
 		)
 		(pin "CV 1 Jack" output
-			(at 38.1 139.7 0)
+			(at 38.1 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1024,7 +1024,7 @@
 			(uuid "be565046-9944-48b8-9878-6b783a3c655a")
 		)
 		(pin "Input TN" input
-			(at 38.1 130.81 0)
+			(at 38.1 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1034,7 +1034,7 @@
 			(uuid "0f1800c1-7acd-4145-abf8-d38e60b9ff68")
 		)
 		(pin "CV1 TN" input
-			(at 38.1 137.16 0)
+			(at 38.1 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1044,7 +1044,7 @@
 			(uuid "afa8bfe7-3410-470c-803d-0c4e641f6065")
 		)
 		(pin "CV2 TN" input
-			(at 38.1 143.51 0)
+			(at 38.1 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1054,7 +1054,7 @@
 			(uuid "16ea75c7-0728-4437-ace9-eb9a006d6731")
 		)
 		(pin "Res CV TN" input
-			(at 38.1 162.56 0)
+			(at 38.1 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1064,7 +1064,7 @@
 			(uuid "16466809-61b0-4623-9987-b064c02cedda")
 		)
 		(pin "CV 3 Jack" output
-			(at 38.1 152.4 0)
+			(at 38.1 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1074,7 +1074,7 @@
 			(uuid "688f8483-60f4-4b56-a0e2-9cfe97395e1d")
 		)
 		(pin "Drive CV Jack" output
-			(at 38.1 158.75 0)
+			(at 38.1 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1084,7 +1084,7 @@
 			(uuid "a373a1db-15f6-410b-9db3-62e31feed4b1")
 		)
 		(pin "CV3 TN" input
-			(at 38.1 149.86 0)
+			(at 38.1 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1094,7 +1094,7 @@
 			(uuid "0670c7ac-69da-4eb8-a5c4-69155f157fcf")
 		)
 		(pin "Drive CV TN" input
-			(at 38.1 156.21 0)
+			(at 38.1 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1112,7 +1112,7 @@
 		)
 	)
 	(sheet
-		(at 76.2 171.45)
+		(at 76.2 196.85)
 		(size 25.4 12.7)
 		(fields_autoplaced yes)
 		(stroke
@@ -1124,7 +1124,7 @@
 		)
 		(uuid "fc37885e-257b-42ac-a311-5adb1094134c")
 		(property "Sheetname" "Drive B"
-			(at 76.2 170.7384 0)
+			(at 76.2 196.1384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1133,7 +1133,7 @@
 			)
 		)
 		(property "Sheetfile" "Drive_B.kicad_sch"
-			(at 76.2 184.7346 0)
+			(at 76.2 210.1346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1143,7 +1143,7 @@
 			)
 		)
 		(pin "Input" input
-			(at 101.6 180.34 0)
+			(at 101.6 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1153,7 +1153,7 @@
 			(uuid "76ec093b-f182-4184-8aea-15e8c3005cea")
 		)
 		(pin "Output" output
-			(at 101.6 175.26 0)
+			(at 101.6 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1163,7 +1163,7 @@
 			(uuid "c29129d3-04ed-4883-b3db-17e99fc46c78")
 		)
 		(pin "Drive CV Input" input
-			(at 76.2 175.26 180)
+			(at 76.2 200.66 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1173,7 +1173,7 @@
 			(uuid "d1efd5f0-5a64-4907-9e87-adacfa09e3d2")
 		)
 		(pin "Drive CV" output
-			(at 76.2 180.34 180)
+			(at 76.2 205.74 180)
 			(effects
 				(font
 					(size 1.27 1.27)

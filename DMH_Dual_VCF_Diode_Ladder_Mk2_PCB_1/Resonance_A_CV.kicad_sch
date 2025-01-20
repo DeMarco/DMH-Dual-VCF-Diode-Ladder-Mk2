@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(company "DMH Instruments")
-		(comment 1 "PCB for 10cm Kosmo format synthesizer module")
+		(comment 1 "PCB for 15cm Kosmo format synthesizer module")
 	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:TL074"
@@ -4147,10 +4147,10 @@
 			(uuid "0b6480f7-4d79-4c04-b701-bdf8c0b56a7b")
 		)
 		(pin "3"
-			(uuid "9d4758c6-3168-4eaa-88dd-71c0e223a8a7")
+			(uuid "9d4758c6-3168-4eaa-88dd-71c0e223a8a8")
 		)
 		(pin "2"
-			(uuid "e2282604-841d-4e78-adb0-1616af15caa5")
+			(uuid "e2282604-841d-4e78-adb0-1616af15caa6")
 		)
 		(pin "1"
 			(uuid "d2cc59b6-9fbb-4192-874d-3a30a97abcb5")
@@ -4444,10 +4444,10 @@
 			(uuid "aadbf1e1-3daa-4d16-b00b-12fb3ea8fcd4")
 		)
 		(pin "3"
-			(uuid "9d4758c6-3168-4eaa-88dd-71c0e223a8a8")
+			(uuid "9d4758c6-3168-4eaa-88dd-71c0e223a8a9")
 		)
 		(pin "2"
-			(uuid "e2282604-841d-4e78-adb0-1616af15caa6")
+			(uuid "e2282604-841d-4e78-adb0-1616af15caa7")
 		)
 		(pin "5"
 			(uuid "a023fb8d-c072-41c3-ac77-06177115177a")
@@ -4917,19 +4917,19 @@
 			(uuid "ec9454b3-d359-493d-81a3-487f054d616e")
 		)
 		(pin "3"
-			(uuid "9d4758c6-3168-4eaa-88dd-71c0e223a8a7")
+			(uuid "9d4758c6-3168-4eaa-88dd-71c0e223a8aa")
 		)
 		(pin "2"
-			(uuid "e2282604-841d-4e78-adb0-1616af15caa5")
+			(uuid "e2282604-841d-4e78-adb0-1616af15caa8")
 		)
 		(pin "1"
-			(uuid "d2cc59b6-9fbb-4192-874d-3a30a97abcb5")
+			(uuid "d2cc59b6-9fbb-4192-874d-3a30a97abcb6")
 		)
 		(pin "6"
-			(uuid "6e52cfd6-8a2c-4a6b-ac73-059f9766787f")
+			(uuid "6e52cfd6-8a2c-4a6b-ac73-059f97667880")
 		)
 		(pin "5"
-			(uuid "ec8b618b-40db-4333-943e-d34ddc7168a8")
+			(uuid "ec8b618b-40db-4333-943e-d34ddc7168a9")
 		)
 		(instances
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
@@ -5648,19 +5648,19 @@
 			(uuid "01a29959-c9c7-43e7-b2de-a36c1c6f89d2")
 		)
 		(pin "3"
-			(uuid "9d4758c6-3168-4eaa-88dd-71c0e223a8a7")
+			(uuid "9d4758c6-3168-4eaa-88dd-71c0e223a8ab")
 		)
 		(pin "2"
-			(uuid "e2282604-841d-4e78-adb0-1616af15caa5")
+			(uuid "e2282604-841d-4e78-adb0-1616af15caa9")
 		)
 		(pin "1"
-			(uuid "d2cc59b6-9fbb-4192-874d-3a30a97abcb5")
+			(uuid "d2cc59b6-9fbb-4192-874d-3a30a97abcb7")
 		)
 		(pin "6"
-			(uuid "6e52cfd6-8a2c-4a6b-ac73-059f9766787f")
+			(uuid "6e52cfd6-8a2c-4a6b-ac73-059f97667881")
 		)
 		(pin "5"
-			(uuid "ec8b618b-40db-4333-943e-d34ddc7168a8")
+			(uuid "ec8b618b-40db-4333-943e-d34ddc7168aa")
 		)
 		(instances
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
