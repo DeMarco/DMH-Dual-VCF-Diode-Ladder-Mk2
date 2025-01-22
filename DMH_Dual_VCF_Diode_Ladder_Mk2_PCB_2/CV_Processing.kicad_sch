@@ -5037,7 +5037,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "18faddcc-0523-47af-aba8-aa25581a0c11")
@@ -6496,7 +6496,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(uuid "6c1725d9-0c06-4ff7-bd48-c6c7ed221b18")
 		(property "Reference" "RV7"
