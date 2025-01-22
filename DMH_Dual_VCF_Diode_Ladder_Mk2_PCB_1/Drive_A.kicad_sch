@@ -5214,7 +5214,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "ba1493e8-0fcf-4ba1-bee8-300fd60d8f05")
 		(property "Reference" "RV25"
@@ -5612,7 +5612,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "d05c78d7-65ba-4bbb-bc9a-157a6a44e287")
 		(property "Reference" "RV27"
@@ -5958,7 +5958,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df22f413-fcca-4898-a4dd-9341a4ebbe94")

@@ -4205,7 +4205,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "2d467f33-3e2c-4bc7-9437-d25a42e9e166")
 		(property "Reference" "SW5"
@@ -5131,7 +5131,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "8988cb1c-e99c-41a1-93ee-3b2151d8b80c")
 		(property "Reference" "SW6"
@@ -7108,7 +7108,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "dbe3d1a1-0c8e-444f-a5e4-83c70347ceb4")
 		(property "Reference" "SW4"

@@ -4421,7 +4421,7 @@
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "80f603f4-62b7-4751-a5df-d4f2e621f38c")
 		(property "Reference" "SW8"
@@ -5204,7 +5204,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9db63f4b-f3c6-4c6f-878d-ddf05cfca7bd")
@@ -5341,7 +5341,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "a30cb098-b49c-4be8-9645-93e4656c50b8")
 		(property "Reference" "RV22"
@@ -6039,7 +6039,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "de3b33e3-47cf-4188-9d8a-1ccf8daa1ea9")
 		(property "Reference" "RV20"
