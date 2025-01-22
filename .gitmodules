@@ -4,3 +4,6 @@
 [submodule "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1/Libraries/SynthStuff"]
 	path = DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1/Libraries/SynthStuff
 	url = https://github.com/DeMarco/KiCad-Lib-SynthStuff.git
+[submodule "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_2/Libraries/SynthStuff"]
+	path = DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_2/Libraries/SynthStuff
+	url = https://github.com/DeMarco/KiCad-Lib-SynthStuff.git

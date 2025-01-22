@@ -1,0 +1,1918 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "58f4306d-5387-4983-bb08-41a2313fd315")
+	(paper "A4" portrait)
+	(title_block
+		(rev "1")
+		(company "DMH Instruments")
+		(comment 1 "PCB for 15cm Kosmo format synthesizer module")
+	)
+	(lib_symbols)
+	(junction
+		(at 45.72 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0f03e2f8-8fbf-44c0-bc8a-95c134d64489")
+	)
+	(junction
+		(at 53.34 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1d78c338-ac91-479e-a654-0466374047a1")
+	)
+	(junction
+		(at 48.26 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1e9b845f-dc24-44c4-9275-cf9e501a3580")
+	)
+	(junction
+		(at 40.64 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "281b6dee-152f-48c6-bb3b-a2573f84d8c4")
+	)
+	(junction
+		(at 50.8 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "789a8659-6337-41bd-8967-c776d5a81b50")
+	)
+	(junction
+		(at 43.18 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f91a43b2-de2d-4a25-be07-8e36c22336b5")
+	)
+	(no_connect
+		(at 38.1 133.35)
+		(uuid "c3efc957-5c9a-4c4d-bff6-58ef546f2e50")
+	)
+	(wire
+		(pts
+			(xy 38.1 165.1) (xy 55.88 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03e154d5-fea1-4343-9804-9f20b762b693")
+	)
+	(wire
+		(pts
+			(xy 119.38 160.02) (xy 114.3 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03f48f1e-c0be-4993-8fd0-6184ac594184")
+	)
+	(wire
+		(pts
+			(xy 76.2 92.71) (xy 66.04 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "042ef6da-d229-4d55-be25-281402e73684")
+	)
+	(wire
+		(pts
+			(xy 66.04 95.25) (xy 38.1 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05899e0d-277a-4208-b6a1-4495bcc3e196")
+	)
+	(wire
+		(pts
+			(xy 73.66 193.04) (xy 73.66 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "062fa811-62cf-480d-a7f4-f56702f0ed59")
+	)
+	(wire
+		(pts
+			(xy 73.66 143.51) (xy 73.66 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06461a24-65a8-4f29-b468-fb115e759053")
+	)
+	(wire
+		(pts
+			(xy 50.8 85.09) (xy 50.8 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a65603e-715b-4cb6-9a3e-11e1d6b159e9")
+	)
+	(wire
+		(pts
+			(xy 73.66 161.29) (xy 76.2 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b7a9f9d-87f6-4108-b046-6a5721717082")
+	)
+	(wire
+		(pts
+			(xy 58.42 135.89) (xy 76.2 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b9b626e-c724-4f2d-951c-5dedbce0f644")
+	)
+	(wire
+		(pts
+			(xy 119.38 219.71) (xy 119.38 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c98e710-5377-4b53-84e2-a1ada2fe23d9")
+	)
+	(wire
+		(pts
+			(xy 38.1 171.45) (xy 58.42 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ddeaaef-2fff-44ec-aa63-fb464867e596")
+	)
+	(wire
+		(pts
+			(xy 73.66 99.06) (xy 76.2 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15611dea-1bb5-4768-883d-aa3f07165b79")
+	)
+	(wire
+		(pts
+			(xy 63.5 198.12) (xy 38.1 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15c31961-8a29-41a1-87ed-9771807086d7")
+	)
+	(wire
+		(pts
+			(xy 71.12 224.79) (xy 76.2 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20f1d3d9-9fa6-44eb-af70-0eb1e073d126")
+	)
+	(wire
+		(pts
+			(xy 58.42 171.45) (xy 58.42 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "219be96d-dc6d-480d-a889-4499a44642f1")
+	)
+	(wire
+		(pts
+			(xy 76.2 64.77) (xy 68.58 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2290268f-d580-40c1-bad5-5a4fabbe88f8")
+	)
+	(wire
+		(pts
+			(xy 48.26 49.53) (xy 76.2 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23644b83-70c5-4e8b-bf77-7694e5c34d45")
+	)
+	(wire
+		(pts
+			(xy 38.1 156.21) (xy 40.64 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23f56841-d737-4abb-8bab-f6ba88c29eca")
+	)
+	(wire
+		(pts
+			(xy 43.18 162.56) (xy 43.18 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25f768fc-1f57-40d3-adb1-9248515693de")
+	)
+	(wire
+		(pts
+			(xy 73.66 154.94) (xy 76.2 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2684c3fd-aa92-481d-bf6f-0a862abcfd70")
+	)
+	(wire
+		(pts
+			(xy 101.6 29.21) (xy 123.19 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c5b4678-41ec-4623-a0ae-d1cc8a4fae80")
+	)
+	(wire
+		(pts
+			(xy 73.66 110.49) (xy 73.66 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ebb231c-4c9d-464b-8c9a-cdb122f0384a")
+	)
+	(wire
+		(pts
+			(xy 38.1 177.8) (xy 60.96 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3235f489-6056-47bb-94e2-a534d658b7e9")
+	)
+	(wire
+		(pts
+			(xy 114.3 87.63) (xy 118.11 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38db5cc9-7864-42b5-96b3-f54ad77659d6")
+	)
+	(wire
+		(pts
+			(xy 38.1 77.47) (xy 45.72 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f67feab-bae1-4659-b7b8-42427340bcba")
+	)
+	(wire
+		(pts
+			(xy 53.34 187.96) (xy 53.34 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4848be55-b6b9-4930-afd3-8bb3ae6500f3")
+	)
+	(wire
+		(pts
+			(xy 38.1 187.96) (xy 53.34 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b61be8e-0503-44d8-ad52-c885b8c69408")
+	)
+	(wire
+		(pts
+			(xy 114.3 156.21) (xy 123.19 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d9e7297-09e9-4ab8-bb61-3f2449e7fd9a")
+	)
+	(wire
+		(pts
+			(xy 118.11 87.63) (xy 118.11 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fab343e-57f8-4157-af3d-20d08204e64b")
+	)
+	(wire
+		(pts
+			(xy 43.18 73.66) (xy 63.5 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5352c080-9e66-43ae-a50e-0b1271ffd30d")
+	)
+	(wire
+		(pts
+			(xy 38.1 120.65) (xy 48.26 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54a31105-c949-4e20-ba03-7bf61462e862")
+	)
+	(wire
+		(pts
+			(xy 45.72 77.47) (xy 60.96 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54bd441e-6b20-4010-a4e8-72a8ce5bfd30")
+	)
+	(wire
+		(pts
+			(xy 48.26 120.65) (xy 48.26 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5618438b-4258-4440-a062-f98a5b8ca4e1")
+	)
+	(wire
+		(pts
+			(xy 60.96 139.7) (xy 76.2 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ede1a48-d1e7-4653-a7e7-5677b0940202")
+	)
+	(wire
+		(pts
+			(xy 58.42 121.92) (xy 76.2 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c5e5baf-f6b4-4d67-b7dc-bf465bff1d53")
+	)
+	(wire
+		(pts
+			(xy 38.1 162.56) (xy 43.18 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fe57fbf-8030-4721-8ce1-d826587f8504")
+	)
+	(wire
+		(pts
+			(xy 48.26 175.26) (xy 48.26 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70db4c61-23a5-4371-af61-c3d4ac30d6db")
+	)
+	(wire
+		(pts
+			(xy 66.04 53.34) (xy 66.04 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72869915-d93f-4b92-8833-3640b8e4b159")
+	)
+	(wire
+		(pts
+			(xy 45.72 168.91) (xy 45.72 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75013f7c-9387-421e-8c93-cfc5046781d9")
+	)
+	(wire
+		(pts
+			(xy 71.12 34.29) (xy 71.12 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79d93f4f-e320-40bf-a56d-021dc253e7d6")
+	)
+	(wire
+		(pts
+			(xy 68.58 204.47) (xy 76.2 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bbc2a8a-fa4e-4b3e-b1cd-3c61588de811")
+	)
+	(wire
+		(pts
+			(xy 76.2 53.34) (xy 66.04 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c83e6d0-a482-4d21-ae3a-750faacb941f")
+	)
+	(wire
+		(pts
+			(xy 60.96 184.15) (xy 60.96 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87d09032-83d2-4166-be86-2dd989ee45d3")
+	)
+	(wire
+		(pts
+			(xy 53.34 29.21) (xy 76.2 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8adf3984-9b6c-492c-ab51-de097e8b4767")
+	)
+	(wire
+		(pts
+			(xy 66.04 189.23) (xy 66.04 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c06f68b-4195-4913-a98b-da29a42774b8")
+	)
+	(wire
+		(pts
+			(xy 38.1 190.5) (xy 58.42 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c69a3f7-26c8-49b6-b8ee-e6f75a89e990")
+	)
+	(wire
+		(pts
+			(xy 60.96 200.66) (xy 76.2 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e0fcba3-4efb-40f4-9ec8-c737fe0d50c2")
+	)
+	(wire
+		(pts
+			(xy 66.04 92.71) (xy 66.04 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94cbb6ba-39fb-48e7-ab25-92b3ea3eb7c7")
+	)
+	(wire
+		(pts
+			(xy 40.64 156.21) (xy 40.64 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "957e3d25-1f1f-4224-9517-a9589600747f")
+	)
+	(wire
+		(pts
+			(xy 63.5 114.3) (xy 76.2 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9dcd0ed9-1dcc-4358-b0ff-c13455de1349")
+	)
+	(wire
+		(pts
+			(xy 123.19 156.21) (xy 123.19 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0bc58f4-c3f0-47d8-a7aa-4265b99c9aef")
+	)
+	(wire
+		(pts
+			(xy 76.2 34.29) (xy 71.12 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a16b82bc-e756-4591-baf8-0f66248012c4")
+	)
+	(wire
+		(pts
+			(xy 58.42 219.71) (xy 76.2 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a319d17e-03c9-47b2-a8e1-ff0213e54fbf")
+	)
+	(wire
+		(pts
+			(xy 66.04 86.36) (xy 76.2 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a673a07d-72ff-457f-a33c-f8459284d955")
+	)
+	(wire
+		(pts
+			(xy 63.5 73.66) (xy 63.5 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6a2d863-73db-4113-8cd7-1948c63ae855")
+	)
+	(wire
+		(pts
+			(xy 55.88 165.1) (xy 55.88 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6c93362-f7b9-4d65-8ff4-9571e13c6189")
+	)
+	(wire
+		(pts
+			(xy 101.6 219.71) (xy 119.38 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8e249d2-fdfb-4728-88e3-ce2a0d2222fc")
+	)
+	(wire
+		(pts
+			(xy 50.8 181.61) (xy 50.8 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab6814ac-982a-4731-b859-f4cc02a65a06")
+	)
+	(wire
+		(pts
+			(xy 60.96 177.8) (xy 60.96 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abf08552-0ba0-401f-9ff0-babbbb0e89f8")
+	)
+	(wire
+		(pts
+			(xy 123.19 29.21) (xy 123.19 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abfdbcaa-bbeb-4c5d-ae99-3e78a9ec8605")
+	)
+	(wire
+		(pts
+			(xy 118.11 34.29) (xy 101.6 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1720a31-9662-4e79-8571-edcc99f81cc9")
+	)
+	(wire
+		(pts
+			(xy 76.2 189.23) (xy 66.04 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3ab2342-dce4-4c36-aa5a-52eb23de63e1")
+	)
+	(wire
+		(pts
+			(xy 76.2 193.04) (xy 73.66 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4ab9c2c-19b4-4e18-b421-fc8488b22747")
+	)
+	(wire
+		(pts
+			(xy 66.04 158.75) (xy 38.1 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4f349f6-9b6e-4f36-a02d-c37cc2fd495a")
+	)
+	(wire
+		(pts
+			(xy 53.34 88.9) (xy 53.34 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "beb3180b-90ae-4050-ae2e-e361f69de4b9")
+	)
+	(wire
+		(pts
+			(xy 38.1 184.15) (xy 60.96 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf7e3584-5699-4227-ab66-299e9e733866")
+	)
+	(wire
+		(pts
+			(xy 38.1 81.28) (xy 58.42 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c53c7ed4-0f93-42ea-a1de-3819d4d737e9")
+	)
+	(wire
+		(pts
+			(xy 40.64 69.85) (xy 48.26 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c72a92c9-4f77-4ced-9337-bc06404b808c")
+	)
+	(wire
+		(pts
+			(xy 58.42 81.28) (xy 58.42 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb5a26d5-35ab-44c6-9bd4-b54d3c44a5c5")
+	)
+	(wire
+		(pts
+			(xy 60.96 118.11) (xy 76.2 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce95ff98-235c-46a4-986a-e68ba6cb87d8")
+	)
+	(wire
+		(pts
+			(xy 50.8 60.96) (xy 76.2 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cec72912-02de-4cf7-9b84-4c466fdf8835")
+	)
+	(wire
+		(pts
+			(xy 38.1 175.26) (xy 48.26 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2622b86-c167-4e38-93b2-fdf08abc7279")
+	)
+	(wire
+		(pts
+			(xy 48.26 69.85) (xy 48.26 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5f0d1ea-3ba6-49a0-be36-35852065e8f4")
+	)
+	(wire
+		(pts
+			(xy 123.19 224.79) (xy 101.6 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7ec01b7-4f76-4119-a2a7-a1cf4aa42ad8")
+	)
+	(wire
+		(pts
+			(xy 76.2 143.51) (xy 73.66 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc8cf37c-7da9-4bbb-bdc8-aec55fd55d0c")
+	)
+	(wire
+		(pts
+			(xy 55.88 132.08) (xy 76.2 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df7b5ab1-8d9a-4a69-a4de-846def8abe6b")
+	)
+	(wire
+		(pts
+			(xy 48.26 99.06) (xy 38.1 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e025a550-cd99-43d8-9eca-e164632960b4")
+	)
+	(wire
+		(pts
+			(xy 60.96 77.47) (xy 60.96 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e17f5558-abfd-4980-9607-d377b0135614")
+	)
+	(wire
+		(pts
+			(xy 68.58 64.77) (xy 68.58 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e40bd99a-9921-41ea-86ff-ddda467043e2")
+	)
+	(wire
+		(pts
+			(xy 114.3 91.44) (xy 123.19 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5c0260a-822d-4e03-83d4-ef4cdf9cbac6")
+	)
+	(wire
+		(pts
+			(xy 38.1 88.9) (xy 53.34 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7a4bba4-0dec-4544-b597-81aba8e5c4ac")
+	)
+	(wire
+		(pts
+			(xy 58.42 190.5) (xy 58.42 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8254375-5a02-4313-9aa2-6f1f578db786")
+	)
+	(wire
+		(pts
+			(xy 76.2 110.49) (xy 73.66 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea0212be-bf15-49ab-a228-b1eab6dd23bf")
+	)
+	(wire
+		(pts
+			(xy 38.1 181.61) (xy 50.8 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb933fa6-ce29-4710-b107-be57aa524be5")
+	)
+	(wire
+		(pts
+			(xy 38.1 168.91) (xy 45.72 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edb7cbb4-dace-4588-b2a0-43c528f6b372")
+	)
+	(wire
+		(pts
+			(xy 38.1 69.85) (xy 40.64 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0d46ae4-7925-42e8-ba9f-9d4c2d1e53b0")
+	)
+	(wire
+		(pts
+			(xy 76.2 167.64) (xy 63.5 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2b22a07-4477-4a22-86fb-3dc315e43d5f")
+	)
+	(wire
+		(pts
+			(xy 63.5 167.64) (xy 63.5 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f45d0b47-3d8a-43ed-8f82-887c325ba520")
+	)
+	(wire
+		(pts
+			(xy 38.1 85.09) (xy 50.8 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa7af9cb-0bfe-43b9-81dd-63c7cb87777b")
+	)
+	(wire
+		(pts
+			(xy 38.1 73.66) (xy 43.18 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe54e494-236d-41fb-b785-ce4157f3e643")
+	)
+	(sheet
+		(at 17.78 114.3)
+		(size 20.32 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0cdf34b2-39cd-4d9e-981a-97cd34791509")
+		(property "Sheetname" "Power"
+			(at 17.78 113.5884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 17.78 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Bus Gate" output
+			(at 38.1 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "35434339-bc2b-4868-9a18-95483283b276")
+		)
+		(pin "Bus CV" output
+			(at 38.1 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0197176f-d754-4695-b74f-89d14faa0aea")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 152.4)
+		(size 38.1 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5770dcd3-eb9e-472f-b743-1e3eb22ed082")
+		(property "Sheetname" "Core Circuit B"
+			(at 76.2 151.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Core_Circuit_B.kicad_sch"
+			(at 76.2 172.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Output" output
+			(at 76.2 167.64 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "824ef3c1-8d70-4ca7-882a-a32dfb81527f")
+		)
+		(pin "Input" input
+			(at 76.2 161.29 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "bcef8807-861a-4d95-b13b-d41a91dc844c")
+		)
+		(pin "Res Input" input
+			(at 114.3 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b7a34321-2d41-4484-92ec-d4d23de604d5")
+		)
+		(pin "Raw Output" output
+			(at 114.3 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4832c5e1-a160-43b2-a24e-b935623ff9d1")
+		)
+		(pin "CV" input
+			(at 76.2 154.94 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "859a537d-346b-4852-840d-d21ccb349166")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 44.45)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "76f3ab41-888d-43b6-843a-2a995f9c890b")
+		(property "Sheetname" "Drive A"
+			(at 76.2 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Drive_A.kicad_sch"
+			(at 76.2 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Input" input
+			(at 76.2 49.53 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d538a505-0803-4f76-865e-a0bc33415bef")
+		)
+		(pin "Output" output
+			(at 76.2 53.34 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "35bf57e3-48c5-41b0-843d-d0fb2b4d7770")
+		)
+		(pin "Drive CV Input" input
+			(at 76.2 60.96 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ef1b89a2-5e0d-43a0-ae25-8c76fb42ed32")
+		)
+		(pin "Drive CV" output
+			(at 76.2 64.77 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ee606573-3449-4bcc-a78b-972a7d448d91")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 82.55)
+		(size 38.1 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7ad2d702-dfb7-4d49-a82d-34430dd5948f")
+		(property "Sheetname" "Core Circuit A"
+			(at 76.2 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Core_Circuit_A.kicad_sch"
+			(at 76.2 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Output" output
+			(at 76.2 92.71 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2ac4b1a4-34c1-4db4-980a-cb367d4c33e2")
+		)
+		(pin "Input" input
+			(at 76.2 86.36 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "3d751bb9-bc86-4e9e-b126-7a702b24f8d2")
+		)
+		(pin "Res Input" input
+			(at 114.3 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6567e6d9-c4a8-4cc8-9f65-8f2af85846ff")
+		)
+		(pin "Raw Output" output
+			(at 114.3 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "50835797-2993-4f04-8087-d43d338e1667")
+		)
+		(pin "CV" input
+			(at 76.2 99.06 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "14a92ebc-2d16-4e2d-a395-2b6edd22de99")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 25.4)
+		(size 25.4 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ad5c5475-8483-41b0-97cc-617422d54799")
+		(property "Sheetname" "Resonance A CV"
+			(at 76.2 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Resonance_A_CV.kicad_sch"
+			(at 76.2 38.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Input" input
+			(at 101.6 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "759dbb16-01a1-47a3-a42b-9aac215e21f7")
+		)
+		(pin "Output" output
+			(at 101.6 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8ebeeb78-af77-44a1-9eb9-5d05b3f2be12")
+		)
+		(pin "Res CV Input" input
+			(at 76.2 29.21 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "5e2f43c0-0bbd-45b5-b465-8ad353600128")
+		)
+		(pin "Res CV" output
+			(at 76.2 34.29 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "cb9310a3-2d47-40d5-b58f-961df6c8a152")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.78 63.5)
+		(size 20.32 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ce3fef8b-9f1d-4178-b50b-4a046c030679")
+		(property "Sheetname" "Inputs and Outputs A"
+			(at 17.78 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Inputs_and_Outputs_A.kicad_sch"
+			(at 17.78 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Output Jack" input
+			(at 38.1 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "47d6f700-19ac-440c-a9bd-0184205b1d14")
+		)
+		(pin "Input Jack" output
+			(at 38.1 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d1cfb4b1-5a54-4286-ba01-f85047d51a10")
+		)
+		(pin "CV 1 Jack" output
+			(at 38.1 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3a5cdf2a-d250-44b0-a6fb-6b8952b38724")
+		)
+		(pin "CV 2 Jack" output
+			(at 38.1 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "371c4516-13c1-4a0f-8a4f-05e2b95ce388")
+		)
+		(pin "Res CV Jack" output
+			(at 38.1 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c9a6071c-bf2c-48ab-8517-dacace690546")
+		)
+		(pin "CV 3 Jack" output
+			(at 38.1 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "1cb370ea-3a3c-44a0-9fbe-b104757df6cc")
+		)
+		(pin "Drive CV Jack" output
+			(at 38.1 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b2d820bb-c772-469a-b050-690363f0cab9")
+		)
+		(pin "CV 3 TN" input
+			(at 38.1 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "714ea5d8-733e-4afe-a46c-b65a9b4e5759")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 107.95)
+		(size 38.1 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ec2d44bc-ed06-4f0b-a22e-df640fa5e089")
+		(property "Sheetname" "CV Processing"
+			(at 76.2 107.2384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CV_Processing.kicad_sch"
+			(at 76.2 146.6346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "CV A" output
+			(at 76.2 110.49 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "5c8ec3db-a5bb-4825-b2f3-ed08c540010e")
+		)
+		(pin "CV1 B Input" input
+			(at 76.2 132.08 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "849669a4-586a-4144-aaaf-708d4277edda")
+		)
+		(pin "CV2 B Input" input
+			(at 76.2 135.89 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2446d5b8-c527-42a6-82e3-afe03ec6bcdf")
+		)
+		(pin "CV1 A Input" input
+			(at 76.2 114.3 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7fee05fc-ab9e-4f56-8220-ff4043829c09")
+		)
+		(pin "CV2 A Input" input
+			(at 76.2 118.11 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "888b3a4b-ebdb-40ac-8a64-6ded6ede7a04")
+		)
+		(pin "Link CV Switch" output
+			(at 76.2 143.51 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "122885cd-c4d5-4a4a-8bab-9a984b057435")
+		)
+		(pin "CV3 A Input" input
+			(at 76.2 121.92 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "bc9deaca-2561-45a7-94dc-c5b28c14cbc6")
+		)
+		(pin "CV3 B Input" input
+			(at 76.2 139.7 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f2ee901e-a8b2-43b8-b7e3-88ac6c40c236")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 215.9)
+		(size 25.4 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f0045393-e1d0-4de8-baba-b9053cd8a11d")
+		(property "Sheetname" "Resonance B CV"
+			(at 76.2 215.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Resonance_B_CV.kicad_sch"
+			(at 76.2 229.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Input" input
+			(at 101.6 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7a69cbeb-5ba7-4387-8c38-90749046f909")
+		)
+		(pin "Output" output
+			(at 101.6 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "892a7498-a14f-4085-8932-564d9a487533")
+		)
+		(pin "Res CV Input" input
+			(at 76.2 219.71 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a1631f6c-3060-4c2a-9be6-4e437fe6f030")
+		)
+		(pin "Treated CV In" input
+			(at 76.2 224.79 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "65dbc99d-6bc0-4d03-9d36-bab847ff790c")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.8605 152.4805)
+		(size 20.2395 50.7195)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f24a7deb-7368-4909-ac96-a87cdb4f6b04")
+		(property "Sheetname" "Inputs and Outputs B"
+			(at 17.8605 151.7689 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Inputs_and_Outputs_B.kicad_sch"
+			(at 17.8605 203.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "CV 2 Jack" output
+			(at 38.1 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5cbf7505-96bc-4bc5-89db-ef9d6841d143")
+		)
+		(pin "Output Jack" input
+			(at 38.1 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2544ea5a-6255-4365-9174-3f9d2181590e")
+		)
+		(pin "Res CV Jack" output
+			(at 38.1 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "423173dc-79e1-4ab9-97dc-7e7997659c01")
+		)
+		(pin "Input Jack" output
+			(at 38.1 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "de6662d5-25b4-4fed-869a-febe2813a33e")
+		)
+		(pin "CV 1 Jack" output
+			(at 38.1 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "be565046-9944-48b8-9878-6b783a3c655a")
+		)
+		(pin "Input TN" input
+			(at 38.1 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0f1800c1-7acd-4145-abf8-d38e60b9ff68")
+		)
+		(pin "CV1 TN" input
+			(at 38.1 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "afa8bfe7-3410-470c-803d-0c4e641f6065")
+		)
+		(pin "CV2 TN" input
+			(at 38.1 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "16ea75c7-0728-4437-ace9-eb9a006d6731")
+		)
+		(pin "Res CV TN" input
+			(at 38.1 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "16466809-61b0-4623-9987-b064c02cedda")
+		)
+		(pin "CV 3 Jack" output
+			(at 38.1 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "688f8483-60f4-4b56-a0e2-9cfe97395e1d")
+		)
+		(pin "Drive CV Jack" output
+			(at 38.1 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a373a1db-15f6-410b-9db3-62e31feed4b1")
+		)
+		(pin "CV3 TN" input
+			(at 38.1 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0670c7ac-69da-4eb8-a5c4-69155f157fcf")
+		)
+		(pin "Drive CV TN" input
+			(at 38.1 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "129e3172-64aa-42af-b75b-c290016a58ce")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 184.15)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fc37885e-257b-42ac-a311-5adb1094134c")
+		(property "Sheetname" "Drive B"
+			(at 76.2 183.4384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Drive_B.kicad_sch"
+			(at 76.2 210.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Input" input
+			(at 76.2 189.23 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "76ec093b-f182-4184-8aea-15e8c3005cea")
+		)
+		(pin "Output" output
+			(at 76.2 193.04 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c29129d3-04ed-4883-b3db-17e99fc46c78")
+		)
+		(pin "Drive CV Input" input
+			(at 76.2 200.66 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d1efd5f0-5a64-4907-9e87-adacfa09e3d2")
+		)
+		(pin "Treated CV In" input
+			(at 76.2 204.47 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "82b98b66-9979-4ad3-9b76-8be3d6d04c93")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
