@@ -4421,7 +4421,7 @@
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(uuid "80f603f4-62b7-4751-a5df-d4f2e621f38c")
 		(property "Reference" "SW8"
