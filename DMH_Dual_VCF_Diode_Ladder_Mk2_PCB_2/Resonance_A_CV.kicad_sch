@@ -3387,7 +3387,7 @@
 	(symbol
 		(lib_id "SynthStuff:Conn_01x06_PinHeader")
 		(at 76.2 100.33 90)
-		(unit 2)
+		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3469,7 +3469,7 @@
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ad5c5475-8483-41b0-97cc-617422d54799"
 					(reference "J21")
-					(unit 2)
+					(unit 3)
 				)
 			)
 		)
@@ -4035,7 +4035,7 @@
 	(symbol
 		(lib_id "SynthStuff:Conn_01x06_PinHeader")
 		(at 63.5 81.28 270)
-		(unit 1)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4117,7 +4117,7 @@
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ad5c5475-8483-41b0-97cc-617422d54799"
 					(reference "J21")
-					(unit 1)
+					(unit 2)
 				)
 			)
 		)
@@ -5186,7 +5186,7 @@
 	(symbol
 		(lib_id "SynthStuff:Conn_01x06_PinHeader")
 		(at 110.49 129.54 90)
-		(unit 3)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5268,7 +5268,7 @@
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ad5c5475-8483-41b0-97cc-617422d54799"
 					(reference "J21")
-					(unit 3)
+					(unit 1)
 				)
 			)
 		)

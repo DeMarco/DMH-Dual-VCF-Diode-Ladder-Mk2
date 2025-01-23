@@ -4055,6 +4055,14 @@
 				(hide yes)
 			)
 		)
+		(property "Function" ""
+			(at 170.18 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6beca2a7-50d7-4356-8303-dc222f444475")
 		)
@@ -4573,7 +4581,7 @@
 	(symbol
 		(lib_id "SynthStuff:Conn_01x06_PinHeader")
 		(at 165.1 113.03 0)
-		(unit 6)
+		(unit 5)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4624,6 +4632,14 @@
 				(hide yes)
 			)
 		)
+		(property "Function" ""
+			(at 165.1 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6beca2a7-50d7-4356-8303-dc222f444476")
 		)
@@ -4646,7 +4662,7 @@
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/f0045393-e1d0-4de8-baba-b9053cd8a11d"
 					(reference "J22")
-					(unit 6)
+					(unit 5)
 				)
 			)
 		)
@@ -4801,7 +4817,7 @@
 	(symbol
 		(lib_id "SynthStuff:Conn_01x06_PinHeader")
 		(at 63.5 81.28 270)
-		(unit 1)
+		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4883,7 +4899,7 @@
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/f0045393-e1d0-4de8-baba-b9053cd8a11d"
 					(reference "J22")
-					(unit 1)
+					(unit 3)
 				)
 			)
 		)
@@ -4967,7 +4983,7 @@
 	(symbol
 		(lib_id "SynthStuff:Conn_01x06_PinHeader")
 		(at 185.42 132.08 90)
-		(unit 5)
+		(unit 6)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5019,6 +5035,14 @@
 				(hide yes)
 			)
 		)
+		(property "Function" ""
+			(at 185.42 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6beca2a7-50d7-4356-8303-dc222f444477")
 		)
@@ -5041,7 +5065,7 @@
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/f0045393-e1d0-4de8-baba-b9053cd8a11d"
 					(reference "J22")
-					(unit 5)
+					(unit 6)
 				)
 			)
 		)
@@ -5801,7 +5825,7 @@
 	(symbol
 		(lib_id "SynthStuff:Conn_01x06_PinHeader")
 		(at 110.49 129.54 90)
-		(unit 3)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5883,7 +5907,7 @@
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/f0045393-e1d0-4de8-baba-b9053cd8a11d"
 					(reference "J22")
-					(unit 3)
+					(unit 1)
 				)
 			)
 		)

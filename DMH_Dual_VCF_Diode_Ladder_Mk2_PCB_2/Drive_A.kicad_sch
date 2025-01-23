@@ -3430,7 +3430,7 @@
 	(symbol
 		(lib_id "SynthStuff:Conn_01x06_PinHeader")
 		(at 63.5 81.28 270)
-		(unit 1)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3512,7 +3512,7 @@
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/76f3ab41-888d-43b6-843a-2a995f9c890b"
 					(reference "J17")
-					(unit 1)
+					(unit 2)
 				)
 			)
 		)
@@ -4377,7 +4377,7 @@
 	(symbol
 		(lib_id "SynthStuff:Conn_01x06_PinHeader")
 		(at 76.2 100.33 90)
-		(unit 2)
+		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4459,7 +4459,7 @@
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/76f3ab41-888d-43b6-843a-2a995f9c890b"
 					(reference "J17")
-					(unit 2)
+					(unit 3)
 				)
 			)
 		)
@@ -4854,7 +4854,7 @@
 	(symbol
 		(lib_id "SynthStuff:Conn_01x06_PinHeader")
 		(at 110.49 129.54 90)
-		(unit 3)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4936,7 +4936,7 @@
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/76f3ab41-888d-43b6-843a-2a995f9c890b"
 					(reference "J17")
-					(unit 3)
+					(unit 1)
 				)
 			)
 		)
