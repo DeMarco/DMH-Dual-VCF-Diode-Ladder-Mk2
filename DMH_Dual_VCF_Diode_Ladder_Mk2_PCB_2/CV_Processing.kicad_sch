@@ -567,6 +567,448 @@
 				)
 			)
 		)
+		(symbol "Device:R_Potentiometer_Dual"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "RV"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R_Potentiometer_Dual"
+				(at 0 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 6.35 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 6.35 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Dual potentiometer"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "resistor variable"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Potentiometer*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_Potentiometer_Dual_0_1"
+				(rectangle
+					(start -8.89 -1.524)
+					(end -3.81 -3.556)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -6.35 0) (xy -6.35 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -6.35 0) (xy -6.35 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -6.35 0) (xy -5.842 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.588 0.508) (xy -5.08 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.572 0.508) (xy -4.064 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.556 0.508) (xy -3.048 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 0.508) (xy -2.032 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 0.508) (xy -1.016 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 0.508) (xy 0 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 0.508) (xy 1.016 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.524 0.508) (xy 2.032 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0.508) (xy 3.048 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.556 0.508) (xy 4.064 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.572 0.508) (xy 5.08 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.588 0.508) (xy 6.096 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 0) (xy 6.35 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 0) (xy 6.35 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.604 0.508) (xy 6.858 0.508) (xy 6.35 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -6.35 -1.397) (xy -6.858 -0.254) (xy -5.842 -0.254) (xy -6.35 -1.397)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 -1.397) (xy 5.842 -0.254) (xy 6.858 -0.254) (xy 6.35 -1.397)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 3.81 -1.524)
+					(end 8.89 -3.556)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_Potentiometer_Dual_1_1"
+				(pin passive line
+					(at -10.16 -2.54 0)
+					(length 1.27)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -6.35 2.54 270)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -2.54 180)
+					(length 1.27)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -2.54 0)
+					(length 1.27)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 6.35 2.54 270)
+					(length 2.54)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 -2.54 180)
+					(length 1.27)
+					(name "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Device:R_Potentiometer_US"
 			(pin_names
 				(offset 1.016) hide)
@@ -2331,12 +2773,6 @@
 		(uuid "9943ed1c-da20-4bb2-a6cc-397fefdf9a00")
 	)
 	(junction
-		(at 139.7 139.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9b9d5ca8-bbdb-4ba1-9576-38e80f6d2ab6")
-	)
-	(junction
 		(at 114.3 215.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2353,6 +2789,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a79c7eb1-6e94-4630-bb8a-18d3db2ddeae")
+	)
+	(junction
+		(at 119.38 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ad21a5c4-7845-4fed-a87b-3e6bc1acbe20")
 	)
 	(junction
 		(at 127 165.1)
@@ -2456,6 +2898,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 127) (xy 119.38 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0757a494-2631-49e8-9572-d4bdda919289")
+	)
+	(wire
+		(pts
 			(xy 88.9 196.85) (xy 100.33 196.85)
 		)
 		(stroke
@@ -2483,6 +2935,16 @@
 			(type default)
 		)
 		(uuid "0838472c-e408-4059-b0ca-03c58c519528")
+	)
+	(wire
+		(pts
+			(xy 119.38 138.43) (xy 115.57 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "084c6d49-73f4-49c0-8cb7-770c7f032010")
 	)
 	(wire
 		(pts
@@ -2546,6 +3008,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 140.97) (xy 127 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c5d33f5-ea1d-4e7f-b489-25a3da1d8315")
+	)
+	(wire
+		(pts
 			(xy 146.05 81.28) (xy 152.4 81.28)
 		)
 		(stroke
@@ -2586,16 +3058,6 @@
 	)
 	(wire
 		(pts
-			(xy 127 139.7) (xy 129.54 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "10fbd3cc-56fd-41d7-9271-61a186f84729")
-	)
-	(wire
-		(pts
 			(xy 163.83 139.7) (xy 171.45 139.7)
 		)
 		(stroke
@@ -2613,6 +3075,16 @@
 			(type default)
 		)
 		(uuid "133eccf3-cff2-4e12-a8f7-0afc52b01052")
+	)
+	(wire
+		(pts
+			(xy 119.38 154.94) (xy 123.19 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "138fac50-e055-400b-a490-2f58eceea91a")
 	)
 	(wire
 		(pts
@@ -2716,6 +3188,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 146.05) (xy 129.54 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "239709ae-b79c-41ee-8d77-8bbd2c5e4354")
+	)
+	(wire
+		(pts
 			(xy 38.1 187.96) (xy 40.64 187.96)
 		)
 		(stroke
@@ -2746,16 +3228,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 139.7) (xy 139.7 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "291f4de1-b3fd-420f-aa0e-ee09a286ad59")
-	)
-	(wire
-		(pts
 			(xy 52.07 66.04) (xy 55.88 66.04)
 		)
 		(stroke
@@ -2763,6 +3235,16 @@
 			(type default)
 		)
 		(uuid "2aaaa731-d480-43ea-8d27-3be63131221c")
+	)
+	(wire
+		(pts
+			(xy 134.62 154.94) (xy 134.62 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d914121-cfb8-48b6-9eca-71fe6305c337")
 	)
 	(wire
 		(pts
@@ -3156,6 +3638,16 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 138.43) (xy 105.41 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62c01443-5246-4efc-8a8c-55c116a7d019")
+	)
+	(wire
+		(pts
 			(xy 63.5 226.06) (xy 63.5 229.87)
 		)
 		(stroke
@@ -3173,6 +3665,16 @@
 			(type default)
 		)
 		(uuid "63011e92-debf-4759-b4a5-516314ac926a")
+	)
+	(wire
+		(pts
+			(xy 107.95 138.43) (xy 105.41 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63331715-bb6e-4bba-8056-9eb8f3d49da6")
 	)
 	(wire
 		(pts
@@ -3236,16 +3738,6 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 133.35) (xy 123.19 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7042a9bc-d967-4bb3-aaed-560a5266bc7a")
-	)
-	(wire
-		(pts
 			(xy 77.47 76.2) (xy 77.47 86.36)
 		)
 		(stroke
@@ -3253,16 +3745,6 @@
 			(type default)
 		)
 		(uuid "720578cd-3766-4e4e-812a-008341b043e3")
-	)
-	(wire
-		(pts
-			(xy 123.19 153.67) (xy 123.19 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73ca3440-a742-4709-b431-304fd822bd6e")
 	)
 	(wire
 		(pts
@@ -3283,6 +3765,16 @@
 			(type default)
 		)
 		(uuid "784759fb-e3b0-4cc0-82ef-4aa9535e21d7")
+	)
+	(wire
+		(pts
+			(xy 137.16 146.05) (xy 139.7 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "792ab6c5-7405-4b41-abb8-2ccd2f612b07")
 	)
 	(wire
 		(pts
@@ -3313,16 +3805,6 @@
 			(type default)
 		)
 		(uuid "7db24a82-85bf-412e-8c42-cfeb8daffdbd")
-	)
-	(wire
-		(pts
-			(xy 123.19 143.51) (xy 123.19 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e36f5dd-8089-45ec-941d-fe22b56f0908")
 	)
 	(wire
 		(pts
@@ -3536,6 +4018,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 154.94) (xy 134.62 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9db8c745-1ceb-41af-b7fa-bebde806f20e")
+	)
+	(wire
+		(pts
 			(xy 171.45 147.32) (xy 171.45 149.86)
 		)
 		(stroke
@@ -3596,6 +4088,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 133.35) (xy 129.54 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4ee31d4-e766-4d97-be3e-0937cb728fab")
+	)
+	(wire
+		(pts
 			(xy 152.4 165.1) (xy 152.4 167.64)
 		)
 		(stroke
@@ -3616,6 +4118,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 142.24) (xy 119.38 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abec09e6-3a38-4f56-a6c4-c92e03e4022e")
+	)
+	(wire
+		(pts
 			(xy 114.3 88.9) (xy 114.3 114.3)
 		)
 		(stroke
@@ -3623,6 +4135,16 @@
 			(type default)
 		)
 		(uuid "abf6bde3-6a9c-4e33-b232-15f77642ccd3")
+	)
+	(wire
+		(pts
+			(xy 127 127) (xy 119.38 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac7218c2-0330-4f68-8ea2-0ee19c2759c1")
 	)
 	(wire
 		(pts
@@ -3663,6 +4185,26 @@
 			(type default)
 		)
 		(uuid "b23abc94-7b11-4e66-9e2d-38870776d47e")
+	)
+	(wire
+		(pts
+			(xy 119.38 124.46) (xy 119.38 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b25eb78b-9315-4e50-b6b6-f5fdac5565ae")
+	)
+	(wire
+		(pts
+			(xy 139.7 146.05) (xy 139.7 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b34d9408-df39-456f-9bba-a753b5616b87")
 	)
 	(wire
 		(pts
@@ -3716,7 +4258,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 114.3) (xy 139.7 139.7)
+			(xy 139.7 114.3) (xy 139.7 133.35)
 		)
 		(stroke
 			(width 0)
@@ -3733,6 +4275,16 @@
 			(type default)
 		)
 		(uuid "be86fc62-9e48-4109-8aed-599ab3a2f07c")
+	)
+	(wire
+		(pts
+			(xy 119.38 149.86) (xy 119.38 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf9edf45-f896-4089-8b04-5ad1476954e9")
 	)
 	(wire
 		(pts
@@ -3916,6 +4468,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 137.16) (xy 119.38 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d309d2ae-73cd-41bd-af50-bc8fb62558b5")
+	)
+	(wire
+		(pts
 			(xy 146.05 101.6) (xy 146.05 137.16)
 		)
 		(stroke
@@ -4006,6 +4568,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 140.97) (xy 127 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3070976-13a9-42e6-985e-c29e2ce4bc46")
+	)
+	(wire
+		(pts
 			(xy 60.96 86.36) (xy 63.5 86.36)
 		)
 		(stroke
@@ -4036,7 +4608,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 139.7) (xy 139.7 139.7)
+			(xy 137.16 133.35) (xy 139.7 133.35)
 		)
 		(stroke
 			(width 0)
@@ -5170,90 +5742,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Potentiometer_US")
-		(at 123.19 139.7 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "24e414f4-cb17-481e-9b29-139ddd9b3cae")
-		(property "Reference" "RV6"
-			(at 120.65 140.9701 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "100k"
-			(at 120.65 138.4301 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SynthStuff:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical"
-			(at 123.19 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 123.19 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Potentiometer, US symbol"
-			(at 123.19 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Function" "Cutoff Common"
-			(at 108.458 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-					(italic yes)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "2b1bb2d1-46e6-4bc0-b4c3-905da1fd7360")
-		)
-		(pin "1"
-			(uuid "5e72e179-5341-4f3a-81a0-9b9e53bcc5fe")
-		)
-		(pin "3"
-			(uuid "3de6e478-ec93-4f23-8b88-ea5a3b04d799")
-		)
-		(instances
-			(project "DMH_Dual_VCF_Diode_Ladder_PCB"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ec2d44bc-ed06-4f0b-a22e-df640fa5e089"
-					(reference "RV6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 63.5 229.87 0)
 		(unit 1)
@@ -5738,7 +6226,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 123.19 133.35 0)
+		(at 119.38 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5747,7 +6235,7 @@
 		(fields_autoplaced yes)
 		(uuid "4064df61-41e6-4290-ab96-3b317b928bac")
 		(property "Reference" "#PWR020"
-			(at 123.19 137.16 0)
+			(at 119.38 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5756,7 +6244,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 123.19 128.27 0)
+			(at 119.38 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5764,7 +6252,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 123.19 133.35 0)
+			(at 119.38 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5773,7 +6261,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 123.19 133.35 0)
+			(at 119.38 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5782,7 +6270,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 123.19 133.35 0)
+			(at 119.38 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6400,6 +6888,140 @@
 			(project "DMH_Dual_VCF_Diode_Ladder_PCB"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ec2d44bc-ed06-4f0b-a22e-df640fa5e089"
 					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:-12V")
+		(at 105.41 147.32 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "597bf94b-b0c6-4f26-bb9c-10915a983567")
+		(property "Reference" "#PWR0107"
+			(at 105.41 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-12V"
+			(at 105.41 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 105.41 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"-12V\""
+			(at 105.41 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3a78c2c3-f19c-4afc-a6b5-1117d319471c")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_2"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ec2d44bc-ed06-4f0b-a22e-df640fa5e089"
+					(reference "#PWR0107")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 111.76 138.43 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "630ea613-6bd1-4cc2-ad0b-edbb14083f22")
+		(property "Reference" "R132"
+			(at 111.76 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "27k"
+			(at 111.76 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 111.506 137.414 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 111.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 111.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "27e543d0-531e-403a-9624-cc2a6d4948e7")
+		)
+		(pin "1"
+			(uuid "571b9edf-fc57-44d2-917a-1d1ebe2947ca")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_2"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ec2d44bc-ed06-4f0b-a22e-df640fa5e089"
+					(reference "R132")
 					(unit 1)
 				)
 			)
@@ -7402,6 +8024,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_US")
+		(at 133.35 146.05 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "88fe9a29-cf3d-443d-a846-821d1f23367d")
+		(property "Reference" "R131"
+			(at 133.35 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100k"
+			(at 133.35 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 133.604 145.034 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 133.35 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 133.35 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "466f6f00-7f52-4bef-9e90-cb9009e92e45")
+		)
+		(pin "1"
+			(uuid "1ea4521a-dab7-40ef-bd57-84f99b56ef6f")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_2"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ec2d44bc-ed06-4f0b-a22e-df640fa5e089"
+					(reference "R131")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Potentiometer_US")
 		(at 63.5 50.8 90)
 		(unit 1)
@@ -7484,7 +8174,7 @@
 	)
 	(symbol
 		(lib_id "power:-12V")
-		(at 123.19 156.21 180)
+		(at 134.62 157.48 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7493,7 +8183,7 @@
 		(fields_autoplaced yes)
 		(uuid "8cc4d2f0-a6c6-4950-92ea-5f36a1eec9e6")
 		(property "Reference" "#PWR023"
-			(at 123.19 152.4 0)
+			(at 134.62 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7502,7 +8192,7 @@
 			)
 		)
 		(property "Value" "-12V"
-			(at 123.19 161.29 0)
+			(at 134.62 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7510,7 +8200,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 123.19 156.21 0)
+			(at 134.62 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7519,7 +8209,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 123.19 156.21 0)
+			(at 134.62 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7528,7 +8218,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"-12V\""
-			(at 123.19 156.21 0)
+			(at 134.62 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8339,6 +9029,98 @@
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ec2d44bc-ed06-4f0b-a22e-df640fa5e089"
 					(reference "U7")
 					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Potentiometer_Dual")
+		(at 121.92 139.7 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ac512475-a13c-4c70-9e6d-c754202ff61a")
+		(property "Reference" "RV6"
+			(at 116.332 131.826 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100k"
+			(at 116.332 134.366 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical"
+			(at 120.015 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 120.015 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual potentiometer"
+			(at 121.92 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" "Cutoff Common"
+			(at 104.14 133.096 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1e6d2a28-76cf-47f1-a2e9-678d67a371ad")
+		)
+		(pin "4"
+			(uuid "04b4d635-d5fb-4c5a-b3c5-b6944cf68c13")
+		)
+		(pin "6"
+			(uuid "1cb29580-069e-4669-b278-361d81807b62")
+		)
+		(pin "5"
+			(uuid "11b3e514-4e2a-4ec7-b654-377467836307")
+		)
+		(pin "3"
+			(uuid "ee81c856-23a5-4735-9aaf-ca108ef0bb81")
+		)
+		(pin "1"
+			(uuid "9e535a54-71e4-4852-a1a5-35f32eba3be3")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_2"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ec2d44bc-ed06-4f0b-a22e-df640fa5e089"
+					(reference "RV6")
+					(unit 1)
 				)
 			)
 		)
@@ -9169,34 +9951,32 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 123.19 149.86 0)
+		(at 127 154.94 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c371cbea-dc09-43d0-a276-200c5fc79347")
 		(property "Reference" "R12"
-			(at 125.73 148.5899 0)
+			(at 127 161.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "27k"
-			(at 125.73 151.1299 0)
+			(at 127 158.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 124.206 150.114 90)
+			(at 127.254 155.956 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9205,7 +9985,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 123.19 149.86 0)
+			(at 127 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9214,7 +9994,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 123.19 149.86 0)
+			(at 127 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9930,7 +10710,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 133.35 139.7 90)
+		(at 133.35 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9939,7 +10719,7 @@
 		(fields_autoplaced yes)
 		(uuid "e7b36c92-3181-48a1-9451-210c75026def")
 		(property "Reference" "R11"
-			(at 133.35 133.35 90)
+			(at 133.35 127 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9947,7 +10727,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 133.35 135.89 90)
+			(at 133.35 129.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9955,7 +10735,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 133.604 138.684 90)
+			(at 133.604 132.334 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9964,7 +10744,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 139.7 0)
+			(at 133.35 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9973,7 +10753,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 133.35 139.7 0)
+			(at 133.35 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
