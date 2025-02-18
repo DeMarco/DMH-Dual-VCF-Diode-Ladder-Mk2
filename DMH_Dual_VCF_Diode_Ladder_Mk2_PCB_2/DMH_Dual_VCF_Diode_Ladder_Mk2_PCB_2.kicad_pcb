@@ -9267,7 +9267,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R132"
-			(at 3.81 2.37 360)
+			(at 3.81 2.37 0)
 			(layer "B.SilkS")
 			(uuid "a4ba673e-276f-4a44-95a3-731542823283")
 			(effects
@@ -9279,7 +9279,7 @@
 			)
 		)
 		(property "Value" "27k"
-			(at 3.81 0 360)
+			(at 3.81 0 0)
 			(layer "B.SilkS")
 			(uuid "fdfe95ff-6075-476e-a35e-beb99941cb15")
 			(effects
@@ -9498,7 +9498,7 @@
 			(uuid "3e73dfdc-89af-448d-bcd6-01ff344ef1f0")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 0 360)
+			(at 3.81 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "3b8e1f4c-1b58-40ee-9d07-6c70b83f22a8")
@@ -9839,6 +9839,7 @@
 		)
 	)
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(locked yes)
 		(layer "B.Cu")
 		(uuid "20f58c98-9f11-4d96-8c32-2a23e0f90faf")
 		(at 170 94.5 180)
@@ -10171,6 +10172,7 @@
 		)
 	)
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
+		(locked yes)
 		(layer "B.Cu")
 		(uuid "25370a76-e1e2-48fc-aff0-71d8307f3978")
 		(at 170 128 180)
@@ -10525,6 +10527,7 @@
 		)
 	)
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+		(locked yes)
 		(layer "B.Cu")
 		(uuid "2cf6e9e9-e2c9-4153-8592-a35190a08051")
 		(at 102 143.8)
@@ -12555,6 +12558,7 @@
 		)
 	)
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+		(locked yes)
 		(layer "B.Cu")
 		(uuid "4f76f502-f0d0-482f-b891-b2d12f89cfe1")
 		(at 98 143.8)
@@ -14853,6 +14857,7 @@
 		)
 	)
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
+		(locked yes)
 		(layer "B.Cu")
 		(uuid "a58041fd-f6d5-4e17-bd98-fb348be7a473")
 		(at 30 128 180)
@@ -14940,7 +14945,7 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/fbf9e92f-9a3b-40e0-b65e-8366cd1db016")
+		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/40fcdf88-7dc7-4238-b295-80ee23c3a9df")
 		(sheetname "CV Processing")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
@@ -15489,6 +15494,7 @@
 		)
 	)
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(locked yes)
 		(layer "B.Cu")
 		(uuid "b3bcd41b-cc5e-40ad-9590-8e7cf6b1e7a4")
 		(at 170 56.5 180)
@@ -15821,6 +15827,7 @@
 		)
 	)
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(locked yes)
 		(layer "B.Cu")
 		(uuid "beae96da-fa59-4c46-9af8-2610082a3ede")
 		(at 30 56.5 180)
@@ -17563,6 +17570,7 @@
 		)
 	)
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(locked yes)
 		(layer "B.Cu")
 		(uuid "ffad2b15-71ab-4dc3-94cd-496ae180877c")
 		(at 30 94.5 180)

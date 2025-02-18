@@ -6499,7 +6499,6 @@
 		(in_bom yes)
 		(on_board no)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f45d6b2a-6153-4ab9-9bfe-45ec8c6b2e02")
 		(property "Reference" "RV29"
 			(at 224.79 100.3299 0)
@@ -6544,6 +6543,17 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Function" "Drive B VCA Center"
+			(at 239.776 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
 			)
 		)
 		(pin "2"
