@@ -3482,7 +3482,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "26f1b73b-0634-4240-9928-89c744631e44")
 		(property "Reference" "RV17"
 			(at 224.79 100.3299 0)
@@ -3527,6 +3526,17 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Function" "Res A VCA Center"
+			(at 238.506 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
 			)
 		)
 		(pin "2"

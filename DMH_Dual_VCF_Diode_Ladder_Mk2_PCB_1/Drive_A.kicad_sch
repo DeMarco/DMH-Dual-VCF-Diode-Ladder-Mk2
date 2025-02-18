@@ -4538,7 +4538,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "676e9873-a8b7-45f9-9fb1-4aa73823039f")
 		(property "Reference" "RV26"
 			(at 224.79 100.3299 0)
@@ -4583,6 +4582,17 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Function" "Drive A VCA Center"
+			(at 239.268 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
 			)
 		)
 		(pin "2"

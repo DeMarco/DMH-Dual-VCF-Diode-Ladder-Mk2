@@ -5988,7 +5988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Function" "Resonance Intensity"
+		(property "Function" "Res A Intensity"
 			(at 209.55 23.876 90)
 			(effects
 				(font

@@ -6192,7 +6192,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ee86b6b4-0192-4ea7-984e-02b02ce03c89")
 		(property "Reference" "RV23"
 			(at 224.79 100.3299 0)
@@ -6237,6 +6236,17 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Function" "Res B VCA Center"
+			(at 238.76 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
 			)
 		)
 		(pin "2"
