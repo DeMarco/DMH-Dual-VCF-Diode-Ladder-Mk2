@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "58f4306d-5387-4983-bb08-41a2313fd315")
 	(paper "A4" portrait)
 	(title_block
@@ -953,6 +953,10 @@
 	(sheet
 		(at 17.78 114.3)
 		(size 20.32 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -983,23 +987,23 @@
 		)
 		(pin "Bus Gate" output
 			(at 38.1 133.35 0)
+			(uuid "35434339-bc2b-4868-9a18-95483283b276")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "35434339-bc2b-4868-9a18-95483283b276")
 		)
 		(pin "Bus CV" output
 			(at 38.1 120.65 0)
+			(uuid "0197176f-d754-4695-b74f-89d14faa0aea")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "0197176f-d754-4695-b74f-89d14faa0aea")
 		)
 		(instances
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
@@ -1012,6 +1016,10 @@
 	(sheet
 		(at 76.2 152.4)
 		(size 38.1 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1042,53 +1050,53 @@
 		)
 		(pin "Output" output
 			(at 76.2 167.64 180)
+			(uuid "824ef3c1-8d70-4ca7-882a-a32dfb81527f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "824ef3c1-8d70-4ca7-882a-a32dfb81527f")
 		)
 		(pin "Input" input
 			(at 76.2 161.29 180)
+			(uuid "bcef8807-861a-4d95-b13b-d41a91dc844c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "bcef8807-861a-4d95-b13b-d41a91dc844c")
 		)
 		(pin "Res Input" input
 			(at 114.3 160.02 0)
+			(uuid "b7a34321-2d41-4484-92ec-d4d23de604d5")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "b7a34321-2d41-4484-92ec-d4d23de604d5")
 		)
 		(pin "Raw Output" output
 			(at 114.3 156.21 0)
+			(uuid "4832c5e1-a160-43b2-a24e-b935623ff9d1")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "4832c5e1-a160-43b2-a24e-b935623ff9d1")
 		)
 		(pin "CV" input
 			(at 76.2 154.94 180)
+			(uuid "859a537d-346b-4852-840d-d21ccb349166")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "859a537d-346b-4852-840d-d21ccb349166")
 		)
 		(instances
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
@@ -1101,6 +1109,10 @@
 	(sheet
 		(at 76.2 44.45)
 		(size 25.4 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1131,43 +1143,43 @@
 		)
 		(pin "Input" input
 			(at 76.2 49.53 180)
+			(uuid "d538a505-0803-4f76-865e-a0bc33415bef")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "d538a505-0803-4f76-865e-a0bc33415bef")
 		)
 		(pin "Output" output
 			(at 76.2 53.34 180)
+			(uuid "35bf57e3-48c5-41b0-843d-d0fb2b4d7770")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "35bf57e3-48c5-41b0-843d-d0fb2b4d7770")
 		)
 		(pin "Drive CV Input" input
 			(at 76.2 60.96 180)
+			(uuid "ef1b89a2-5e0d-43a0-ae25-8c76fb42ed32")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "ef1b89a2-5e0d-43a0-ae25-8c76fb42ed32")
 		)
 		(pin "Drive CV" output
 			(at 76.2 64.77 180)
+			(uuid "ee606573-3449-4bcc-a78b-972a7d448d91")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "ee606573-3449-4bcc-a78b-972a7d448d91")
 		)
 		(instances
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
@@ -1180,6 +1192,10 @@
 	(sheet
 		(at 76.2 82.55)
 		(size 38.1 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1210,53 +1226,53 @@
 		)
 		(pin "Output" output
 			(at 76.2 92.71 180)
+			(uuid "2ac4b1a4-34c1-4db4-980a-cb367d4c33e2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "2ac4b1a4-34c1-4db4-980a-cb367d4c33e2")
 		)
 		(pin "Input" input
 			(at 76.2 86.36 180)
+			(uuid "3d751bb9-bc86-4e9e-b126-7a702b24f8d2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "3d751bb9-bc86-4e9e-b126-7a702b24f8d2")
 		)
 		(pin "Res Input" input
 			(at 114.3 91.44 0)
+			(uuid "6567e6d9-c4a8-4cc8-9f65-8f2af85846ff")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "6567e6d9-c4a8-4cc8-9f65-8f2af85846ff")
 		)
 		(pin "Raw Output" output
 			(at 114.3 87.63 0)
+			(uuid "50835797-2993-4f04-8087-d43d338e1667")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "50835797-2993-4f04-8087-d43d338e1667")
 		)
 		(pin "CV" input
 			(at 76.2 99.06 180)
+			(uuid "14a92ebc-2d16-4e2d-a395-2b6edd22de99")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "14a92ebc-2d16-4e2d-a395-2b6edd22de99")
 		)
 		(instances
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
@@ -1269,6 +1285,10 @@
 	(sheet
 		(at 76.2 25.4)
 		(size 25.4 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1299,43 +1319,43 @@
 		)
 		(pin "Input" input
 			(at 101.6 34.29 0)
+			(uuid "759dbb16-01a1-47a3-a42b-9aac215e21f7")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "759dbb16-01a1-47a3-a42b-9aac215e21f7")
 		)
 		(pin "Output" output
 			(at 101.6 29.21 0)
+			(uuid "8ebeeb78-af77-44a1-9eb9-5d05b3f2be12")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "8ebeeb78-af77-44a1-9eb9-5d05b3f2be12")
 		)
 		(pin "Res CV Input" input
 			(at 76.2 29.21 180)
+			(uuid "5e2f43c0-0bbd-45b5-b465-8ad353600128")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "5e2f43c0-0bbd-45b5-b465-8ad353600128")
 		)
 		(pin "Res CV" output
 			(at 76.2 34.29 180)
+			(uuid "cb9310a3-2d47-40d5-b58f-961df6c8a152")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "cb9310a3-2d47-40d5-b58f-961df6c8a152")
 		)
 		(instances
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
@@ -1348,6 +1368,10 @@
 	(sheet
 		(at 17.78 63.5)
 		(size 20.32 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1378,83 +1402,83 @@
 		)
 		(pin "Output Jack" input
 			(at 38.1 95.25 0)
+			(uuid "47d6f700-19ac-440c-a9bd-0184205b1d14")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "47d6f700-19ac-440c-a9bd-0184205b1d14")
 		)
 		(pin "Input Jack" output
 			(at 38.1 69.85 0)
+			(uuid "d1cfb4b1-5a54-4286-ba01-f85047d51a10")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "d1cfb4b1-5a54-4286-ba01-f85047d51a10")
 		)
 		(pin "CV 1 Jack" output
 			(at 38.1 73.66 0)
+			(uuid "3a5cdf2a-d250-44b0-a6fb-6b8952b38724")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "3a5cdf2a-d250-44b0-a6fb-6b8952b38724")
 		)
 		(pin "CV 2 Jack" output
 			(at 38.1 77.47 0)
+			(uuid "371c4516-13c1-4a0f-8a4f-05e2b95ce388")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "371c4516-13c1-4a0f-8a4f-05e2b95ce388")
 		)
 		(pin "Res CV Jack" output
 			(at 38.1 88.9 0)
+			(uuid "c9a6071c-bf2c-48ab-8517-dacace690546")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "c9a6071c-bf2c-48ab-8517-dacace690546")
 		)
 		(pin "CV 3 Jack" output
 			(at 38.1 81.28 0)
+			(uuid "1cb370ea-3a3c-44a0-9fbe-b104757df6cc")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "1cb370ea-3a3c-44a0-9fbe-b104757df6cc")
 		)
 		(pin "Drive CV Jack" output
 			(at 38.1 85.09 0)
+			(uuid "b2d820bb-c772-469a-b050-690363f0cab9")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "b2d820bb-c772-469a-b050-690363f0cab9")
 		)
 		(pin "CV 3 TN" input
 			(at 38.1 99.06 0)
+			(uuid "714ea5d8-733e-4afe-a46c-b65a9b4e5759")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "714ea5d8-733e-4afe-a46c-b65a9b4e5759")
 		)
 		(instances
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
@@ -1467,6 +1491,10 @@
 	(sheet
 		(at 76.2 107.95)
 		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1497,83 +1525,83 @@
 		)
 		(pin "CV A" output
 			(at 76.2 110.49 180)
+			(uuid "5c8ec3db-a5bb-4825-b2f3-ed08c540010e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "5c8ec3db-a5bb-4825-b2f3-ed08c540010e")
 		)
 		(pin "CV1 B Input" input
 			(at 76.2 132.08 180)
+			(uuid "849669a4-586a-4144-aaaf-708d4277edda")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "849669a4-586a-4144-aaaf-708d4277edda")
 		)
 		(pin "CV2 B Input" input
 			(at 76.2 135.89 180)
+			(uuid "2446d5b8-c527-42a6-82e3-afe03ec6bcdf")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "2446d5b8-c527-42a6-82e3-afe03ec6bcdf")
 		)
 		(pin "CV1 A Input" input
 			(at 76.2 114.3 180)
+			(uuid "7fee05fc-ab9e-4f56-8220-ff4043829c09")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "7fee05fc-ab9e-4f56-8220-ff4043829c09")
 		)
 		(pin "CV2 A Input" input
 			(at 76.2 118.11 180)
+			(uuid "888b3a4b-ebdb-40ac-8a64-6ded6ede7a04")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "888b3a4b-ebdb-40ac-8a64-6ded6ede7a04")
 		)
 		(pin "Link CV Switch" output
 			(at 76.2 143.51 180)
+			(uuid "122885cd-c4d5-4a4a-8bab-9a984b057435")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "122885cd-c4d5-4a4a-8bab-9a984b057435")
 		)
 		(pin "CV3 A Input" input
 			(at 76.2 121.92 180)
+			(uuid "bc9deaca-2561-45a7-94dc-c5b28c14cbc6")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "bc9deaca-2561-45a7-94dc-c5b28c14cbc6")
 		)
 		(pin "CV3 B Input" input
 			(at 76.2 139.7 180)
+			(uuid "f2ee901e-a8b2-43b8-b7e3-88ac6c40c236")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f2ee901e-a8b2-43b8-b7e3-88ac6c40c236")
 		)
 		(instances
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
@@ -1586,6 +1614,10 @@
 	(sheet
 		(at 76.2 215.9)
 		(size 25.4 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1616,43 +1648,43 @@
 		)
 		(pin "Input" input
 			(at 101.6 224.79 0)
+			(uuid "7a69cbeb-5ba7-4387-8c38-90749046f909")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "7a69cbeb-5ba7-4387-8c38-90749046f909")
 		)
 		(pin "Output" output
 			(at 101.6 219.71 0)
+			(uuid "892a7498-a14f-4085-8932-564d9a487533")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "892a7498-a14f-4085-8932-564d9a487533")
 		)
 		(pin "Res CV Input" input
 			(at 76.2 219.71 180)
+			(uuid "a1631f6c-3060-4c2a-9be6-4e437fe6f030")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "a1631f6c-3060-4c2a-9be6-4e437fe6f030")
 		)
 		(pin "Treated CV In" input
 			(at 76.2 224.79 180)
+			(uuid "65dbc99d-6bc0-4d03-9d36-bab847ff790c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "65dbc99d-6bc0-4d03-9d36-bab847ff790c")
 		)
 		(instances
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
@@ -1665,6 +1697,10 @@
 	(sheet
 		(at 17.8605 152.4805)
 		(size 20.2395 50.7195)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1695,133 +1731,133 @@
 		)
 		(pin "CV 2 Jack" output
 			(at 38.1 171.45 0)
+			(uuid "5cbf7505-96bc-4bc5-89db-ef9d6841d143")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "5cbf7505-96bc-4bc5-89db-ef9d6841d143")
 		)
 		(pin "Output Jack" input
 			(at 38.1 198.12 0)
+			(uuid "2544ea5a-6255-4365-9174-3f9d2181590e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "2544ea5a-6255-4365-9174-3f9d2181590e")
 		)
 		(pin "Res CV Jack" output
 			(at 38.1 190.5 0)
+			(uuid "423173dc-79e1-4ab9-97dc-7e7997659c01")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "423173dc-79e1-4ab9-97dc-7e7997659c01")
 		)
 		(pin "Input Jack" output
 			(at 38.1 158.75 0)
+			(uuid "de6662d5-25b4-4fed-869a-febe2813a33e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "de6662d5-25b4-4fed-869a-febe2813a33e")
 		)
 		(pin "CV 1 Jack" output
 			(at 38.1 165.1 0)
+			(uuid "be565046-9944-48b8-9878-6b783a3c655a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "be565046-9944-48b8-9878-6b783a3c655a")
 		)
 		(pin "Input TN" input
 			(at 38.1 156.21 0)
+			(uuid "0f1800c1-7acd-4145-abf8-d38e60b9ff68")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "0f1800c1-7acd-4145-abf8-d38e60b9ff68")
 		)
 		(pin "CV1 TN" input
 			(at 38.1 162.56 0)
+			(uuid "afa8bfe7-3410-470c-803d-0c4e641f6065")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "afa8bfe7-3410-470c-803d-0c4e641f6065")
 		)
 		(pin "CV2 TN" input
 			(at 38.1 168.91 0)
+			(uuid "16ea75c7-0728-4437-ace9-eb9a006d6731")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "16ea75c7-0728-4437-ace9-eb9a006d6731")
 		)
 		(pin "Res CV TN" input
 			(at 38.1 187.96 0)
+			(uuid "16466809-61b0-4623-9987-b064c02cedda")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "16466809-61b0-4623-9987-b064c02cedda")
 		)
 		(pin "CV 3 Jack" output
 			(at 38.1 177.8 0)
+			(uuid "688f8483-60f4-4b56-a0e2-9cfe97395e1d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "688f8483-60f4-4b56-a0e2-9cfe97395e1d")
 		)
 		(pin "Drive CV Jack" output
 			(at 38.1 184.15 0)
+			(uuid "a373a1db-15f6-410b-9db3-62e31feed4b1")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "a373a1db-15f6-410b-9db3-62e31feed4b1")
 		)
 		(pin "CV3 TN" input
 			(at 38.1 175.26 0)
+			(uuid "0670c7ac-69da-4eb8-a5c4-69155f157fcf")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "0670c7ac-69da-4eb8-a5c4-69155f157fcf")
 		)
 		(pin "Drive CV TN" input
 			(at 38.1 181.61 0)
+			(uuid "129e3172-64aa-42af-b75b-c290016a58ce")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "129e3172-64aa-42af-b75b-c290016a58ce")
 		)
 		(instances
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
@@ -1834,6 +1870,10 @@
 	(sheet
 		(at 76.2 184.15)
 		(size 25.4 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1864,43 +1904,43 @@
 		)
 		(pin "Input" input
 			(at 76.2 189.23 180)
+			(uuid "76ec093b-f182-4184-8aea-15e8c3005cea")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "76ec093b-f182-4184-8aea-15e8c3005cea")
 		)
 		(pin "Output" output
 			(at 76.2 193.04 180)
+			(uuid "c29129d3-04ed-4883-b3db-17e99fc46c78")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c29129d3-04ed-4883-b3db-17e99fc46c78")
 		)
 		(pin "Drive CV Input" input
 			(at 76.2 200.66 180)
+			(uuid "d1efd5f0-5a64-4907-9e87-adacfa09e3d2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "d1efd5f0-5a64-4907-9e87-adacfa09e3d2")
 		)
 		(pin "Treated CV In" input
 			(at 76.2 204.47 180)
+			(uuid "82b98b66-9979-4ad3-9b76-8be3d6d04c93")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "82b98b66-9979-4ad3-9b76-8be3d6d04c93")
 		)
 		(instances
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
@@ -1915,4 +1955,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )

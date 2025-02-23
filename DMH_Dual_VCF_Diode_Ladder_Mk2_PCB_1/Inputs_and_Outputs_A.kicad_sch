@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "731a96da-c193-4a8f-aca2-d1db03578b1b")
 	(paper "A4")
 	(title_block
@@ -11,7 +11,9 @@
 	(lib_symbols
 		(symbol "SynthStuff:BackBone_Connector_10Pin"
 			(pin_names
-				(offset 1.016) hide)
+				(offset 1.016)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -78,30 +80,19 @@
 			)
 			(symbol "BackBone_Connector_10Pin_1_1"
 				(rectangle
-					(start -2.54 -4.953)
-					(end -1.27 -5.207)
+					(start -2.54 6.35)
+					(end 2.54 -6.35)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
-						(type none)
+						(type background)
 					)
 				)
 				(rectangle
-					(start -2.54 -2.413)
-					(end -1.27 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -2.54 0.127)
-					(end -1.27 -0.127)
+					(start -2.54 5.207)
+					(end -1.27 4.953)
 					(stroke
 						(width 0.1524)
 						(type default)
@@ -122,8 +113,8 @@
 					)
 				)
 				(rectangle
-					(start -2.54 5.207)
-					(end -1.27 4.953)
+					(start -2.54 0.127)
+					(end -1.27 -0.127)
 					(stroke
 						(width 0.1524)
 						(type default)
@@ -133,19 +124,8 @@
 					)
 				)
 				(rectangle
-					(start -2.54 6.35)
-					(end 2.54 -6.35)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start 2.54 -4.953)
-					(end 1.27 -5.207)
+					(start -2.54 -2.413)
+					(end -1.27 -2.667)
 					(stroke
 						(width 0.1524)
 						(type default)
@@ -155,8 +135,8 @@
 					)
 				)
 				(rectangle
-					(start 2.54 -2.413)
-					(end 1.27 -2.667)
+					(start -2.54 -4.953)
+					(end -1.27 -5.207)
 					(stroke
 						(width 0.1524)
 						(type default)
@@ -166,8 +146,8 @@
 					)
 				)
 				(rectangle
-					(start 2.54 0.127)
-					(end 1.27 -0.127)
+					(start 2.54 5.207)
+					(end 1.27 4.953)
 					(stroke
 						(width 0.1524)
 						(type default)
@@ -188,8 +168,30 @@
 					)
 				)
 				(rectangle
-					(start 2.54 5.207)
-					(end 1.27 4.953)
+					(start 2.54 0.127)
+					(end 1.27 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.54 -2.413)
+					(end 1.27 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.54 -4.953)
+					(end 1.27 -5.207)
 					(stroke
 						(width 0.1524)
 						(type default)
@@ -209,24 +211,6 @@
 						)
 					)
 					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 6.35 -5.08 180)
-					(length 3.81)
-					(name "Pin_10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -378,7 +362,26 @@
 						)
 					)
 				)
+				(pin passive line
+					(at 6.35 -5.08 180)
+					(length 3.81)
+					(name "Pin_10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "SynthStuff:TS_Jack_6.35mm_Sw"
 			(exclude_from_sim no)
@@ -459,6 +462,18 @@
 				)
 				(polyline
 					(pts
+						(xy 0 0) (xy 0.635 -0.635) (xy 1.27 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
 						(xy 1.778 -0.254) (xy 2.032 -0.762)
 					)
 					(stroke
@@ -469,9 +484,20 @@
 						(type none)
 					)
 				)
+				(rectangle
+					(start 2.54 3.81)
+					(end -2.54 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
 				(polyline
 					(pts
-						(xy 0 0) (xy 0.635 -0.635) (xy 1.27 0) (xy 2.54 0)
+						(xy 2.54 2.54) (xy -0.635 2.54) (xy -0.635 0) (xy -1.27 -0.635) (xy -1.905 0)
 					)
 					(stroke
 						(width 0.254)
@@ -491,29 +517,6 @@
 					)
 					(fill
 						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 2.54) (xy -0.635 2.54) (xy -0.635 0) (xy -1.27 -0.635) (xy -1.905 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 2.54 3.81)
-					(end -2.54 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
 					)
 				)
 			)
@@ -573,12 +576,17 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "power:GND"
 			(power)
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0) hide)
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -669,6 +677,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 	)
 	(junction
