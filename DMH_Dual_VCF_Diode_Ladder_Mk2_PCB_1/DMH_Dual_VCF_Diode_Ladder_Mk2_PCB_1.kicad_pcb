@@ -373,7 +373,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/40fcdf88-7dc7-4238-b295-80ee23c3a9df")
-		(sheetname "CV Processing")
+		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -708,8 +708,8 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/c771b299-4fed-4519-ab0d-df3170ca0d89")
-		(sheetname "Drive A")
+		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/cd567c5a-3ab4-4708-89a6-dc99d8cc5ca8")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1021,7 +1021,7 @@
 		)
 		(property ki_fp_filters "Jack*")
 		(path "/ce3fef8b-9f1d-4178-b50b-4a046c030679/bae99c45-b69b-43c5-80da-1e68ffd5fccf")
-		(sheetname "Inputs and Outputs A")
+		(sheetname "/Inputs and Outputs A/")
 		(sheetfile "Inputs_and_Outputs_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1399,8 +1399,8 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/96e48e85-dcbe-4d36-a7ac-f5e4e0a67a81")
-		(sheetname "Resonance B CV")
+		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/c63629d2-ac0f-466a-8764-6cad8cbee194")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1714,7 +1714,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/95634f96-6ba0-4361-847c-8c43cdde9b5d")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2026,7 +2026,7 @@
 		)
 		(property ki_fp_filters "Jack*")
 		(path "/f24a7deb-7368-4909-ac96-a87cdb4f6b04/da93ef8f-cfd6-49eb-93a1-7264edaf7b3c")
-		(sheetname "Inputs and Outputs B")
+		(sheetname "/Inputs and Outputs B/")
 		(sheetfile "Inputs_and_Outputs_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2403,7 +2403,7 @@
 		)
 		(property ki_fp_filters "Jack*")
 		(path "/f24a7deb-7368-4909-ac96-a87cdb4f6b04/8fd3c927-6915-4a19-8592-d95ed5d093d3")
-		(sheetname "Inputs and Outputs B")
+		(sheetname "/Inputs and Outputs B/")
 		(sheetfile "Inputs_and_Outputs_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2780,7 +2780,7 @@
 		)
 		(property ki_fp_filters "Jack*")
 		(path "/ce3fef8b-9f1d-4178-b50b-4a046c030679/52b60ce2-96ad-4f26-bbd8-34426eebcb92")
-		(sheetname "Inputs and Outputs A")
+		(sheetname "/Inputs and Outputs A/")
 		(sheetfile "Inputs_and_Outputs_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3159,7 +3159,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/f0faeba7-dde3-484e-b788-06f61210611b")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3473,7 +3473,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/bd2f6810-9188-4952-bf4e-826622d3ac9b")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3765,7 +3765,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/61233aee-82ca-4908-a5ab-cdac5eb98535")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole exclude_from_bom dnp)
 		(fp_line
@@ -4022,7 +4022,7 @@
 		)
 		(property ki_fp_filters "Jack*")
 		(path "/f24a7deb-7368-4909-ac96-a87cdb4f6b04/1060e64b-b434-4835-9d7a-b3dc1fe6f599")
-		(sheetname "Inputs and Outputs B")
+		(sheetname "/Inputs and Outputs B/")
 		(sheetfile "Inputs_and_Outputs_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -4401,7 +4401,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/ef776801-47d7-4ace-b439-13835cdb6127")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -4693,7 +4693,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/9c91ca2b-2f33-4afa-aeb4-e280679b569c")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -4984,8 +4984,8 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/be7abd6f-4ef0-429d-b945-323a19f2d4fa")
-		(sheetname "CV Processing")
+		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/7adc2f76-08ba-4568-9bed-8467b8eeaed9")
+		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -5319,7 +5319,7 @@
 		)
 		(property ki_fp_filters "Jack*")
 		(path "/f24a7deb-7368-4909-ac96-a87cdb4f6b04/6166c659-308f-4736-957d-f7aaeef0f4aa")
-		(sheetname "Inputs and Outputs B")
+		(sheetname "/Inputs and Outputs B/")
 		(sheetfile "Inputs_and_Outputs_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -5696,7 +5696,7 @@
 		)
 		(property ki_fp_filters "Jack*")
 		(path "/ce3fef8b-9f1d-4178-b50b-4a046c030679/f01ca53f-b174-485b-94d9-3bf8adb44cb0")
-		(sheetname "Inputs and Outputs A")
+		(sheetname "/Inputs and Outputs A/")
 		(sheetfile "Inputs_and_Outputs_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -6073,7 +6073,7 @@
 		)
 		(property ki_fp_filters "Jack*")
 		(path "/ce3fef8b-9f1d-4178-b50b-4a046c030679/6687ea4f-7580-4709-9e88-a82fdcf2296c")
-		(sheetname "Inputs and Outputs A")
+		(sheetname "/Inputs and Outputs A/")
 		(sheetfile "Inputs_and_Outputs_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -6450,7 +6450,7 @@
 		)
 		(property ki_fp_filters "Jack*")
 		(path "/ce3fef8b-9f1d-4178-b50b-4a046c030679/27f61696-4013-4b4f-bbb7-18fe57ad12f5")
-		(sheetname "Inputs and Outputs A")
+		(sheetname "/Inputs and Outputs A/")
 		(sheetfile "Inputs_and_Outputs_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -6827,7 +6827,7 @@
 		)
 		(property ki_fp_filters "Jack*")
 		(path "/f24a7deb-7368-4909-ac96-a87cdb4f6b04/33042928-17e8-4285-bd2d-4a61ffc3b932")
-		(sheetname "Inputs and Outputs B")
+		(sheetname "/Inputs and Outputs B/")
 		(sheetfile "Inputs_and_Outputs_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -7204,7 +7204,7 @@
 		)
 		(property ki_fp_filters "Jack*")
 		(path "/f24a7deb-7368-4909-ac96-a87cdb4f6b04/4d82591a-be75-44bd-a847-30472681b6d2")
-		(sheetname "Inputs and Outputs B")
+		(sheetname "/Inputs and Outputs B/")
 		(sheetfile "Inputs_and_Outputs_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -7581,7 +7581,7 @@
 		)
 		(property ki_fp_filters "Jack*")
 		(path "/f24a7deb-7368-4909-ac96-a87cdb4f6b04/46bd2cae-b878-4d64-8eed-53314b35241d")
-		(sheetname "Inputs and Outputs B")
+		(sheetname "/Inputs and Outputs B/")
 		(sheetfile "Inputs_and_Outputs_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -7958,7 +7958,7 @@
 		)
 		(property ki_fp_filters "Jack*")
 		(path "/ce3fef8b-9f1d-4178-b50b-4a046c030679/16067633-5daf-4cc3-859b-5f10c3bf1ea2")
-		(sheetname "Inputs and Outputs A")
+		(sheetname "/Inputs and Outputs A/")
 		(sheetfile "Inputs_and_Outputs_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -8335,7 +8335,7 @@
 		)
 		(property ki_fp_filters "Jack*")
 		(path "/ce3fef8b-9f1d-4178-b50b-4a046c030679/229bbfe2-58f4-4390-842d-eea2760b8e21")
-		(sheetname "Inputs and Outputs A")
+		(sheetname "/Inputs and Outputs A/")
 		(sheetfile "Inputs_and_Outputs_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -8717,7 +8717,7 @@
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/66f9ec7a-ffe5-4338-8d3f-c6f215d28e3b")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -9187,7 +9187,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/f4385c50-e2e3-45e1-8add-8144959950d0")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -9485,7 +9485,7 @@
 		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/94af2552-565f-452a-8c65-f313069b2540")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -9843,7 +9843,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/f24a7deb-7368-4909-ac96-a87cdb4f6b04/d08c8cb1-e2d6-46d4-884f-35eb0dce069d")
-		(sheetname "Inputs and Outputs B")
+		(sheetname "/Inputs and Outputs B/")
 		(sheetfile "Inputs_and_Outputs_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -10376,7 +10376,7 @@
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/cfa18ed7-7739-4fa9-98ca-8c262a77d67c")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -10862,7 +10862,7 @@
 		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/3c1fec43-bbb3-4a63-8cff-dbcef7d63969")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -11219,7 +11219,7 @@
 		)
 		(property ki_fp_filters "TO?92*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/461e2c35-49ae-428d-8ff0-458e002dd70d")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -11466,7 +11466,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/a8205a01-bfef-4370-bd6c-92de216add17")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -11735,7 +11735,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/5c1bfe44-1d07-444e-92d5-5d6675396c91")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -12004,7 +12004,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/8427dea6-c957-4843-a327-166bef3a5113")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -12302,7 +12302,7 @@
 		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/af371f39-2430-4fbc-98a2-e8433f49daac")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -12659,7 +12659,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/a7f63713-da08-415c-b1a3-664d29746463")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -12908,7 +12908,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/ea27ecd4-b106-4d44-a7e5-f671d224e66b")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -13191,7 +13191,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/63ae6a3d-9f03-470c-b86f-0178e7d25716")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -13454,7 +13454,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/a4853818-1203-4960-be29-caee92769837")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -13703,7 +13703,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/5be4dca2-e678-4dc6-ace1-d851eddbf296")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -13986,7 +13986,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/53ce6a52-ba2d-4dc8-8e4a-9c5bbd74250c")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -14269,7 +14269,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/3aa4b570-09a9-457a-96d5-c61a94aafd8e")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -14553,7 +14553,7 @@
 		)
 		(property ki_fp_filters "TO?92*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/d2984bf4-d164-4d99-a828-9eb148b5c815")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -14815,7 +14815,7 @@
 		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/676e9873-a8b7-45f9-9fb1-4aa73823039f")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -15045,7 +15045,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "82k"
+		(property "Value" "100k"
 			(at 3.81 0 0)
 			(layer "B.SilkS")
 			(uuid "8bbb4f84-7274-41fd-9ae6-f7f6c24d53b1")
@@ -15087,7 +15087,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/a91d883f-719f-47e6-accb-52bfaf4fdb25")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -15356,7 +15356,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/5e5b94ee-0d72-47fc-8bd4-fd45e6ce3892")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -15639,7 +15639,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/9193538c-ca24-42ad-a695-26463da46da1")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -15908,7 +15908,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/609a73c0-387a-42a8-84d9-fb40cf704d17")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -16177,7 +16177,7 @@
 		)
 		(property ki_fp_filters "CP_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/ed5abd9d-f3fa-42df-881b-be08223ae1fe")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -17528,7 +17528,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/1c215269-8a65-4352-a753-bffe9e23778d")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -17811,7 +17811,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/e2a77090-c9ed-4812-b32a-160ca864b17c")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -18080,7 +18080,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/f5361aa7-35f1-4149-9bb9-eda6a11462a2")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -18363,7 +18363,7 @@
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/425b6814-b7da-41fe-96b1-dd9ee26cf978")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -18847,7 +18847,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/0b220fe4-cd00-45ab-8012-edde6e3a7ae4")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -19096,7 +19096,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/1920256c-7edd-41bb-b167-d1c1b5d3c806")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -19379,7 +19379,7 @@
 		)
 		(property ki_fp_filters "TO?92*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/4051443d-1ead-4184-8f1f-cf6aad074340")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -19626,7 +19626,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/e52a7fc5-1591-4c69-b07f-d274bf020707")
-		(sheetname "CV Processing")
+		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -19924,7 +19924,7 @@
 		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/135ace39-b919-4300-9a86-89e5cef5b9d4")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -20281,7 +20281,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/3b1bad6b-a290-43ff-be0b-927c7832e01a")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -20564,7 +20564,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/22527fed-35d2-4149-aafc-cd357888a399")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -20834,7 +20834,7 @@
 		)
 		(property ki_fp_filters "TO?92*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/c08154b6-6bf3-4130-b501-ef3f75896796")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -21081,7 +21081,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/d5b0e5e5-1d23-414f-89ed-932bdfaa3569")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -21365,7 +21365,7 @@
 		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/8560bbfc-13f2-4f73-b21d-5296d7cedc80")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -21638,7 +21638,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/357cc26b-4c7c-4e6e-844f-d252c41eefbe")
-		(sheetname "CV Processing")
+		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -21907,7 +21907,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/b07f1c02-a8ee-4abd-8c32-25e171c3be83")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -22191,7 +22191,7 @@
 		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/861d137c-9446-4c56-b587-3b45fc9d1747")
-		(sheetname "CV Processing")
+		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -22451,7 +22451,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/66bf0572-e84a-48fe-9f46-ce03a606a30d")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -22700,7 +22700,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/a043ae36-77fa-4312-a520-2144061c25da")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -22983,7 +22983,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/446004bb-4eb8-491f-b263-0c7a91522d09")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -23246,7 +23246,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/835880e5-2fc8-449f-a57d-2b41b7263774")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -23495,7 +23495,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/dc93b8c7-0173-40a5-9d88-6c6b86c219f4")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -23764,7 +23764,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/6181ad2c-df59-4b99-beae-43f6d25d146e")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -24033,7 +24033,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/a2f8cacc-bca8-4605-885d-7d06c50be270")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -24316,7 +24316,7 @@
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/ee0b1468-a429-40fb-a9ba-53571f3c3f7e")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -24802,7 +24802,7 @@
 		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/d3be465e-e83c-4491-be45-a18a7c501149")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -25174,7 +25174,7 @@
 		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/559e8996-2691-4925-a67e-846db02ffe99")
-		(sheetname "CV Processing")
+		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -25434,7 +25434,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/efd41d59-a42a-4083-b33a-8f9e24e0c15c")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -25703,7 +25703,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/abeeb89b-fb85-4a07-ac74-1488841414fa")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -25972,7 +25972,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/e41f7ccf-ad63-4cb3-856a-82a99489deb7")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -26241,7 +26241,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/9f3d6921-ccf8-4319-8358-293da2edecd3")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -26524,7 +26524,7 @@
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/4d0c64e5-2736-48a3-95b2-6f495a21b12a")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -26994,7 +26994,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/6660731d-c28d-4413-a33e-0c28ac8e010b")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -27243,7 +27243,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/bf9c3791-3605-459f-ad13-55043a0fdeed")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -27512,7 +27512,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/8f1c26cb-62bb-4604-bfd4-6c424278f496")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -27781,7 +27781,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/8e59ddd9-673a-4042-a202-433d6c96f1ed")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -28050,7 +28050,7 @@
 		)
 		(property ki_fp_filters "D*DO?41*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/b2022db7-b786-4665-91b6-588e3ae05656")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -28418,7 +28418,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/2b74cf0d-cf8e-401f-8ef2-7eae22b87c6d")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -28667,7 +28667,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/d81d7119-9d45-4e13-82bc-1ed0e2c33e7b")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -28936,7 +28936,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/f99bd4b4-ae24-4c50-8c24-be248496a21d")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -29234,7 +29234,7 @@
 		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/b16962ec-0296-41b6-b12f-fc0b86272b02")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -29591,7 +29591,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/62329cba-09fc-4581-9a8a-1e54cd1bf8f2")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -29860,7 +29860,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/0778169d-0bf9-4bb7-902b-94bc9549741b")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -30109,7 +30109,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/bb9347ea-17bf-4495-afdf-d21bed31fc73")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -30358,7 +30358,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/10b7e918-d897-48b8-aab7-5489e0ac7e67")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -30627,7 +30627,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/2757301b-03a3-44b0-9e04-a66d55fd153e")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -30896,7 +30896,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/0ab4f9db-8ae1-4626-ba72-edecce6de1cf")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -31145,7 +31145,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/0cda1ae7-21c6-4839-8387-d33de4d1ec13")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -31428,7 +31428,7 @@
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
 		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/ffcbece2-006c-4738-8b64-5c2536620524")
-		(sheetname "CV Processing")
+		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -31912,7 +31912,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/b42fde83-c8c5-44f0-a3e5-1fe985bb5114")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -32196,7 +32196,7 @@
 		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/26f1b73b-0634-4240-9928-89c744631e44")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -32468,7 +32468,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/2eb35a91-18a3-4af1-886c-8d0026864554")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -32737,7 +32737,7 @@
 		)
 		(property ki_fp_filters "CP_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/17f931fa-aa5a-4951-b583-54db7f8f11d2")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -34117,7 +34117,7 @@
 		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/9bb9a6e4-4d4b-4d6d-a999-8b11d2d8e64c")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -34503,7 +34503,7 @@
 		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/e7a64eed-db52-4792-b44a-564e5cf66994")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -34874,7 +34874,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/0328e812-1d6b-452e-a090-50bf59c34f1a")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -35137,7 +35137,7 @@
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
 		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/fc8d14a0-aa30-4dcf-b703-d349e0e322f6")
-		(sheetname "CV Processing")
+		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -35621,7 +35621,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/75300d96-6af8-4cfa-9b07-9887089e8f92")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -35919,7 +35919,7 @@
 		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/564285f4-bd15-4c4e-bd29-702257dcb24c")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -36234,7 +36234,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "82k"
+		(property "Value" "100k"
 			(at 3.81 0 0)
 			(layer "B.SilkS")
 			(uuid "280a6dad-c2af-45fe-a84d-1cb78132c6d3")
@@ -36276,7 +36276,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/64e634a3-ef0e-46e3-9302-adc6c77842f7")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -36559,7 +36559,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/63283ce5-0b1c-4f85-a710-4c30c4720b03")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -36828,7 +36828,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/cc766aea-e37c-400f-b486-bff8deb51136")
-		(sheetname "CV Processing")
+		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -37111,7 +37111,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/ca30284e-4948-4949-9b86-adf856842a97")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -37409,7 +37409,7 @@
 		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/eabacacf-f9d5-4325-a8d4-de660b79bf29")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -37766,7 +37766,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/a6ff3c10-d182-46d4-bbf6-f1262d580b2d")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -38029,7 +38029,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/fb60053c-7bbb-43c9-8f9e-7bc0f8498b43")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -38298,7 +38298,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/dfa7859e-1cfb-4b1f-af2b-5d55c65aa347")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -38567,7 +38567,7 @@
 		)
 		(property ki_fp_filters "D*DO?41*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/b2e88b90-6b1e-47f7-8302-1ee4f80c6df4")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -38923,7 +38923,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/24662603-217b-417a-b408-fe7aa3ec167a")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -39187,7 +39187,7 @@
 		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/885bb8dc-1331-4425-a433-17ac3fc92969")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -39460,7 +39460,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/be984239-666c-480e-b1a6-be915cc8a1e3")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -39723,7 +39723,7 @@
 		)
 		(property ki_fp_filters "TO?92*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/46ddc7d7-4529-4d2f-9b77-e618f25a7dc6")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -39971,7 +39971,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/ce3fef8b-9f1d-4178-b50b-4a046c030679/89bc0cf8-cc89-4b84-90c0-6b2a2f0f824f")
-		(sheetname "Inputs and Outputs A")
+		(sheetname "/Inputs and Outputs A/")
 		(sheetfile "Inputs_and_Outputs_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -40505,7 +40505,7 @@
 		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/ee86b6b4-0192-4ea7-984e-02b02ce03c89")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -40777,7 +40777,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/6a75f6ab-5c50-460f-8393-df4377be9522")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -41026,7 +41026,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/46b041e3-8033-45b6-80ce-4665a2c44f45")
-		(sheetname "CV Processing")
+		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -41309,7 +41309,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/6fa7bfb4-be67-4a3f-b25a-42b7a0d47678")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -41578,7 +41578,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/64fd8f76-4441-48b4-8262-ce1136d331d9")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -41861,7 +41861,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/4486cc05-9dd5-420d-9223-5eedde3e5207")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -42144,7 +42144,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/26b04d3e-ada1-4090-b104-d0e73f157a21")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -42427,7 +42427,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/a94fc522-c89e-4cfd-a249-4bfc5ad2d0dc")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -42696,7 +42696,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/bd1466a2-fe35-4e7f-ab3e-0a7fc236976e")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -42979,7 +42979,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/70342f53-c342-4968-b227-cd35342ab21e")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -43243,7 +43243,7 @@
 		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/899c9963-0d0f-47f0-a5b1-97be42b5087b")
-		(sheetname "CV Processing")
+		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -43503,7 +43503,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/1cddee84-2388-4d18-8410-0ca95ed9363e")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -43786,7 +43786,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/2adc9e00-0b58-40d6-b0b8-43065d794880")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -44069,7 +44069,7 @@
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/d953ebb0-0052-4c2a-8199-0eb5dda74af2")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -44539,7 +44539,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/2221489f-a937-441d-9ef3-ba4ee3681b3d")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -44808,7 +44808,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/f7f7e28b-0d0d-48ed-88cb-692896693513")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -45071,7 +45071,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/4c986b57-6dbb-4d99-bb65-ab0200587f7f")
-		(sheetname "CV Processing")
+		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -45340,7 +45340,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/f56daed2-5939-414c-ba19-0029a0a3af87")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -45609,7 +45609,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/fd900c60-55d4-4aa4-942f-e31e57208c39")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -45878,7 +45878,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/590f63f8-5e44-4c3b-bd9d-d1a3a3e08039")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -46147,7 +46147,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/12623658-54f1-4a24-b4ee-6ea617ab1d98")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -46411,7 +46411,7 @@
 		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/2841a5fd-4ef9-4b99-ab7e-1f1f3ea29850")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -46698,7 +46698,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/a32b2221-7e7f-46c7-b2ff-7a3d426480b1")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -46967,7 +46967,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/1e5b43d0-2438-4498-83d7-45c81ed563e8")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -47216,7 +47216,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/c7abe217-fb42-41d3-88af-7239e82b2948")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -47486,7 +47486,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/f80c6d07-53ee-4a68-8d2b-02c45e068606")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -48085,7 +48085,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/f6ee18a3-f2ba-4ace-8fa9-8f1751abfb14")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -48354,7 +48354,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/f718adb6-b1ca-4913-b6ba-d9035a8892c6")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -48603,7 +48603,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/35064d3f-0734-410d-a6c2-fd269ebbd341")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -48872,7 +48872,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/b5a5de97-a853-46f5-9537-07dd8ded93d7")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -49141,7 +49141,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/b017a707-958f-42b3-9738-48706c1449a8")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -49424,7 +49424,7 @@
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/df4f839a-10f0-44c0-873a-53af534cac7a")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -49910,7 +49910,7 @@
 		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/f45d6b2a-6153-4ab9-9bfe-45ec8c6b2e02")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -50182,7 +50182,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/2ea2b1e4-8e0a-4937-8fb8-bfbfddfb25df")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -50431,7 +50431,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/ca2687d3-d0ac-4d86-a2a0-9a114967760d")
-		(sheetname "CV Processing")
+		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -50729,7 +50729,7 @@
 		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/f91e902f-77db-4942-a9ed-ecac2eb80f73")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -51100,7 +51100,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/1754bdc1-ac74-4446-a457-60736829e09b")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -51383,7 +51383,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/37712844-53b2-4fdf-9026-517d77ed4e80")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -51652,7 +51652,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/c5bf8834-867e-4e87-8c50-bca51a919e1a")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -51921,7 +51921,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/b5946d4f-6a2f-40ce-b7c1-66a67fe258d2")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -52190,7 +52190,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/b5615534-5716-46d8-bf5b-5167554ac4f4")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -52439,7 +52439,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/eca5504c-e759-4836-b82f-13d5a9b06616")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -52708,7 +52708,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/2702451b-afe1-4508-a0ff-eeb20bbfa476")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -52971,7 +52971,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/90b1c18f-9804-482e-a266-59aba8d9f540")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -53240,7 +53240,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/25d2d595-f6e8-4972-bc9b-849e411e9aa6")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -53504,7 +53504,7 @@
 		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/628ac283-ecec-4d72-8182-19d0f935ba7a")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -53764,7 +53764,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/5af6df0d-fe9c-456f-bd50-3959240ea6ad")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -54013,7 +54013,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/5a152269-fa35-4392-9520-b95f858af5fa")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -54296,7 +54296,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/925d80e0-d8df-4111-b1e7-77f18e674eb4")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -54579,7 +54579,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/d977e944-a2a0-44b1-9df6-b72e361db013")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -54848,7 +54848,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/08e29281-7fa5-4ab8-ab4c-591845f3f84a")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -55117,7 +55117,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/3c550b79-66b7-415b-82e9-8010d18eb192")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -55381,7 +55381,7 @@
 		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/3a47d196-e252-47a5-91dd-58371117b5ef")
-		(sheetname "CV Processing")
+		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -55670,7 +55670,7 @@
 		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/5d768a91-e29a-417d-a4f1-d638aa6fe174")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -56027,7 +56027,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/075a5e4d-60fb-4879-b64d-f4a7aa2a6b1f")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -56296,7 +56296,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/ec9b87c6-62c8-4197-b968-974fa9b91a8a")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -56579,7 +56579,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/e7b81c79-1f49-43c3-b14c-b54b53f73170")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -56848,7 +56848,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/dee1651a-177c-4d86-bae1-aded1d99ccbf")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -57117,7 +57117,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/144dfc68-6d3a-4f9d-982e-3aaac719b9b9")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -57344,7 +57344,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "82k"
+		(property "Value" "100k"
 			(at 3.81 0 0)
 			(layer "B.SilkS")
 			(uuid "6542af19-8633-41ca-a8b3-ea27348a15f7")
@@ -57386,7 +57386,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/07036744-3671-4b61-9cf6-1a73907f54d5")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -57655,7 +57655,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/5c4d66bc-73a5-46da-bad7-7b538e97bc0e")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -57924,7 +57924,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/6e813388-2947-4bf2-b4e8-853948c2c9bd")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -58187,7 +58187,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/498329c9-d38b-4d74-915f-7c17aea2058c")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -58456,7 +58456,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/fb6c2bd4-cfcf-4563-846d-7761b286ed53")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -58739,7 +58739,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/53225b5d-9699-4b53-9deb-f1166fdeb89b")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -59008,7 +59008,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/704965d8-55e2-40d9-bf4f-3514b8a3fe5a")
-		(sheetname "CV Processing")
+		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -59292,7 +59292,7 @@
 		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/a1077f6e-5e1b-48eb-b0fe-039e7371bccf")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -59579,7 +59579,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/cd93411e-b30f-4665-abdf-27e88eee6377")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -59848,7 +59848,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/7a751e70-a11c-404c-844c-6d7fd39a0e29")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -60131,7 +60131,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/d470863d-1204-4608-ad3f-678af3254aed")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -60400,7 +60400,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/0eb766d9-b37c-4186-95b0-14fc2aa70d3b")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -60670,7 +60670,7 @@
 		)
 		(property ki_fp_filters "TO?92*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/2ad8d274-2a61-4ca5-8e1a-812676f812fc")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -60931,7 +60931,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/e16e1be3-4673-46f3-a793-0f3b4e888220")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -61214,7 +61214,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/6dd8f2a8-a508-4d30-ad38-8446a933eeb5")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -61498,7 +61498,7 @@
 		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/a0818eb5-0815-4d6b-a68d-2fb23399347a")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -61800,7 +61800,7 @@
 		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/bc1a0f19-492b-4be5-a00e-860e745e687e")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -62157,7 +62157,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/ba3fec06-b4f5-48f4-a822-d6d3f4931834")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -62420,7 +62420,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/6d5dce80-ddf9-4816-827a-9ec16e726a60")
-		(sheetname "CV Processing")
+		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -62704,7 +62704,7 @@
 		)
 		(property ki_fp_filters "TO?92*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/6b9adb3e-fce3-4b3f-b60f-942cadfdb9be")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -62980,7 +62980,7 @@
 		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/8df2bd9f-81f9-4653-ae40-709fa5f2c907")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -63337,7 +63337,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/4059abc0-7731-4e73-b46b-c51c0412d81d")
-		(sheetname "CV Processing")
+		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -63620,7 +63620,7 @@
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/72eabf28-6156-43d8-898b-35c9f8ee7155")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -64090,7 +64090,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/7de6d8a7-6dc4-4b86-9b2a-d25b6e787886")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -64353,7 +64353,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/b08acb4e-d2d0-4668-920b-f4378807588a")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -64636,7 +64636,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/9781e4a5-fa65-41f8-a6b9-1e515d850484")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -64905,7 +64905,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/ee23e64a-0304-43be-9aee-1fe811ccdb69")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -65154,7 +65154,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/416138d7-ca5d-4f2a-bfb6-67c492a7ae43")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -65437,7 +65437,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/4e345085-88d9-4853-b5f0-9556d5c8af8e")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -65686,7 +65686,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/e45e8b80-fdf1-433a-bf3c-51acc400e7f0")
-		(sheetname "CV Processing")
+		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -65955,7 +65955,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/8c45e3da-a12b-4fe6-acc7-0c4aacd7eb6c")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -66253,7 +66253,7 @@
 		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/d7fe08d8-bdab-4385-ba05-76c4b1a7b001")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -66624,7 +66624,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/99f0f9f6-e1fb-4ecf-9edf-dbed77a6a862")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -66893,7 +66893,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/9b4dfc8c-8e20-4f90-a3f9-0fa0150b2960")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -67162,7 +67162,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/7f432ea5-62e5-4b77-a700-13b8bc02e1e3")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -67460,7 +67460,7 @@
 		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/ed582972-aad3-4097-9882-511b92407601")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -67775,7 +67775,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "82k"
+		(property "Value" "100k"
 			(at 3.81 0 0)
 			(layer "B.SilkS")
 			(uuid "506d2427-0122-40de-8036-91613b745d72")
@@ -67817,7 +67817,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ad5c5475-8483-41b0-97cc-617422d54799/a15f4888-8214-46f6-a129-bc43a88c7e29")
-		(sheetname "Resonance A CV")
+		(sheetname "/Resonance A CV/")
 		(sheetfile "Resonance_A_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -68115,7 +68115,7 @@
 		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/bdeb0e4b-cb8d-4c9b-bd10-5a813f3cec5d")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -68472,7 +68472,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/7a2d1a78-bb80-4d85-bc44-9d058e2f5a1a")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -68741,7 +68741,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/b05ee024-6563-45f0-9788-ebca699d8bb2")
-		(sheetname "Core Circuit B")
+		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -69039,7 +69039,7 @@
 		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/b9c1da02-7e8a-4205-8d17-d6b2cbb5b181")
-		(sheetname "Core Circuit A")
+		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -69396,7 +69396,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/49959733-5438-4e9b-bd6f-13ef9674747c")
-		(sheetname "Power")
+		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -69645,7 +69645,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/fc37885e-257b-42ac-a311-5adb1094134c/851251db-025a-443e-8c2d-1a2c8dfc87ff")
-		(sheetname "Drive B")
+		(sheetname "/Drive B/")
 		(sheetfile "Drive_B.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -69914,7 +69914,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/76f3ab41-888d-43b6-843a-2a995f9c890b/396df4e7-f5db-4173-9359-a5b5d9d5f1d7")
-		(sheetname "Drive A")
+		(sheetname "/Drive A/")
 		(sheetfile "Drive_A.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -70183,7 +70183,7 @@
 		)
 		(property ki_fp_filters "TO?92*")
 		(path "/f0045393-e1d0-4de8-baba-b9053cd8a11d/8438bce8-4e3e-4dff-b90e-69a57409db15")
-		(sheetname "Resonance B CV")
+		(sheetname "/Resonance B CV/")
 		(sheetfile "Resonance_B_CV.kicad_sch")
 		(attr through_hole)
 		(fp_line
