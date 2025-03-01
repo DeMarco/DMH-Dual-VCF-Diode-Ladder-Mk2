@@ -2800,16 +2800,6 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 58.42) (xy 238.76 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "01dd1f01-a4fc-4302-b903-07d1ec3b57a8")
-	)
-	(wire
-		(pts
 			(xy 234.95 146.05) (xy 247.65 146.05)
 		)
 		(stroke
@@ -3130,16 +3120,6 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 76.2) (xy 160.02 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "286fbcd3-3fa7-449f-9db0-cbb63b9363b0")
-	)
-	(wire
-		(pts
 			(xy 19.05 146.05) (xy 31.75 146.05)
 		)
 		(stroke
@@ -3157,26 +3137,6 @@
 			(type default)
 		)
 		(uuid "29abb7bd-6271-4af2-9886-9744191363de")
-	)
-	(wire
-		(pts
-			(xy 238.76 50.8) (xy 236.22 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2b2b0cfd-ea1a-46c2-9049-b6495a048e00")
-	)
-	(wire
-		(pts
-			(xy 238.76 58.42) (xy 238.76 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2cdd263b-9e27-4789-88f4-7938f57c2292")
 	)
 	(wire
 		(pts
@@ -3337,16 +3297,6 @@
 			(type default)
 		)
 		(uuid "4f8473a9-8279-4e55-aa7d-ee269dc99f26")
-	)
-	(wire
-		(pts
-			(xy 135.89 76.2) (xy 135.89 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4fe2c42e-8d90-4922-b86b-72c6ee3f14bb")
 	)
 	(wire
 		(pts
@@ -3610,16 +3560,6 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 78.74) (xy 142.24 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "671f193a-b9b4-4482-a197-5cd4f6efa4cf")
-	)
-	(wire
-		(pts
 			(xy 31.75 193.04) (xy 33.02 193.04)
 		)
 		(stroke
@@ -3670,16 +3610,6 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 83.82) (xy 162.56 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e019d90-27b4-4d12-957f-84066e71ee39")
-	)
-	(wire
-		(pts
 			(xy 19.05 88.9) (xy 19.05 95.25)
 		)
 		(stroke
@@ -3727,16 +3657,6 @@
 			(type default)
 		)
 		(uuid "6fe5f59d-161d-4b6d-b74c-b566358bc964")
-	)
-	(wire
-		(pts
-			(xy 212.09 48.26) (xy 220.98 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71f6aa95-ba1d-46d5-8fa3-ebbcc2c0fb33")
 	)
 	(wire
 		(pts
@@ -3880,16 +3800,6 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 73.66) (xy 144.78 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "82ea84db-054c-4120-9715-d0a5739f250b")
-	)
-	(wire
-		(pts
 			(xy 31.75 95.25) (xy 31.75 104.14)
 		)
 		(stroke
@@ -3907,16 +3817,6 @@
 			(type default)
 		)
 		(uuid "85ac0965-a65c-4e99-ba94-91e1daa5f665")
-	)
-	(wire
-		(pts
-			(xy 220.98 53.34) (xy 218.44 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8609fdaa-20f8-4842-8af5-64d559e1fbeb")
 	)
 	(wire
 		(pts
@@ -4027,16 +3927,6 @@
 			(type default)
 		)
 		(uuid "8f5a0ad7-eb1a-4809-8ad7-849139a564be")
-	)
-	(wire
-		(pts
-			(xy 162.56 83.82) (xy 162.56 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90b856bf-1537-4f88-94be-d211614cf626")
 	)
 	(wire
 		(pts
@@ -4200,16 +4090,6 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 78.74) (xy 142.24 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ed15db1-4cb2-4371-b866-80e8d1523b59")
-	)
-	(wire
-		(pts
 			(xy 31.75 120.65) (xy 57.15 120.65)
 		)
 		(stroke
@@ -4247,16 +4127,6 @@
 			(type default)
 		)
 		(uuid "a05d478b-5735-415e-903c-1901e55bb3d4")
-	)
-	(wire
-		(pts
-			(xy 218.44 53.34) (xy 218.44 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a324db70-de47-45cb-b974-16378bba3b9c")
 	)
 	(wire
 		(pts
@@ -4417,16 +4287,6 @@
 			(type default)
 		)
 		(uuid "b2ca16cb-d4d1-4004-be98-de6a4ce5e87c")
-	)
-	(wire
-		(pts
-			(xy 212.09 50.8) (xy 212.09 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b2e548a6-e7a9-41df-8d04-223491fd04f7")
 	)
 	(wire
 		(pts
@@ -6643,72 +6503,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 135.89 76.2 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "47988c86-0d1b-4d65-989d-c1c35d354960")
-		(property "Reference" "#PWR0102"
-			(at 135.89 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 135.89 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 135.89 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 135.89 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 135.89 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a10b13a1-0374-4606-94bc-373ebabdd109")
-		)
-		(instances
-			(project ""
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
-					(reference "#PWR0102")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 209.55 133.35 0)
 		(unit 1)
@@ -8475,110 +8269,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Amplifier_Operational:TL074")
-		(at 152.4 76.2 0)
-		(unit 2)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a8313974-dd50-498a-82e5-f191f5abd028")
-		(property "Reference" "U7"
-			(at 152.4 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TL074"
-			(at 152.4 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 151.13 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
-			(at 153.67 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14"
-			(at 152.4 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "5"
-			(uuid "cf28ca07-85fe-4438-9bfe-ead9564d564c")
-		)
-		(pin "11"
-			(uuid "1dd99e59-5f8e-4cce-896f-771ed94f2460")
-		)
-		(pin "1"
-			(uuid "d67d039c-579c-49e7-b674-68aa28e4f1bf")
-		)
-		(pin "12"
-			(uuid "b65b0c6b-0e16-4f02-8da6-8a5128373bb7")
-		)
-		(pin "4"
-			(uuid "a6720e2a-9c7d-427b-9705-7ce5b15472df")
-		)
-		(pin "2"
-			(uuid "233b16f4-bada-4416-b760-aa05939d0b64")
-		)
-		(pin "13"
-			(uuid "9b03c2cb-d28e-43d0-9db3-d22abbb02e47")
-		)
-		(pin "10"
-			(uuid "7eaf1404-5304-45d1-b3f5-e037afabf837")
-		)
-		(pin "6"
-			(uuid "e5388665-e633-4c56-b635-52548ade7526")
-		)
-		(pin "3"
-			(uuid "6fdbb98f-dd85-4bf3-8e8a-cbd4b3b8b57e")
-		)
-		(pin "8"
-			(uuid "826ce0ae-fedd-4532-9d43-f3ace1579d52")
-		)
-		(pin "14"
-			(uuid "1ca99101-627c-4513-bfd4-6f69f6f4c129")
-		)
-		(pin "9"
-			(uuid "e0c47c23-585e-4324-a9de-fe6aabe61e11")
-		)
-		(pin "7"
-			(uuid "87184fbb-6183-4c7d-8ca5-8c5844e9aab0")
-		)
-		(instances
-			(project ""
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
-					(reference "U7")
-					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+12V")
 		(at 279.4 88.9 0)
 		(unit 1)
@@ -8841,72 +8531,6 @@
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
 					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 212.09 50.8 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b392523a-8258-4042-a86c-28bfcd1792b3")
-		(property "Reference" "#PWR0105"
-			(at 212.09 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 212.09 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 212.09 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 212.09 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 212.09 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "32ff9ab3-3a4c-4a13-91a6-94f47af8ac81")
-		)
-		(instances
-			(project ""
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
-					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -9966,110 +9590,6 @@
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
 					(reference "U1")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Amplifier_Operational:TL074")
-		(at 228.6 50.8 0)
-		(unit 3)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ec346ca4-61c2-4654-a1ab-e0c39a0a68d3")
-		(property "Reference" "U8"
-			(at 228.6 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TL074"
-			(at 228.6 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 227.33 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
-			(at 229.87 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14"
-			(at 228.6 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "5"
-			(uuid "cf28ca07-85fe-4438-9bfe-ead9564d564d")
-		)
-		(pin "11"
-			(uuid "1dd99e59-5f8e-4cce-896f-771ed94f2461")
-		)
-		(pin "1"
-			(uuid "d67d039c-579c-49e7-b674-68aa28e4f1c0")
-		)
-		(pin "12"
-			(uuid "b65b0c6b-0e16-4f02-8da6-8a5128373bb8")
-		)
-		(pin "4"
-			(uuid "a6720e2a-9c7d-427b-9705-7ce5b15472e0")
-		)
-		(pin "2"
-			(uuid "233b16f4-bada-4416-b760-aa05939d0b65")
-		)
-		(pin "13"
-			(uuid "9b03c2cb-d28e-43d0-9db3-d22abbb02e48")
-		)
-		(pin "10"
-			(uuid "7eaf1404-5304-45d1-b3f5-e037afabf838")
-		)
-		(pin "6"
-			(uuid "e5388665-e633-4c56-b635-52548ade7527")
-		)
-		(pin "3"
-			(uuid "6fdbb98f-dd85-4bf3-8e8a-cbd4b3b8b57f")
-		)
-		(pin "8"
-			(uuid "826ce0ae-fedd-4532-9d43-f3ace1579d53")
-		)
-		(pin "14"
-			(uuid "1ca99101-627c-4513-bfd4-6f69f6f4c12a")
-		)
-		(pin "9"
-			(uuid "e0c47c23-585e-4324-a9de-fe6aabe61e12")
-		)
-		(pin "7"
-			(uuid "87184fbb-6183-4c7d-8ca5-8c5844e9aab1")
-		)
-		(instances
-			(project ""
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
-					(reference "U8")
-					(unit 3)
 				)
 			)
 		)
