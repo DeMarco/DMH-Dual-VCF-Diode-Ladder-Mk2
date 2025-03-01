@@ -9069,7 +9069,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(uuid "a42322ac-55de-46eb-9f7a-1f48cbc06f2f")
 		(property "Reference" "R134"
@@ -11275,7 +11275,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(uuid "e89a69c4-8f2d-4369-b4f5-5bfe4b3dc361")
 		(property "Reference" "R133"
