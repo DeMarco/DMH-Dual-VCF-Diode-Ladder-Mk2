@@ -1714,6 +1714,28 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 180.34 83.82)
+		(end 204.47 119.38)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid c940bfe4-9979-4b3a-a220-1c2a1eb32615)
+	)
+	(text "Add 47x gain here for the Resonance VCA.\nMake following inverter gain unitary. "
+		(exclude_from_sim no)
+		(at 202.438 123.698 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "46182f94-71e3-44f9-8828-60aade0219d8")
+	)
 	(junction
 		(at 110.49 137.16)
 		(diameter 0)
