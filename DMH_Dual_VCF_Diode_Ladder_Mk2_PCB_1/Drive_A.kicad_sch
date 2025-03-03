@@ -1939,6 +1939,16 @@
 		)
 		(uuid "c063b88d-b218-4610-adb0-5729340a12fb")
 	)
+	(text "Experiment higher gain here to allow more agressive drive"
+		(exclude_from_sim no)
+		(at 231.394 27.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cb6a0ad1-b4b8-41d5-8eea-e01e3dbfc0ed")
+	)
 	(text "Matched"
 		(exclude_from_sim no)
 		(at 209.55 51.054 0)

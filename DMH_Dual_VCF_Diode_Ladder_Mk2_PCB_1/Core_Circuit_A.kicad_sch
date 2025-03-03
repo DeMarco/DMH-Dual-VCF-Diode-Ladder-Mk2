@@ -1714,28 +1714,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(rectangle
-		(start 180.34 83.82)
-		(end 204.47 119.38)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid c940bfe4-9979-4b3a-a220-1c2a1eb32615)
-	)
-	(text "Add 47x gain here for the Resonance VCA.\nMake following inverter gain unitary. "
-		(exclude_from_sim no)
-		(at 202.438 123.698 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "46182f94-71e3-44f9-8828-60aade0219d8")
-	)
 	(junction
 		(at 110.49 137.16)
 		(diameter 0)
@@ -1831,6 +1809,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "87248770-226c-46a0-8114-e1f29f69f33a")
+	)
+	(junction
+		(at 181.61 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8e335200-da08-4834-ad0b-941c9dcfcabb")
 	)
 	(junction
 		(at 93.98 60.96)
@@ -1965,6 +1949,16 @@
 			(type default)
 		)
 		(uuid "02892283-1001-4cc9-a0e3-2a61ca9fa73a")
+	)
+	(wire
+		(pts
+			(xy 181.61 111.76) (xy 181.61 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03f4a8d8-1271-4ebb-991a-7a925a2aa4f6")
 	)
 	(wire
 		(pts
@@ -2268,6 +2262,16 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 124.46) (xy 181.61 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38865908-887b-4a82-9aec-6e3a9292425f")
+	)
+	(wire
+		(pts
 			(xy 240.03 104.14) (xy 241.3 104.14)
 		)
 		(stroke
@@ -2328,7 +2332,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 111.76) (xy 203.2 111.76)
+			(xy 181.61 111.76) (xy 193.04 111.76)
 		)
 		(stroke
 			(width 0)
@@ -3195,6 +3199,16 @@
 			(type default)
 		)
 		(uuid "d8dcd413-f076-4378-b9d5-eaf16844802f")
+	)
+	(wire
+		(pts
+			(xy 200.66 111.76) (xy 203.2 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9178d34-6eda-4cf0-af32-16aec288ca49")
 	)
 	(wire
 		(pts
@@ -4293,7 +4307,7 @@
 				)
 			)
 		)
-		(property "Value" "47K"
+		(property "Value" "100K"
 			(at 222.25 88.9 90)
 			(effects
 				(font
@@ -5309,7 +5323,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "100k"
 			(at 208.28 97.79 90)
 			(effects
 				(font
@@ -5498,6 +5512,76 @@
 			(project "DMH_Dual_VCF_Diode_Ladder_PCB"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/7ad2d702-dfb7-4d49-a82d-34430dd5948f"
 					(reference "R29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 181.61 120.65 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "650e7cfa-6176-47a9-933c-859306a62e28")
+		(property "Reference" "R143"
+			(at 184.15 119.3799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1k"
+			(at 184.15 121.9199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 180.594 120.396 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 181.61 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 181.61 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "78b96c2b-6bd5-494e-b313-429225068ca7")
+		)
+		(pin "1"
+			(uuid "88fb5842-ef96-400e-9e81-4238c20c9d3a")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/7ad2d702-dfb7-4d49-a82d-34430dd5948f"
+					(reference "R143")
 					(unit 1)
 				)
 			)
@@ -6131,6 +6215,74 @@
 			(project "DMH_Dual_VCF_Diode_Ladder_PCB"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/7ad2d702-dfb7-4d49-a82d-34430dd5948f"
 					(reference "#PWR042")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 196.85 111.76 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8ce603b4-1f9a-42de-855a-38795c48b101")
+		(property "Reference" "R142"
+			(at 196.85 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "47k"
+			(at 196.85 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 197.104 110.744 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 196.85 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 196.85 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "bcbc293d-1972-4ca5-bc23-d1dd965c279e")
+		)
+		(pin "1"
+			(uuid "d2fa8c83-98eb-49c5-b786-1e3287c32366")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/7ad2d702-dfb7-4d49-a82d-34430dd5948f"
+					(reference "R142")
 					(unit 1)
 				)
 			)
@@ -7060,6 +7212,72 @@
 			(project "DMH_Dual_VCF_Diode_Ladder_PCB"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/7ad2d702-dfb7-4d49-a82d-34430dd5948f"
 					(reference "R36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 181.61 129.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c57e68b7-9696-4273-9291-8dbfa5928330")
+		(property "Reference" "#PWR0109"
+			(at 181.61 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 181.61 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 181.61 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 181.61 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 181.61 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "45617af7-dddb-42ae-9c8a-41e1bca61b2f")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/7ad2d702-dfb7-4d49-a82d-34430dd5948f"
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
