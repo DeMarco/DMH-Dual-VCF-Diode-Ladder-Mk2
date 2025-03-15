@@ -4339,7 +4339,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 146.05 81.28 0)
 			(effects
 				(font
@@ -4979,7 +4979,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 203.2 25.4 0)
 			(effects
 				(font
@@ -5258,7 +5258,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 74.93 41.91 0)
 			(effects
 				(font
@@ -5458,7 +5458,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 228.6 50.8 0)
 			(effects
 				(font
@@ -5494,22 +5494,22 @@
 			)
 		)
 		(pin "3"
-			(uuid "bc74092b-344a-4149-9f97-5c6e38c50b71")
+			(uuid "bc74092b-344a-4149-9f97-5c6e38c50b72")
 		)
 		(pin "4"
-			(uuid "a46e7c64-af46-4cee-b462-0368c6752155")
+			(uuid "a46e7c64-af46-4cee-b462-0368c6752156")
 		)
 		(pin "6"
-			(uuid "725fede7-4cf1-4539-a686-6697322f3f6c")
+			(uuid "725fede7-4cf1-4539-a686-6697322f3f6d")
 		)
 		(pin "2"
-			(uuid "1ed7cd25-5939-481f-bea3-f4587d851281")
+			(uuid "1ed7cd25-5939-481f-bea3-f4587d851282")
 		)
 		(pin "5"
-			(uuid "e057b474-d06c-4a88-8c66-fbd7561667ee")
+			(uuid "e057b474-d06c-4a88-8c66-fbd7561667ef")
 		)
 		(pin "1"
-			(uuid "e1720d3d-96a1-42a3-9891-747062fcf447")
+			(uuid "e1720d3d-96a1-42a3-9891-747062fcf448")
 		)
 		(instances
 			(project ""
@@ -8498,7 +8498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 134.62 114.3 0)
 			(effects
 				(font
@@ -8731,7 +8731,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 88.9 69.85 0)
 			(effects
 				(font

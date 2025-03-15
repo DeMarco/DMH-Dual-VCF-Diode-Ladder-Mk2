@@ -18264,7 +18264,7 @@
 			)
 		)
 	)
-	(gr_text "Mk1.0 - Month Year"
+	(gr_text "Mk2.0 - March 2025"
 		(at 100 223 0)
 		(layer "B.SilkS")
 		(uuid "6a59b04e-f37b-4115-bfa9-176980e8993a")
