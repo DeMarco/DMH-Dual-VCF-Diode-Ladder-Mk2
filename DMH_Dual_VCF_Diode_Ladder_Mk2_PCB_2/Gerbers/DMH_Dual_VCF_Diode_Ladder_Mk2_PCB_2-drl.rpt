@@ -1,0 +1,27 @@
+Drill report for DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_2.kicad_pcb
+Created on 2025-03-15T21:37:24+0100
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L1 :  B.Cu                      back
+
+
+Drill file 'DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_2-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.800mm  0.0315"  (70 holes)
+    T2  0.900mm  0.0354"  (6 holes)
+    T3  1.000mm  0.0394"  (112 holes)
+    T4  1.100mm  0.0433"  (14 holes)  (with 14 slots)
+    T5  1.800mm  0.0709"  (36 holes)
+    T6  2.000mm  0.0787"  (16 holes)  (with 16 slots)
+
+    Total plated holes count 254
+
+
+Drill file 'DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_2-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
