@@ -2962,12 +2962,6 @@
 		(uuid "3e46aa94-9c27-4645-bc1d-a41275cb07de")
 	)
 	(junction
-		(at 97.79 21.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3f3080de-b1e1-4eab-b41e-4a21fb931900")
-	)
-	(junction
 		(at 114.3 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3026,12 +3020,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "819256af-946a-48d6-b64b-fa72ea15d632")
-	)
-	(junction
-		(at 97.79 29.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "84cc8040-e71d-4af4-829f-093f5de339b1")
 	)
 	(junction
 		(at 165.1 158.75)
@@ -4360,16 +4348,6 @@
 			(type default)
 		)
 		(uuid "86c0705c-9188-4107-af3f-811dd2bc9061")
-	)
-	(wire
-		(pts
-			(xy 97.79 21.59) (xy 97.79 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "891cb287-2fdb-4a88-bf3c-19dbde124ee5")
 	)
 	(wire
 		(pts
@@ -6622,7 +6600,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
 			(at 63.5 250.19 0)
 			(effects
 				(font
@@ -6884,7 +6862,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "3a47d196-e252-47a5-91dd-58371117b5ef")
 		(property "Reference" "RV10"
@@ -7764,7 +7742,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "559e8996-2691-4925-a67e-846db02ffe99")
 		(property "Reference" "RV8"
@@ -9226,7 +9204,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "861d137c-9446-4c56-b587-3b45fc9d1747")
 		(property "Reference" "RV4"
@@ -9445,7 +9423,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "899c9963-0d0f-47f0-a5b1-97be42b5087b")
 		(property "Reference" "RV2"
@@ -11908,7 +11886,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
 			(at 63.5 123.19 0)
 			(effects
 				(font
