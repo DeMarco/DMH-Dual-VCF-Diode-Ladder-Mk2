@@ -2277,16 +2277,6 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 50.8) (xy 266.7 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40408268-631a-4293-bed7-e8bb3e7edaaf")
-	)
-	(wire
-		(pts
 			(xy 101.6 107.95) (xy 101.6 110.49)
 		)
 		(stroke
@@ -2327,7 +2317,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 50.8) (xy 250.19 50.8)
+			(xy 246.38 50.8) (xy 266.7 50.8)
 		)
 		(stroke
 			(width 0)
@@ -4683,82 +4673,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 254 50.8 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "90b1c18f-9804-482e-a266-59aba8d9f540")
-		(property "Reference" "R66"
-			(at 254 44.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1k"
-			(at 254 46.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 253.746 51.816 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 254 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 254 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Function" ""
-			(at 254 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0cbd96ae-98d1-42a0-a59b-9239146cfb97")
-		)
-		(pin "2"
-			(uuid "4f0015b9-a025-4418-a764-9771868d3b68")
-		)
-		(instances
-			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ad5c5475-8483-41b0-97cc-617422d54799"
-					(reference "R66")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "SynthStuff:Conn_01x06_PinHeader")
 		(at 63.5 114.3 0)
 		(unit 4)
@@ -5099,7 +5013,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "2k2"
 			(at 224.79 64.7699 0)
 			(effects
 				(font
@@ -5833,7 +5747,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "2k2"
 			(at 234.95 34.29 90)
 			(effects
 				(font

@@ -2267,16 +2267,6 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 50.8) (xy 266.7 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40408268-631a-4293-bed7-e8bb3e7edaaf")
-	)
-	(wire
-		(pts
 			(xy 101.6 107.95) (xy 101.6 110.49)
 		)
 		(stroke
@@ -2327,7 +2317,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 50.8) (xy 250.19 50.8)
+			(xy 246.38 50.8) (xy 266.7 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3932,82 +3922,6 @@
 			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/76f3ab41-888d-43b6-843a-2a995f9c890b"
 					(reference "Q5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 254 50.8 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "498329c9-d38b-4d74-915f-7c17aea2058c")
-		(property "Reference" "R101"
-			(at 254 44.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1k"
-			(at 254 46.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 253.746 51.816 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 254 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 254 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Function" ""
-			(at 254 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7583ec8d-b899-4610-8786-50428af7bf4e")
-		)
-		(pin "2"
-			(uuid "0adaffd9-b29e-4a10-8ef9-50ec90398bf5")
-		)
-		(instances
-			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/76f3ab41-888d-43b6-843a-2a995f9c890b"
-					(reference "R101")
 					(unit 1)
 				)
 			)

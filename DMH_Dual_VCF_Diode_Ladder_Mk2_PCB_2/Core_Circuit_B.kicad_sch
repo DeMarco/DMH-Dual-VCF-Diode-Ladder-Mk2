@@ -1267,7 +1267,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SynthStuff:Conn_01x04_PinHeader"
+		(symbol "SynthStuff:Conn_01x06_PinHeader"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -1283,7 +1283,7 @@
 					)
 				)
 			)
-			(property "Value" "Conn_01x04_PinHeader"
+			(property "Value" "Conn_01x06_PinHeader"
 				(at 0 -2.54 0)
 				(effects
 					(font
@@ -1310,7 +1310,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Generic connector, single row, 01x04"
+			(property "Description" "Generic connector, single row, 01x06"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1337,7 +1337,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "Conn_01x04_PinHeader_1_1"
+			(symbol "Conn_01x06_PinHeader_1_1"
 				(rectangle
 					(start 0.8636 0.127)
 					(end 0 -0.127)
@@ -1380,7 +1380,7 @@
 					)
 				)
 			)
-			(symbol "Conn_01x04_PinHeader_2_1"
+			(symbol "Conn_01x06_PinHeader_2_1"
 				(rectangle
 					(start 0.8636 0.127)
 					(end 0 -0.127)
@@ -1423,7 +1423,7 @@
 					)
 				)
 			)
-			(symbol "Conn_01x04_PinHeader_3_1"
+			(symbol "Conn_01x06_PinHeader_3_1"
 				(rectangle
 					(start 0.8636 0.127)
 					(end 0 -0.127)
@@ -1466,7 +1466,7 @@
 					)
 				)
 			)
-			(symbol "Conn_01x04_PinHeader_4_1"
+			(symbol "Conn_01x06_PinHeader_4_1"
 				(rectangle
 					(start 0.8636 0.127)
 					(end 0 -0.127)
@@ -1501,6 +1501,92 @@
 						)
 					)
 					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "Conn_01x06_PinHeader_5_1"
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "Conn_01x06_PinHeader_6_1"
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1785,6 +1871,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5d925382-42f9-4942-9d3b-77cb5c095c6c")
+	)
+	(junction
+		(at 181.61 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "619bf131-6f44-46c4-957d-b792aadddb7d")
 	)
 	(junction
 		(at 52.07 63.5)
@@ -2310,7 +2402,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 111.76) (xy 203.2 111.76)
+			(xy 181.61 111.76) (xy 193.04 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2390,6 +2482,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 50.8) (xy 215.9 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ce5593c-3edc-41f7-ba29-6e50d227eaaf")
+	)
+	(wire
+		(pts
 			(xy 52.07 46.99) (xy 52.07 58.42)
 		)
 		(stroke
@@ -2457,6 +2559,16 @@
 			(type default)
 		)
 		(uuid "59877831-c284-45fa-88f6-77d9052e9110")
+	)
+	(wire
+		(pts
+			(xy 200.66 111.76) (xy 203.2 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59cf96bd-00bb-4c50-bc35-4f2d4f26a880")
 	)
 	(wire
 		(pts
@@ -2740,6 +2852,16 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 124.46) (xy 181.61 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "948f157f-e79e-428e-b5ee-5366f3d61a93")
+	)
+	(wire
+		(pts
 			(xy 124.46 76.2) (xy 127 76.2)
 		)
 		(stroke
@@ -2920,6 +3042,16 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 111.76) (xy 181.61 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b36abd9c-cf8c-4133-a72a-76819e11734c")
+	)
+	(wire
+		(pts
 			(xy 158.75 109.22) (xy 158.75 111.76)
 		)
 		(stroke
@@ -3077,6 +3209,16 @@
 			(type default)
 		)
 		(uuid "c4b3338b-e2c0-4746-9c2e-e6114aee8dfe")
+	)
+	(wire
+		(pts
+			(xy 223.52 50.8) (xy 215.9 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6ebaf6d-10b3-4387-8cec-c1c7e86cacf2")
 	)
 	(wire
 		(pts
@@ -3644,7 +3786,7 @@
 		)
 	)
 	(symbol
-		(lib_id "SynthStuff:Conn_01x04_PinHeader")
+		(lib_id "SynthStuff:Conn_01x06_PinHeader")
 		(at 74.93 41.91 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3662,7 +3804,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x04_PinHeader"
+		(property "Value" "Conn_01x06_PinHeader"
 			(at 72.39 41.91 0)
 			(effects
 				(font
@@ -3671,7 +3813,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
 			(at 74.93 41.91 0)
 			(effects
 				(font
@@ -3689,7 +3831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04"
+		(property "Description" "Generic connector, single row, 01x06"
 			(at 74.93 41.91 0)
 			(effects
 				(font
@@ -3717,6 +3859,12 @@
 		)
 		(pin "1"
 			(uuid "009bcef5-58b9-4070-ab14-a5310b75b604")
+		)
+		(pin "6"
+			(uuid "42226bee-1fe2-4b55-a9a6-d33ee27753c9")
+		)
+		(pin "5"
+			(uuid "a80e6f54-df91-4e99-9893-00168441e506")
 		)
 		(instances
 			(project ""
@@ -4004,6 +4152,74 @@
 			(project "DMH_Dual_VCF_Diode_Ladder_PCB"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5770dcd3-eb9e-472f-b743-1e3eb22ed082"
 					(reference "#PWR054")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 196.85 111.76 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "21e492f8-49c9-48f9-8b65-d828640144b4")
+		(property "Reference" "R144"
+			(at 196.85 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "51k"
+			(at 196.85 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 197.104 110.744 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 196.85 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 196.85 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f8028579-1540-4aed-b669-e681975751a5")
+		)
+		(pin "1"
+			(uuid "7f6a54bf-5ad4-4060-94df-893e249c2f21")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_2"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5770dcd3-eb9e-472f-b743-1e3eb22ed082"
+					(reference "R144")
 					(unit 1)
 				)
 			)
@@ -4312,7 +4528,7 @@
 		)
 	)
 	(symbol
-		(lib_id "SynthStuff:Conn_01x04_PinHeader")
+		(lib_id "SynthStuff:Conn_01x06_PinHeader")
 		(at 93.98 41.91 270)
 		(unit 2)
 		(exclude_from_sim no)
@@ -4330,7 +4546,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x04_PinHeader"
+		(property "Value" "Conn_01x06_PinHeader"
 			(at 91.44 41.91 0)
 			(effects
 				(font
@@ -4339,7 +4555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
 			(at 93.98 41.91 0)
 			(effects
 				(font
@@ -4357,7 +4573,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04"
+		(property "Description" "Generic connector, single row, 01x06"
 			(at 93.98 41.91 0)
 			(effects
 				(font
@@ -4385,6 +4601,12 @@
 		)
 		(pin "1"
 			(uuid "009bcef5-58b9-4070-ab14-a5310b75b605")
+		)
+		(pin "5"
+			(uuid "a0988a87-3e1a-4582-bfdb-ec2e78167635")
+		)
+		(pin "6"
+			(uuid "6d746b3b-f650-49ef-bdad-2ec38326c9c3")
 		)
 		(instances
 			(project ""
@@ -4900,7 +5122,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(uuid "628ac283-ecec-4d72-8182-19d0f935ba7a")
 		(property "Reference" "RV15"
@@ -5083,6 +5305,95 @@
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5770dcd3-eb9e-472f-b743-1e3eb22ed082"
 					(reference "U4")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:Conn_01x06_PinHeader")
+		(at 228.6 50.8 180)
+		(unit 6)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "79db3711-03ae-4a9e-8c0f-32a7cec4fc7e")
+		(property "Reference" "J20"
+			(at 227.965 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x06_PinHeader"
+			(at 228.6 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+			(at 228.6 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 228.6 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x06"
+			(at 228.6 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 228.6 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c964a473-67df-4709-b259-7c31f4f977c8")
+		)
+		(pin "3"
+			(uuid "3c2f3c7e-06ec-4a14-80e8-c5faabb329a8")
+		)
+		(pin "5"
+			(uuid "5d3ad3fd-9ed5-4206-a7bb-cf638a461ba9")
+		)
+		(pin "2"
+			(uuid "934389f5-3dc2-4129-8f34-d4172ce0f27f")
+		)
+		(pin "4"
+			(uuid "c765246a-a09f-4a88-ac1d-e2ade3b322ec")
+		)
+		(pin "6"
+			(uuid "fffc6b08-040f-4459-82e7-a99bd91fedcb")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_2"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5770dcd3-eb9e-472f-b743-1e3eb22ed082"
+					(reference "J20")
+					(unit 6)
 				)
 			)
 		)
@@ -5569,6 +5880,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 215.9 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9305af59-38b6-4aee-bec1-7dc7b5d22aaf")
+		(property "Reference" "#PWR0111"
+			(at 215.9 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 215.9 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 215.9 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 215.9 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 215.9 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "94d9ffca-99f3-46a9-849e-ad227c99ccdc")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_2"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5770dcd3-eb9e-472f-b743-1e3eb22ed082"
+					(reference "#PWR0111")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148")
 		(at 158.75 118.11 90)
 		(unit 1)
@@ -5728,7 +6105,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b4dfc8c-8e20-4f90-a3f9-0fa0150b2960")
@@ -6406,7 +6783,7 @@
 		)
 	)
 	(symbol
-		(lib_id "SynthStuff:Conn_01x04_PinHeader")
+		(lib_id "SynthStuff:Conn_01x06_PinHeader")
 		(at 143.51 119.38 270)
 		(mirror x)
 		(unit 4)
@@ -6425,7 +6802,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x04_PinHeader"
+		(property "Value" "Conn_01x06_PinHeader"
 			(at 140.97 119.38 0)
 			(effects
 				(font
@@ -6434,7 +6811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
 			(at 143.51 119.38 0)
 			(effects
 				(font
@@ -6452,7 +6829,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04"
+		(property "Description" "Generic connector, single row, 01x06"
 			(at 143.51 119.38 0)
 			(effects
 				(font
@@ -6480,6 +6857,12 @@
 		)
 		(pin "1"
 			(uuid "009bcef5-58b9-4070-ab14-a5310b75b606")
+		)
+		(pin "6"
+			(uuid "15a0a86c-5b6e-4480-b139-a30e96eecb89")
+		)
+		(pin "5"
+			(uuid "3000dbee-d00e-402e-a90e-51b0a11d8433")
 		)
 		(instances
 			(project ""
@@ -6559,7 +6942,7 @@
 		)
 	)
 	(symbol
-		(lib_id "SynthStuff:Conn_01x04_PinHeader")
+		(lib_id "SynthStuff:Conn_01x06_PinHeader")
 		(at 146.05 81.28 270)
 		(unit 3)
 		(exclude_from_sim no)
@@ -6576,7 +6959,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Conn_01x04_PinHeader"
+		(property "Value" "Conn_01x06_PinHeader"
 			(at 143.51 81.28 0)
 			(effects
 				(font
@@ -6585,7 +6968,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
 			(at 146.05 81.28 0)
 			(effects
 				(font
@@ -6603,7 +6986,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04"
+		(property "Description" "Generic connector, single row, 01x06"
 			(at 146.05 81.28 0)
 			(effects
 				(font
@@ -6632,11 +7015,83 @@
 		(pin "1"
 			(uuid "009bcef5-58b9-4070-ab14-a5310b75b607")
 		)
+		(pin "6"
+			(uuid "7a77eece-ddf3-4302-a647-2af617b56401")
+		)
+		(pin "5"
+			(uuid "a2ea551e-7eeb-4354-9205-350232bc2e66")
+		)
 		(instances
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5770dcd3-eb9e-472f-b743-1e3eb22ed082"
 					(reference "J20")
 					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 181.61 129.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bdb4e17b-07b5-43e1-a3e1-3a343f9ec7b1")
+		(property "Reference" "#PWR0110"
+			(at 181.61 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 181.61 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 181.61 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 181.61 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 181.61 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0c05d741-6540-43a1-84b1-b670a0226687")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_2"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5770dcd3-eb9e-472f-b743-1e3eb22ed082"
+					(reference "#PWR0110")
+					(unit 1)
 				)
 			)
 		)
@@ -7456,7 +7911,7 @@
 				)
 			)
 		)
-		(property "Value" "47K"
+		(property "Value" "100k"
 			(at 222.25 88.9 90)
 			(effects
 				(font
@@ -7615,6 +8070,76 @@
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5770dcd3-eb9e-472f-b743-1e3eb22ed082"
 					(reference "U6")
 					(unit 4)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 181.61 120.65 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ef583a75-87f1-42af-b9f5-0129171430ff")
+		(property "Reference" "R145"
+			(at 184.15 119.3799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1k"
+			(at 184.15 121.9199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 180.594 120.396 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 181.61 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 181.61 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "eab4769c-debc-4cc3-a220-0bddde975f71")
+		)
+		(pin "1"
+			(uuid "f453bb7c-beea-4c5f-a9aa-e8e7ea40a7a0")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_2"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5770dcd3-eb9e-472f-b743-1e3eb22ed082"
+					(reference "R145")
+					(unit 1)
 				)
 			)
 		)
@@ -7908,6 +8433,96 @@
 		)
 	)
 	(symbol
+		(lib_id "SynthStuff:Conn_01x06_PinHeader")
+		(at 203.2 25.4 90)
+		(mirror x)
+		(unit 5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fac3e7ea-f6fc-4aa6-8e77-ed3735aeef34")
+		(property "Reference" "J20"
+			(at 201.93 26.0349 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x06_PinHeader"
+			(at 205.74 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+			(at 203.2 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 203.2 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x06"
+			(at 203.2 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 203.2 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c964a473-67df-4709-b259-7c31f4f977c7")
+		)
+		(pin "3"
+			(uuid "3c2f3c7e-06ec-4a14-80e8-c5faabb329a7")
+		)
+		(pin "5"
+			(uuid "4acc6559-d536-448c-b77a-c0620f861e4d")
+		)
+		(pin "2"
+			(uuid "934389f5-3dc2-4129-8f34-d4172ce0f27e")
+		)
+		(pin "4"
+			(uuid "c765246a-a09f-4a88-ac1d-e2ade3b322eb")
+		)
+		(pin "6"
+			(uuid "c9e02448-425b-47d5-8cd0-09474add6410")
+		)
+		(instances
+			(project "DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_2"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/5770dcd3-eb9e-472f-b743-1e3eb22ed082"
+					(reference "J20")
+					(unit 5)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 264.16 101.6 90)
 		(unit 1)
@@ -7993,7 +8608,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "100k"
 			(at 208.28 97.79 90)
 			(effects
 				(font
