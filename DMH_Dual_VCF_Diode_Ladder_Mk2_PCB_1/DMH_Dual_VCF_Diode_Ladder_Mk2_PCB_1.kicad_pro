@@ -638,7 +638,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "DMH_Dual_VCF_Diode_Ladder_PCB_BoM.csv",
+    "bom_export_filename": "DMH_Dual_VCF_Diode_Ladder_PCB_Mk2_BoM.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
