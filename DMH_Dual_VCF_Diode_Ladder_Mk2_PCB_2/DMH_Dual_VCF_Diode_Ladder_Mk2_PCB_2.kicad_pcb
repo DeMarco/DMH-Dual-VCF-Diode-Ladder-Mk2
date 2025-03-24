@@ -4885,7 +4885,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -4898,7 +4898,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 0 0 -90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10253,7 +10253,7 @@
 				)
 			)
 		)
-		(property "Value" "20k"
+		(property "Value" "10k"
 			(at 3.81 0 180)
 			(layer "F.SilkS")
 			(uuid "02b2014c-650d-4fb5-9efb-b3ba45bd6d05")
@@ -10944,7 +10944,7 @@
 				)
 			)
 		)
-		(property "Value" "20k"
+		(property "Value" "10k"
 			(at 3.81 0 180)
 			(layer "F.SilkS")
 			(uuid "eabc7cce-f3ea-4eb1-ab9f-297eaec54ceb")
@@ -14307,7 +14307,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -14320,7 +14320,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 0 0 -90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18303,7 +18303,7 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/bd2f6810-9188-4952-bf4e-826622d3ac9b")
+		(path "/5770dcd3-eb9e-472f-b743-1e3eb22ed082/fac3e7ea-f6fc-4aa6-8e77-ed3735aeef34")
 		(sheetname "/Core Circuit B/")
 		(sheetfile "Core_Circuit_B.kicad_sch")
 		(attr through_hole)
@@ -18909,7 +18909,7 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/e93fb9ac-da67-4f8d-8914-12b86cae4fd7")
+		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/f5432a5c-3018-4e3a-9940-2cba9c72f13b")
 		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)
@@ -19217,7 +19217,7 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/b9c7f35b-c5f0-4041-8e34-33c566392157")
+		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/fbf9e92f-9a3b-40e0-b65e-8366cd1db016")
 		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
@@ -20740,6 +20740,17 @@
 		(uuid "7a5a9c92-3090-4d09-833b-2a23e1fe7062")
 	)
 	(gr_circle
+		(center 154.9 90.8)
+		(end 154.8 93.8)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "91395c16-256c-40f7-aa05-2fed18bc45dd")
+	)
+	(gr_circle
 		(center 133.5 190.25)
 		(end 138 190.25)
 		(stroke
@@ -20760,6 +20771,17 @@
 		(fill no)
 		(layer "Cmts.User")
 		(uuid "988542e1-026c-4410-999a-5d5d25662b4e")
+	)
+	(gr_circle
+		(center 45.2 91.001666)
+		(end 45.1 94.001666)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "99670fc5-c76a-42ad-a696-82923c35600f")
 	)
 	(gr_line
 		(start 171.25 56.5)
@@ -21143,6 +21165,30 @@
 				(bold yes)
 			)
 			(justify mirror)
+		)
+	)
+	(gr_text "Was 20k in Mk2 v1 Gerber by mistake"
+		(at 142 86.4 0)
+		(layer "Cmts.User")
+		(uuid "811d095f-54a2-48e1-83dd-e7260669b75e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Was 20k in Mk2 v1 Gerber by mistake"
+		(at 32.3 86.601666 0)
+		(layer "Cmts.User")
+		(uuid "f78261b9-b1eb-4f80-8540-6798360e1856")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
 		)
 	)
 	(segment
