@@ -1919,6 +1919,17 @@
 		)
 		(uuid "16f1e4cd-61cc-4831-b5cd-325157c6e851")
 	)
+	(text "Inverted\nLog Pot"
+		(exclude_from_sim no)
+		(at 93.472 130.302 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(italic yes)
+			)
+		)
+		(uuid "948845e3-3dc4-4c4e-a710-66d81cbe0bff")
+	)
 	(text "Matched"
 		(exclude_from_sim no)
 		(at 234.696 41.91 0)
@@ -4780,7 +4791,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "C100k"
 			(at 99.06 123.1901 0)
 			(effects
 				(font

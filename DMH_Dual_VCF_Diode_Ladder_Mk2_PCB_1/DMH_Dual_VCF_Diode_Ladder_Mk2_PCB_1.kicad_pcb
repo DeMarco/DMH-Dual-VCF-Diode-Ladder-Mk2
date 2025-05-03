@@ -43512,7 +43512,7 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
-		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/d953ebb0-0052-4c2a-8199-0eb5dda74af2")
+		(path "/7ad2d702-dfb7-4d49-a82d-34430dd5948f/51291d5c-c18a-43c1-ac92-856afcf7c0c5")
 		(sheetname "/Core Circuit A/")
 		(sheetfile "Core_Circuit_A.kicad_sch")
 		(attr through_hole)

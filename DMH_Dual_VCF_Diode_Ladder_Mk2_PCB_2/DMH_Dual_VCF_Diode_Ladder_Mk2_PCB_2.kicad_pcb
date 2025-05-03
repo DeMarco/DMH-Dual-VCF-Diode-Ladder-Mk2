@@ -4242,7 +4242,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "C100k"
 			(at 2.7 8.3 90)
 			(layer "F.SilkS")
 			(uuid "61dbb4df-c9b5-41be-9e66-40b6e8f1230c")
@@ -7875,7 +7875,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "C100k"
 			(at 2.7 8.3 90)
 			(layer "F.SilkS")
 			(uuid "afb31891-5ceb-4afc-b03b-49854ced7354")
@@ -17961,7 +17961,7 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/7adc2f76-08ba-4568-9bed-8467b8eeaed9")
+		(path "/ec2d44bc-ed06-4f0b-a22e-df640fa5e089/be7abd6f-4ef0-429d-b945-323a19f2d4fa")
 		(sheetname "/CV Processing/")
 		(sheetfile "CV_Processing.kicad_sch")
 		(attr through_hole)
@@ -21153,6 +21153,34 @@
 		(fill no)
 		(layer "User.9")
 		(uuid "00a9661b-bc4e-493a-9a57-d5b24a34753b")
+	)
+	(gr_text "Inverted Log"
+		(at 112.8 119.8 90)
+		(layer "F.SilkS")
+		(uuid "1a344cfd-49eb-4c6a-991e-97a2302ca430")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Inverted Log"
+		(at 88.2 119.8 90)
+		(layer "F.SilkS")
+		(uuid "5391b168-1221-453f-b092-a46064a0d705")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
 	)
 	(gr_text "Mk2.0 - March 2025"
 		(at 34.75 81.75 270)
