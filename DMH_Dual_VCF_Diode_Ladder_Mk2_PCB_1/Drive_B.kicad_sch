@@ -3850,7 +3850,6 @@
 		(in_bom yes)
 		(on_board no)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3220d215-7117-4524-b5a3-10f7ff38bd0f")
 		(property "Reference" "SW8"
 			(at 182.88 118.1099 90)
@@ -3895,6 +3894,17 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Function" "Link D&R"
+			(at 187.452 115.824 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
 			)
 		)
 		(pin "3"

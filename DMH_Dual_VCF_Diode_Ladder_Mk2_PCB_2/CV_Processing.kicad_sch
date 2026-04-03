@@ -12812,7 +12812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Function" "Link"
+		(property "Function" "Link CV"
 			(at 158.75 155.448 0)
 			(effects
 				(font

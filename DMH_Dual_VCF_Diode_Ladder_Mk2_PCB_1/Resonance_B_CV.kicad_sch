@@ -4546,6 +4546,14 @@
 				(hide yes)
 			)
 		)
+		(property "Function" "Link D&R"
+			(at 177.8 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "5d98b174-2d0e-43cf-9c7a-8e1d037222e0")
 		)

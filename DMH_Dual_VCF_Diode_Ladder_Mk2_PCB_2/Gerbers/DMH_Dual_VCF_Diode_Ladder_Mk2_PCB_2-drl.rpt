@@ -1,10 +1,10 @@
 Drill report for DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_2.kicad_pcb
-Created on 2025-03-15T21:37:24+0100
+Created on 2026-04-03T21:03:48+0200
 
 Copper Layer Stackup:
     =============================================================
     L1 :  F.Cu                      front
-    L1 :  B.Cu                      back
+    L2 :  B.Cu                      back
 
 
 Drill file 'DMH_Dual_VCF_Diode_Ladder_Mk2_PCB_2-PTH.drl' contains

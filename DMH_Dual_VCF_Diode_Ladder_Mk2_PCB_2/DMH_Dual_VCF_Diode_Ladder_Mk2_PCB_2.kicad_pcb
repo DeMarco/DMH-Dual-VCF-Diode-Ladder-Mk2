@@ -10896,7 +10896,7 @@
 				)
 			)
 		)
-		(property "Function" "Function"
+		(property "Function" "Link D&R"
 			(at 0 7.7 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -14188,7 +14188,7 @@
 				)
 			)
 		)
-		(property "Function" "Link"
+		(property "Function" "Link CV"
 			(at 0 7.7 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -16601,7 +16601,7 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/a2ebd05d-b18e-4b9e-874b-5c3337de73d6")
+		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/9c91ca2b-2f33-4afa-aeb4-e280679b569c")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(attr through_hole)
