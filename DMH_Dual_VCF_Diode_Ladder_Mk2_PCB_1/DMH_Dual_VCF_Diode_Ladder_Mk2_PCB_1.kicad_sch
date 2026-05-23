@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "58f4306d-5387-4983-bb08-41a2313fd315")
 	(paper "A4" portrait)
 	(title_block
@@ -963,11 +963,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "0cdf34b2-39cd-4d9e-981a-97cd34791509")
 		(property "Sheetname" "Power"
 			(at 17.78 113.5884 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -977,12 +979,14 @@
 		)
 		(property "Sheetfile" "Power.kicad_sch"
 			(at 17.78 140.2846 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(pin "Bus Gate" output
@@ -1026,11 +1030,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "5770dcd3-eb9e-472f-b743-1e3eb22ed082")
 		(property "Sheetname" "Core Circuit B"
 			(at 76.2 151.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1040,12 +1046,14 @@
 		)
 		(property "Sheetfile" "Core_Circuit_B.kicad_sch"
 			(at 76.2 172.0346 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(pin "Output" output
@@ -1119,11 +1127,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "76f3ab41-888d-43b6-843a-2a995f9c890b")
 		(property "Sheetname" "Drive A"
 			(at 76.2 43.7384 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1133,12 +1143,14 @@
 		)
 		(property "Sheetfile" "Drive_A.kicad_sch"
 			(at 76.2 70.4346 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(pin "Input" input
@@ -1202,11 +1214,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "7ad2d702-dfb7-4d49-a82d-34430dd5948f")
 		(property "Sheetname" "Core Circuit A"
 			(at 76.2 81.8384 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1216,12 +1230,14 @@
 		)
 		(property "Sheetfile" "Core_Circuit_A.kicad_sch"
 			(at 76.2 102.1846 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(pin "Output" output
@@ -1295,11 +1311,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "ad5c5475-8483-41b0-97cc-617422d54799")
 		(property "Sheetname" "Resonance A CV"
 			(at 76.2 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1309,12 +1327,14 @@
 		)
 		(property "Sheetfile" "Resonance_A_CV.kicad_sch"
 			(at 76.2 38.6846 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(pin "Input" input
@@ -1378,11 +1398,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "ce3fef8b-9f1d-4178-b50b-4a046c030679")
 		(property "Sheetname" "Inputs and Outputs A"
 			(at 17.78 62.7884 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1392,12 +1414,14 @@
 		)
 		(property "Sheetfile" "Inputs_and_Outputs_A.kicad_sch"
 			(at 17.78 102.1846 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(pin "Output Jack" input
@@ -1501,11 +1525,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "ec2d44bc-ed06-4f0b-a22e-df640fa5e089")
 		(property "Sheetname" "CV Processing"
 			(at 76.2 107.2384 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1515,12 +1541,14 @@
 		)
 		(property "Sheetfile" "CV_Processing.kicad_sch"
 			(at 76.2 146.6346 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(pin "CV A" output
@@ -1624,11 +1652,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "f0045393-e1d0-4de8-baba-b9053cd8a11d")
 		(property "Sheetname" "Resonance B CV"
 			(at 76.2 215.1884 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1638,12 +1668,14 @@
 		)
 		(property "Sheetfile" "Resonance_B_CV.kicad_sch"
 			(at 76.2 229.1846 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(pin "Input" input
@@ -1707,11 +1739,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "f24a7deb-7368-4909-ac96-a87cdb4f6b04")
 		(property "Sheetname" "Inputs and Outputs B"
 			(at 17.8605 151.7689 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1721,12 +1755,14 @@
 		)
 		(property "Sheetfile" "Inputs_and_Outputs_B.kicad_sch"
 			(at 17.8605 203.7846 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(pin "CV 2 Jack" output
@@ -1880,11 +1916,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "fc37885e-257b-42ac-a311-5adb1094134c")
 		(property "Sheetname" "Drive B"
 			(at 76.2 183.4384 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1894,12 +1932,14 @@
 		)
 		(property "Sheetfile" "Drive_B.kicad_sch"
 			(at 76.2 210.1346 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
 			)
 		)
 		(pin "Input" input
